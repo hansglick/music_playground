@@ -17,7 +17,7 @@ conda activate music
 
 # Applications
 
-### **Extraction des tracks d'un artiste**
+### **1. Extraction des tracks d'un artiste**
 
 L'application [app_grab_tracks](https://github.com/hansglick/music_playground/blob/master/app_grab_tracks/grabber.py) permet d'extraire l'ensemble des tracks (et leurs [meta data](https://github.com/hansglick/music_playground/blob/master/img/trackdata.PNG)) d'un artiste sous la forme d'un json. Lancez les commandes suivantes afin d'extraire la discographie de *James Ruskin* :
 
@@ -31,7 +31,9 @@ conda activate music
  * **-f** : le nom du json qui contiendra les résultats, i.e. la [discographie](https://github.com/hansglick/music_playground/blob/master/app_grab_tracks/tracks.json) de l'artiste
 
 
-### **Mise à jour du json discographie**
+***
+
+### **2. Mise à jour du json discographie**
 
 L'application [grabber_all.py](https://github.com/hansglick/music_playground/blob/master/app_grab_tracks/grabber_all.py) permet de mettre un jour un fichier json discographies qui comprend tout les tracks d'un set d'artistes. Lancez les commandes ci-dessous pour rajouter les tracks des artistes *Eyal Golan* et *Laurent Garnier* ([artistes.txt](https://raw.githubusercontent.com/hansglick/music_playground/master/app_grab_tracks/artists.txt)) au fichier discographie  `trackslist/tracks.json` :
 
