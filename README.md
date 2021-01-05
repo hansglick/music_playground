@@ -15,7 +15,7 @@ conda activate music
 
 ### **Extraction des tracks d'un artiste**
 
-L'application ***grab_tracks*** permet d'extraire l'ensemble des tracks d'un artiste sous la forme d'un json. Les arguments sont les suivants : 
+L'application ***grab_tracks*** permet d'extraire l'ensemble des tracks d'un artiste sous la forme d'un json. Comme, l'illustre l'image c-dessous, les informations récupérées sont très divers : nom, date, album/compil, features audio, etc. Les arguments de l'applicatio sont les suivants : 
  * **-a** : le nom de l'artiste
  * **-f** : le filename de json qui contiendra la discographie de l'artiste
  * [grabber.py](https://github.com/hansglick/music_playground/blob/master/grab_tracks/grabber.py)
@@ -23,7 +23,7 @@ L'application ***grab_tracks*** permet d'extraire l'ensemble des tracks d'un art
 
 ```
 conda activate music
-(music) python grab_trakcs/grabber.py -a laurent garnier -f grab_tracks/laurent_garnier_tracks.json
+(music) python grab_trakcs/grabber.py -a james ruskin -f grab_tracks/james_ruskin_tracks.json
 ```
 
 <img src="img/trackdata.PNG" width="495">
