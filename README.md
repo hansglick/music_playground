@@ -1,13 +1,6 @@
 # Overview
 
-Repository du bac à sable music. Développement de plusieurs applications liées à la musique éléctronique. Pistes possibles :
- * Artists Tracks List Extraction
- * Download Artist's Discographies on Youtube
- * Audio Features Extraction
- * Clustering Electro Music based on audio features
- * Evolution over time of Electro Music based on audio features
- * Generating song from an Artist's Style with deep learning models
- * Etc.
+Repository d'un bac à sable lié à la musique electronique et à la data science. Développement de plusieurs applications liées à la musique éléctronique. En vrac : extraction de la discographie d'un artiste, téléchargement de la discographie d'un artiste au format mp3, extraction des features audio d'un fichier mp3, clustering des tracks basés sur des features audio, évolution de la musique éléctro sur les dernières décénies basée sur les features audio, génération de morceaux d'après le style d'un artiste via des modèles deep learning, etc.
 
 
 <img src="img/musichp.PNG" width="458">
