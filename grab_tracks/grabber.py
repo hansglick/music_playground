@@ -8,12 +8,12 @@ import pandas as pd
 from fun import *
 
 def extract_tracks(args):
-	artists_list = " ".join(args.artist)
-	print(artists_list)
+	artists_list = [" ".join(args.artist)]
 	artists_data = artist_all_tracks(artists_list)
 	artists_df = df_tracks(artists_data)
 	results = artists_df.to_dict(orient="records")
-	return results
+	print(results)
+	return None
 
 
 if __name__ == "__main__":
