@@ -27,7 +27,6 @@ conda activate music
 (music) python grabber.py -a james ruskin -f tracks.json
 ```
 
-Les arguments de l'application sont les suivants : 
  * **-a** : le nom de l'artiste
  * **-f** : le nom du json qui contiendra les résultats, i.e. la [discographie](https://github.com/hansglick/music_playground/blob/master/app_grab_tracks/tracks.json) de l'artiste
 
