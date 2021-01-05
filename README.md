@@ -19,15 +19,17 @@ conda activate music
 
 ### **Extraction des tracks d'un artiste**
 
-L'application [app_grab_tracks](https://github.com/hansglick/music_playground/blob/master/app_grab_tracks/grabber.py) permet d'extraire l'ensemble des tracks d'un artiste sous la forme d'un json. Les [informations récupérées](https://github.com/hansglick/music_playground/blob/master/img/trackdata.PNG) pour le track d'un artiste sont très diverses : *nom*, *date*, *album/compil*, *features audio*, etc. Les arguments de l'application sont les suivants : 
- * **-a** : le nom de l'artiste
- * **-f** : le nom du json qui contiendra les résultats, i.e. la [discographie](https://github.com/hansglick/music_playground/blob/master/app_grab_tracks/tracks.json) de l'artiste
+L'application [app_grab_tracks](https://github.com/hansglick/music_playground/blob/master/app_grab_tracks/grabber.py) permet d'extraire l'ensemble des tracks (et leurs [meta data](https://github.com/hansglick/music_playground/blob/master/img/trackdata.PNG)) d'un artiste sous la forme d'un json. Lancez les commandes suivantes afin d'extraire la discographie de *James Ruskin* :
 
 ```
 cd app_grab_tracks
 conda activate music
 (music) python grabber.py -a james ruskin -f tracks.json
 ```
+
+Les arguments de l'application sont les suivants : 
+ * **-a** : le nom de l'artiste
+ * **-f** : le nom du json qui contiendra les résultats, i.e. la [discographie](https://github.com/hansglick/music_playground/blob/master/app_grab_tracks/tracks.json) de l'artiste
 
 
 
