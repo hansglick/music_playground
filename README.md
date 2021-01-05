@@ -1,5 +1,7 @@
 # Overview
 
+<img src="img/musichp.PNG" width="458">
+
 Repository du bac à sable music. Développement de plusieurs applications liées à la musique éléctronique.
 
 # Environnement Python
