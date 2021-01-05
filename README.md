@@ -31,5 +31,15 @@ conda activate music
  * **-f** : le nom du json qui contiendra les résultats, i.e. la [discographie](https://github.com/hansglick/music_playground/blob/master/app_grab_tracks/tracks.json) de l'artiste
 
 
+### **Mise à jour du json discographie**
 
+L'application [grabber_all.py](https://github.com/hansglick/music_playground/blob/master/app_grab_tracks/grabber_all.py) permet de mettre un jour un fichier json discographies qui comprend tout les tracks d'un set d'artistes. Lancez les commandes ci-dessous pour rajouter les tracks des artistes *Eyal Golan* et *Laurent Garnier* ([artistes.txt](https://github.com/hansglick/music_playground/blob/master/app_grab_tracks/artistes.txt)) au fichier discographie  `trackslist/tracks.json` :
 
+```
+cd app_grab_tracks
+conda activate music
+(music) python grabber_all.py -a artists.txt -f trackslist/tracks.json
+```
+
+ * **-a** : un fichier qui comprend les artistes pour lesquels on veut rajouter les tracks au fichier json discographie. Voir le [format](https://github.com/hansglick/music_playground/blob/master/app_grab_tracks/artistes.txt) 
+ * **-f** : le nom du json qui fait office de discographies. Comprend toutes les discographies. Ce fichier est mis à jour avec les nouveaux artistes présents dans le fichier qui fait office d'input `-a`
