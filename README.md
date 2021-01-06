@@ -49,7 +49,7 @@ conda activate music
 
 ### **3. Recherche des URLs YouTube de chaque track**
 
-L'application ... [grabber_urls.py](https://raw.githubusercontent.com/hansglick/music_playground/master/app_grab_tracks/artists.txt)  permet de mettre à jour le json discographie, qui représente tout les tracks de tout les artistes. L'application met à jour le json discographie ... en y ajoutant pour chaque entrée, l'url du track sur Youtube ainsi que son nombre de vues
+L'application [grabber_urls.py](https://github.com/hansglick/music_playground/blob/master/app_grab_tracks/grabber_urls.py)  permet de mettre à jour le json discographie, qui représente tout les tracks de tout les artistes. L'application met à jour le [json discographie](https://raw.githubusercontent.com/hansglick/music_playground/master/app_grab_tracks/trackslist/tracks.json)  en y ajoutant pour chaque entrée, l'url du track sur Youtube ainsi que son nombre de vues
 
 ```
 cd app_grab_tracks
@@ -61,6 +61,6 @@ conda activate music
 
 # Problemos
 
-### **Le premier résultat d'une recherche YouTube**
+### **Le premier résultat d'une recherche YouTube pas toujours pertinent**
 
 Il s'avère que Youtube galère un peu pour renvoyer la vidéo correspondant au track qu'on recherche en première position, la [vidéo suivante](https://www.youtube.com/watch?v=R-LNBZkVaeU&feature=youtu.be&ab_channel=MartinVincelot) est un screen du run de l'application grabber_urls. Chaque ligne correspond au premier résultat du moteur de recherche youtube pour la requête d'un track. Comme tu peux le voir, il ressort très souvent une interview de 01:54:00 avec 29,310 vues pour des tracks différents. Ceci étant pour des artistes plus connus, je pense qu'il ne fait pas cette erreur. Peut-être faut-il élargir la recherche au top 5 résultats ou bien "oublier" ce track pour lequel le résultat retourné a une durée beaucoup trop grande.
