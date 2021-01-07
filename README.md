@@ -6,16 +6,31 @@ Repository d'un bac à sable lié à la musique electronique et à la data scien
 <img src="img/djhp.PNG" width="622">
 
 
-# Environnement Python
+# Environnement(s) Python
 
-Afin d'utiliser les applications, on doit installer l'environnement adéquat. Pour ce faire, utilisez conda avec les commandes suivantes :
+Il existe plusieurs environnements conda à utiliser afin de pouvoir lancer les applications. Les commandes suivantes vous permette de créer l'environnement `music` et `lkdn_env`  :
 ```
 git clone https://github.com/hansglick/music_playground.git
+
 conda env create -f environment.yml
 conda activate music
+
+conda env create -f environment_scrapper.yml
+conda activate lkdn_env
 ```
 
 # Applications
+
+### **0. Scrapping des artistes electro**
+
+L'application [app_scrapper](...) permet de scrapper les artistes éléctro présent sur le site [resident advisor](...). A partir d'une liste d'urls représentant les fiches des *artistes graines* du scrapper, on récupère un python dict enregistré au format pickle qui contient tout les artistes et quelques meta data à leur propos. Pour lancer les commandes suivantes afin de run le scrapper : 
+
+```
+cd app_scrapper
+conda activate lkdn_env
+(lkdn_env) python artist_scrapper.py
+```
+Afin de modifier les graines du scrapper, modifiez la variable `graine_app` dans le fichier [artist_scrapper.py](...). L'application enregistre régulièrement les résultats et si elle est stopée, elle reprend automatiquement là où elle s'était arrêtée, donc pas de problèmes.
 
 ### **1. Extraction des tracks d'un artiste**
 
