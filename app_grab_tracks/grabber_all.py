@@ -57,6 +57,9 @@ def update_tracks_file(args):
 	for commandbash in commandbashes:
 		print(commandbash)
 		cp = subprocess.run([commandbash],shell = True, capture_output = True)
+		print("")
+		#print(cp.stdout)
+		#print("")
 		with open(directory + "trackslist/temp.json") as json_file: 
 			temp_tracks = json.load(json_file)
 		tracks = tracks+temp_tracks

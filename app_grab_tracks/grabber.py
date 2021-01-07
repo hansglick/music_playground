@@ -9,13 +9,24 @@ import pandas as pd
 from fun import *
 
 def extract_tracks(args):
-	artists_list = [" ".join(args.artist)]
-	filename = args.filename
-	artists_data = artist_all_tracks(artists_list)
-	artists_df = df_tracks(artists_data)
-	results = artists_df.to_dict(orient="records")
+	artist_name = [" ".join(args.artist)][0]
+	filename = args.filename	
+	
+	artist_uri,artist_str = Get_Artist_Id(artist_name)
+	print(artist_str)
+	print("")
+	tracks_objects = Get_Potential_Tracks(artist_uri)
+	print("")
+	discography = Clean_Potential_Tracks(tracks_objects,artist_uri,artist_str)
+	print("")
+	print("")
+	print("Save JSON File")
+
 	with open(filename, 'w') as outfile:
-		json.dump(results, outfile)
+		json.dump(discography, outfile)
+	print("")
+	print("")
+	print("")
 	return None
 
 

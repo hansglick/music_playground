@@ -9,145 +9,104 @@ client_secret = 'b918bb0cd7dc4e7e925decce5b229710'
 client_credentials_manager = SpotifyClientCredentials(client_id=client_id, client_secret=client_secret)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
-def artist_tracks(artists):
-    
-    '''
-    Takes a list of artist names, iterates through their Spotify albums, checks for 
-    duplicate albums, then appends all the tracks in those albums to a list of lists
-    '''
-    
-    # Each list in this list will be a track and its features
-    tracks = []
-    
-    
-    
-    for artist in tqdm_notebook(artists):
+
+def Get_Artist_Id(artist_name):
+   
+    """
+    Renvoie le spotify artist uri à partir du nom d'un artiste
+    """
+   
+    artist_uri = sp.search(artist_name)['tracks']['items'][0]['artists'][0]['uri']
+    artist_str = sp.search(artist_name)['tracks']['items'][0]['artists'][0]["name"]
+   
+    return artist_uri,artist_str
+
+
+def Get_Potential_Tracks(artist_uri):
+   
+    """
+    Renvoie tout les tracks succeptibles de provenir d'un artiste
+    On rajoute un item albumid
+    """
+   
+    n = 0
+    tracks_objects = []
+   
+    while True:
         
-        # Get the artist URI (a unique ID)
-        artist_uri = sp.search(artist)['tracks']['items'][0]['artists'][0]['uri']
-
-        # Spotify has a lot of duplicate albums, but we'll cross-reference them with this list to avoid extra loops
-        album_checker = []
+        print("Exploring pages : ",str(n))
         
-        # The starting point of our loop of albums for those artists with more than 50
-        n = 0
+        albums_objects = sp.artist_albums(artist_uri,limit = 50,offset = n)
+        cdt = len(sp.artist_albums(artist_uri,limit=50, offset = n)['items']) > 0
+        if not cdt:
+            break
+       
+        albums_ids = [(album["uri"],album["name"],album["album_type"]) for album in albums_objects["items"]]
         
-        # Note the album_type = 'album'. This discounts singles, compilations and collaborations
-        while len(sp.artist_albums(artist_uri, album_type = 'album', limit=50, offset = n)['items']) > 0:
+        for albumid,albumname,albumtype in albums_ids:
             
-            # Avoid overloading Spotify with requests by assigning the list of album dictionaries to a variable
-            dict_list = sp.artist_albums(artist_uri, album_type = 'album', limit=50, offset = n)['items']
+            temptracks = sp.album_tracks(albumid)["items"]
             
-            for i, album in tqdm_notebook(enumerate(dict_list)):
+            for track in temptracks:
+                track["album"] = {"uri":albumid,"name":albumname,"type":albumtype}
+            tracks_objects = tracks_objects + temptracks
+           
+        n = n +50
 
-                # Add the featured artists for the album in question to the checklist
-                check_this_album = [j['name'] for j in dict_list[i]['artists']]
-                # And the album name
-                check_this_album.append(dict_list[i]['name'])
-                # And its date
-                check_this_album.append(dict_list[i]['release_date'])
-
-                # Only continue looping if that album isn't in the checklist
-                if check_this_album not in album_checker:
-                    
-                    # Add this album to the checker
-                    album_checker.append(check_this_album)
-                    # For every song on the album, get its descriptors and features in a list and add to the tracklist
-                    tracks.extend([[artist, album['name'], album['uri'], song['name'],
-
-                      album['release_date']] + list(sp.audio_features(song['uri'])[0].values()) 
-                                   for song in sp.album_tracks(album['uri'])['items']])
-            
-            # Go through the next 50 albums (otherwise we'll get an infinite while loop)
-            n += 50
-
-    return tracks
+    return tracks_objects
 
 
 
-
-def df_tracks(tracklist):
-    
-    '''
-    Takes the output of artist_tracks (i.e. a list of lists),
-    puts it in a dataframe and formats it.
-    '''
-
-    df = pd.DataFrame(tracklist, columns=['artist',
-     'album_name',
-     'album_uri',
-     'track',
-     'release_date'] + list(sp.audio_features('7tr2za8SQg2CI8EDgrdtNl')[0].keys()))
-
-    df.rename(columns={'uri':'song_uri'}, inplace=True)
-
-    df.drop_duplicates(subset=['artist', 'track', 'release_date'], inplace=True)
-
-    # Reorder the cols to have identifiers first, auditory features last
-    cols = ['artist', 'album_name', 'album_uri', 'track', 'release_date', 'id', 'song_uri', 'track_href',
-     'analysis_url', 'type', 'danceability', 'energy', 'key',  'loudness', 'mode', 'speechiness',
-     'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo', 'duration_ms', 'time_signature']
-
-    df = df[cols]
-    
-    return df
-
-
-
-
-
-
-def artist_all_tracks(artists):
-    
-    '''
-    Takes a list of artist names, iterates through their Spotify albums (including
-    singles, compilations and collaborations), checks for duplicate albums, then
-    appends all the tracks in those albums to a list of lists
-    '''
-    
-    # Each list in this list will be a track and its features
-    tracks = []
-    
-    
-    
-    for artist in tqdm_notebook(artists):
+def Clean_Potential_Tracks(tracks_objects,artist_uri,artist_str,verbose=True):
+   
+    """
+    A partir d'une liste de tracks objects,
+    On renvoie les tracks dont l'auteur est l'artiste
+    """
+   
+    cleaned_tracks_objects = []
+    print("Browsing Tracks ...")
+    for idtrackobj,trackobj in enumerate(tracks_objects):
         
-        # Get the artist URI (a unique ID)
-        artist_uri = sp.search(artist)['tracks']['items'][0]['artists'][0]['uri']
-
-        # Spotify has a lot of duplicate albums, but we'll cross-reference them with this list to avoid extra loops
-        album_checker = []
+        # TO PRINT
+        if verbose:
+            toprint = "\r" + str(idtrackobj + 1) + "/" + str(len(tracks_objects))
+            print(toprint,end="",flush=True)
         
-        # The starting point of our loop of albums for those artists with more than 50
-        n = 0
-        
-        # Note that here we include singles, compilations and collaborations in the albums to loop through
-        while len(sp.artist_albums(artist_uri, limit=50, offset = n)['items']) > 0:
-            
-            # Avoid overloading Spotify with requests by assigning the list of album dictionaries to a variable
-            dict_list = sp.artist_albums(artist_uri, limit=50, offset = n)['items']
-            
-            for i, album in tqdm_notebook(enumerate(dict_list)):
+        track_artists_ids = [(item["uri"],item["name"]) for item in trackobj["artists"]]
+        #print(track_artists_ids)
+        #track_artists_ids = [item["uri"] for item in trackobj["artists"]]
 
-                # Add the featured artists for the album in question to the checklist
-                check_this_album = [j['name'] for j in dict_list[i]['artists']]
-                # And the album name
-                check_this_album.append(dict_list[i]['name'])
-                # And its date
-                check_this_album.append(dict_list[i]['release_date'])
+        if artist_uri in [item[0] for item in track_artists_ids]:
+            trackuri = trackobj["uri"]
+            audiofeatures= sp.audio_features(trackuri)[0]
+            featuring_ids = [item for item in track_artists_ids if item[0] != artist_uri]
+            #featuring_ids = [item for item in track_artists_ids if item != artist_uri]
+            track_informations = {"artist":artist_uri,
+                                  "artist_str" : artist_str,
+                                  "featuring":featuring_ids,
+                                  "piste":trackobj["track_number"],
+                                  "album":trackobj["album"],
+                                  "duration":trackobj["duration_ms"],
+                                  "name":trackobj["name"],
+                                  "track":trackuri,
+                                  "features":audiofeatures}
+           
+            cleaned_tracks_objects.append(track_informations)
+   
+    return cleaned_tracks_objects
 
-                # Only continue looping if that album isn't in the checklist
-                if check_this_album not in album_checker:
-                    
-                    # Add this album to the checker
-                    album_checker.append(check_this_album)
-                    # For every song on the album, get its descriptors and features in a list and add to the tracklist
-                    tracks.extend([[artist, album['name'], album['uri'], song['name'],
 
-                      album['release_date']] + list(sp.audio_features(song['uri'])[0].values()) 
-                                   for song in sp.album_tracks(album['uri'])['items']])
-            
-            # Go through the next 50 albums (otherwise we'll get an infinite while loop)
-            n += 50
 
-    return tracks
+def Retrieve_Artist_Discography(artist_name):
+   
+    """
+    Renvoie un JSON qui représente la discographie d'un artiste
+    """
+   
+    artist_uri = Get_Artist_Id(artist_name)
+    tracks_objects = Get_Potential_Tracks(artist_uri)
+    discography = Clean_Potential_Tracks(tracks_objects,artist_uri)
+   
+    return discography
+
