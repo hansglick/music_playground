@@ -15,13 +15,13 @@ def update_tracks_with_urls(args):
 	# FIND URLS
 	for iditem,item in enumerate(tracks):
 
-		if "search_results" not in item:
+		if "youtube" not in item:
 
-			artist = item["artist"]
-			songname = item["track"]
-			request = artist + " " + songname
+			artist = item["artist_str"]
+			songname = item["name"]
+			request = artist + " - " + songname
 			search_results = YoutubeSearch(request, max_results=1).to_dict()
-			item["search_results"] = search_results
+			item["youtube"] = search_results
 
 			try:
 				pct = round(((iditem+1)/len(tracks)),2) * 100

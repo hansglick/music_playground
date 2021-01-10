@@ -25,7 +25,7 @@ def extract_tracks(args):
 		print("Save JSON File")
 
 		with open(filename, 'w') as outfile:
-			json.dump(discography, outfile)
+			json.dump(discography, outfile,indent=4, sort_keys=True)
 		print("")
 		print("")
 		print("")
