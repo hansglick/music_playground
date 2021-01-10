@@ -12,7 +12,9 @@ def extract_tracks(args):
 	
 	artist_name = [" ".join(args.artist)][0]
 	filename = args.filename	
-	
+	deduplicated_discography = []
+	stockage = []
+
 	try:
 		artist_uri,artist_str = Get_Artist_Id(artist_name)
 		print(artist_str)
@@ -22,10 +24,16 @@ def extract_tracks(args):
 		discography = Clean_Potential_Tracks(tracks_objects,artist_uri,artist_str)
 		print("")
 		print("")
-		print("Save JSON File")
+		print("deduplication")
+		# On choisit name au trackid parce que la reuqete youtube ne dépend que du name et pas du trackid de spotify
+		for item in discography:
+			if item["name"] not in stockage:
+				stockage.append(item["name"])
+				deduplicated_discography.append(item)
 
+		print("Save JSON File")
 		with open(filename, 'w') as outfile:
-			json.dump(discography, outfile,indent=4, sort_keys=True)
+			json.dump(deduplicated_discography, outfile,indent=4, sort_keys=True)
 		print("")
 		print("")
 		print("")
