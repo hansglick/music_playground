@@ -68,7 +68,8 @@ def update_tracks_file(args):
 	# SAVE JSON FILE
 	print("Save results in json file")
 	with open(saved_tracks_filename, 'w') as outfile:
-		json.dump(tracks, outfile)
+		#json.dump(tracks, outfile)
+		json.dump(tracks, outfile,indent=4, sort_keys=True)
 
 
 	return None

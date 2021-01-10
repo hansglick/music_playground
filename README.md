@@ -23,7 +23,7 @@ conda activate lkdn_env
 
 ### **0. Scrapping des artistes electro**
 
-L'application [app_scrapper](...) permet de scrapper les artistes éléctro présent sur le site [resident advisor](...). A partir d'une liste d'urls représentant les fiches des *artistes graines* du scrapper, on récupère un python dict enregistré au format pickle qui contient tout les artistes et quelques meta data à leur propos. Pour lancer les commandes suivantes afin de run le scrapper : 
+L'application [app_artist_scrapper](...) permet de scrapper les artistes éléctro présent sur le site [resident advisor](...). A partir d'une liste d'urls représentant les fiches des *artistes graines* du scrapper, on récupère un python dict enregistré au format pickle qui contient tout les artistes et quelques meta data à leur propos. Pour lancer les commandes suivantes afin de run le scrapper : 
 
 ```
 cd app_scrapper
@@ -31,6 +31,8 @@ conda activate lkdn_env
 (lkdn_env) python artist_scrapper.py
 ```
 Afin de modifier les graines du scrapper, modifiez la variable `graine_app` dans le fichier [artist_scrapper.py](...). L'application enregistre régulièrement les résultats et si elle est stopée, elle reprend automatiquement là où elle s'était arrêtée, donc pas de problèmes.
+
+***
 
 ### **1. Extraction des tracks d'un artiste**
 
@@ -61,6 +63,7 @@ conda activate music
  * **-a** : un fichier qui comprend les artistes pour lesquels on veut rajouter les tracks au fichier json discographie. Voir le [format](https://raw.githubusercontent.com/hansglick/music_playground/master/app_grab_tracks/artists.txt) 
  * **-f** : le nom du json qui fait office de discographies. Comprend toutes les discographies. Ce fichier est mis à jour avec les nouveaux artistes présents dans le fichier qui fait office d'input `-a`
 
+***
 
 ### **3. Recherche des URLs YouTube de chaque track**
 

@@ -9,24 +9,31 @@ import pandas as pd
 from fun import *
 
 def extract_tracks(args):
+	
 	artist_name = [" ".join(args.artist)][0]
 	filename = args.filename	
 	
-	artist_uri,artist_str = Get_Artist_Id(artist_name)
-	print(artist_str)
-	print("")
-	tracks_objects = Get_Potential_Tracks(artist_uri)
-	print("")
-	discography = Clean_Potential_Tracks(tracks_objects,artist_uri,artist_str)
-	print("")
-	print("")
-	print("Save JSON File")
+	try:
+		artist_uri,artist_str = Get_Artist_Id(artist_name)
+		print(artist_str)
+		print("")
+		tracks_objects = Get_Potential_Tracks(artist_uri)
+		print("")
+		discography = Clean_Potential_Tracks(tracks_objects,artist_uri,artist_str)
+		print("")
+		print("")
+		print("Save JSON File")
 
-	with open(filename, 'w') as outfile:
-		json.dump(discography, outfile)
-	print("")
-	print("")
-	print("")
+		with open(filename, 'w') as outfile:
+			json.dump(discography, outfile)
+		print("")
+		print("")
+		print("")
+
+	except:
+		print("Artiste non existant dans la database de spotify")
+		print("le json enregistré est vide")
+
 	return None
 
 
