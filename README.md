@@ -36,7 +36,7 @@ Afin de modifier les graines du scrapper, modifiez la variable `graine_app` dans
 
 ### **1. Extraction des tracks d'un artiste**
 
-L'application [app_grab_tracks](https://github.com/hansglick/music_playground/blob/master/app_grab_tracks/grabber.py) permet d'extraire l'ensemble des tracks (et leurs [meta data](https://github.com/hansglick/music_playground/blob/master/img/trackdata.PNG)) d'un artiste sous la forme d'un json. Lancez les commandes suivantes afin d'extraire la discographie de *James Ruskin* :
+L'application [app_grab_tracks](https://github.com/hansglick/music_playground/blob/master/app_grab_tracks/grabber.py) permet d'extraire l'ensemble des tracks (et leurs [meta data](https://github.com/hansglick/music_playground/blob/master/img/trackdata1.PNG)) d'un artiste sous la forme d'un json. Lancez les commandes suivantes afin d'extraire la discographie de *James Ruskin* :
 
 ```
 cd app_grab_tracks
@@ -80,6 +80,20 @@ conda activate music
 (music) python grabber_youtube_links.py -f trackslist/tracks.json
 ```
  * **-f** : le nom du json qui fait office de discographies. Comprend tout les tracks de tout les artistes. Ce fichier est mis à jour en ajoutant pour chaque entrée, un nouveau dictionnaire comprenant les meta data du 1er résultat retourné par le moteur de recherche de YouTube lorsque la requête est égale à la concaténation de `Artiste` + `TrackName`
+
+# Les données récupérées
+
+Le fichier [trackslist/tracks.json](https://raw.githubusercontent.com/hansglick/music_playground/master/app_grab_tracks/trackslist/tracks.json) comprend tout les tracks des artistes sélectionnés. Chaque entrée correspond à un morceau d'un artiste que l'on s'apprête à télécharger. Le details des informations récupérées pour un track :
+
+
+<img src="img/trackdata.PNG" width="691">
+
+ * **ALBUM** : entrée comportant des informations relatives à l'album ou bien l'EP contenant le track
+ * **FEATURES** : entrée comportant les features audio extraites par Spotify
+ * **YOUTUBE** : entrée comportant les informations relatives à la vidéo youtube contenant le track
+ * **FEATURING** : entrée comportant les informations relatives aux artistes invités sur le morceau
+ * **artist_str** : le nom de l'artiste
+ * **name** : le nom du morceau
 
 
 # Problemos

@@ -41,7 +41,7 @@ def update_tracks_with_urls(args):
 	# SAVE DISCOGRAPHIES
 	print("Saving results in discographies json")
 	with open(tracks_filename, 'w') as outfile:
-		json.dump(tracks, outfile)
+		json.dump(tracks, outfile,indent=4, sort_keys=True)
 
 	
 

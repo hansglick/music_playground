@@ -27,8 +27,8 @@ def extract_tracks(args):
 		print("deduplication")
 		# On choisit name au trackid parce que la reuqete youtube ne dépend que du name et pas du trackid de spotify
 		for item in discography:
-			if item["name"] not in stockage:
-				stockage.append(item["name"])
+			if item["name"].strip().lower() not in stockage:
+				stockage.append(item["name"].strip().lower())
 				deduplicated_discography.append(item)
 
 		print("Save JSON File")
@@ -39,6 +39,8 @@ def extract_tracks(args):
 		print("")
 
 	except:
+		with open(filename, 'w') as outfile:
+			json.dump([{}], outfile,indent=4, sort_keys=True)
 		print("Artiste non existant dans la database de spotify")
 		print("le json enregistré est vide")
 

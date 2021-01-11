@@ -1319,45 +1319,6 @@
     },
     {
         "album": {
-            "name": "Urban Radio Vibes, Vol. 5 (Deep & Tech House Radio Mix Selection)",
-            "type": "compilation",
-            "uri": "spotify:album:6UXDipab5qGfEtFp7eGrDn"
-        },
-        "artist": "spotify:artist:7keGfmQR4X5w0two1xKZ7d",
-        "artist_str": "Kungs",
-        "duration": 188144,
-        "features": {
-            "acousticness": 0.000351,
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0IWxpJFDMLMLbUgGzjcyKz",
-            "danceability": 0.553,
-            "duration_ms": 188144,
-            "energy": 0.786,
-            "id": "0IWxpJFDMLMLbUgGzjcyKz",
-            "instrumentalness": 0.0166,
-            "key": 8,
-            "liveness": 0.044,
-            "loudness": -8.847,
-            "mode": 1,
-            "speechiness": 0.0303,
-            "tempo": 125.007,
-            "time_signature": 4,
-            "track_href": "https://api.spotify.com/v1/tracks/0IWxpJFDMLMLbUgGzjcyKz",
-            "type": "audio_features",
-            "uri": "spotify:track:0IWxpJFDMLMLbUgGzjcyKz",
-            "valence": 0.169
-        },
-        "featuring": [
-            [
-                "spotify:artist:7f5Zgnp2spUuuzKplmRkt7",
-                "Lost Frequencies"
-            ]
-        ],
-        "name": "Are You with Me - Kungs Radio Edit",
-        "piste": 1,
-        "track": "spotify:track:0IWxpJFDMLMLbUgGzjcyKz"
-    },
-    {
-        "album": {
             "name": "The Sound Of Indie Dance, Vol. 05",
             "type": "compilation",
             "uri": "spotify:album:4vboFUmfEztq9FMaai1Wfx"
@@ -1394,45 +1355,6 @@
         "name": "Sacellum - Kungs Remix",
         "piste": 18,
         "track": "spotify:track:1y8SAY4bdVdbXvG2NMG699"
-    },
-    {
-        "album": {
-            "name": "Girls Love House - House Collection, Vol. 32",
-            "type": "compilation",
-            "uri": "spotify:album:5MmWULq8v5qWwDNvSi7qqd"
-        },
-        "artist": "spotify:artist:7keGfmQR4X5w0two1xKZ7d",
-        "artist_str": "Kungs",
-        "duration": 234477,
-        "features": {
-            "acousticness": 0.000405,
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2RuVUVY6VE5VWlllnL0fo2",
-            "danceability": 0.57,
-            "duration_ms": 234477,
-            "energy": 0.725,
-            "id": "2RuVUVY6VE5VWlllnL0fo2",
-            "instrumentalness": 0.0665,
-            "key": 5,
-            "liveness": 0.0709,
-            "loudness": -9.215,
-            "mode": 0,
-            "speechiness": 0.029,
-            "tempo": 124.994,
-            "time_signature": 4,
-            "track_href": "https://api.spotify.com/v1/tracks/2RuVUVY6VE5VWlllnL0fo2",
-            "type": "audio_features",
-            "uri": "spotify:track:2RuVUVY6VE5VWlllnL0fo2",
-            "valence": 0.202
-        },
-        "featuring": [
-            [
-                "spotify:artist:7f5Zgnp2spUuuzKplmRkt7",
-                "Lost Frequencies"
-            ]
-        ],
-        "name": "Are You with Me - Kungs Remix",
-        "piste": 6,
-        "track": "spotify:track:2RuVUVY6VE5VWlllnL0fo2"
     },
     {
         "album": {

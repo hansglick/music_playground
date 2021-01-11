@@ -24,7 +24,9 @@ def update_tracks_file(args):
 	requested_artists = []
 	with open(artists_filename) as file:
 		for l in file:
-			requested_artists.append(l.strip())
+			thename = l.strip().lower()
+			if len(thename)>0:
+				requested_artists.append(thename)
 
 	# PATH FILENAME
 	saved_tracks_filename = directory + tracks_filename
@@ -41,7 +43,7 @@ def update_tracks_file(args):
 	if file_exist:
 		with open(saved_tracks_filename) as json_file: 
 			tracks = json.load(json_file) 
-		saved_artists = list(set([item["artist"] for item in tracks]))    
+		saved_artists = list(set([item["artist"].strip().lower() for item in tracks]))    
 		cleaned_requested_artists = [artist for artist in requested_artists if artist not in saved_artists]
 		
 	else:
@@ -62,7 +64,8 @@ def update_tracks_file(args):
 		#print("")
 		with open(directory + "trackslist/temp.json") as json_file: 
 			temp_tracks = json.load(json_file)
-		tracks = tracks+temp_tracks
+		if len(temp_tracks[0])>0:
+			tracks = tracks+temp_tracks
 
 
 	# SAVE JSON FILE
