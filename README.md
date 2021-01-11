@@ -95,7 +95,7 @@ conda activate music
 ```
 
  * *Remarque importante* : il est nécessaire d'avoir installer **jq** et **ffmpeg** pour faire tourner l'application. Pour ce faire : `sudo apt-get install jq` et `sudo apt-get install ffmpeg`
-
+ * Les fichiers mp3 sont présents dans ce [repository](https://github.com/hansglick/music_playground/tree/master/app_grab_audio)
 
 
 
