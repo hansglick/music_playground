@@ -85,7 +85,7 @@ conda activate music
 
  ### **4. Téléchargment des tracks au format mp3**
 
-L'application [dwlsongs.sh](...) permet de télécharger les pistes audio au format mp3 sur le site YouTube. Il prend en entrée le fichier json [trackslist/tracks.json](https://raw.githubusercontent.com/hansglick/music_playground/master/app_grab_tracks/trackslist/tracks.json) qui contient les informations récupérées de tout les tracks. Il est nécessaire d'avoir run au préalable l'application `grapper_youtube_links.py` au préalable pour récupérer l'adresse url du track
+L'application [dwlsongs.sh](https://github.com/hansglick/music_playground/blob/master/app_grab_audio/dwlsongs.sh) permet de télécharger les pistes audio au format mp3 sur le site YouTube. Il prend en entrée le fichier json [trackslist/tracks.json](https://raw.githubusercontent.com/hansglick/music_playground/master/app_grab_tracks/trackslist/tracks.json) qui contient les informations récupérées de tout les tracks. Il est nécessaire d'avoir run au préalable l'application `grapper_youtube_links.py` au préalable pour récupérer l'adresse url du track
 
 ```
 cd app_grab_audio
