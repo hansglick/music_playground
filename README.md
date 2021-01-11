@@ -81,6 +81,25 @@ conda activate music
 ```
  * **-f** : le nom du json qui fait office de discographies. Comprend tout les tracks de tout les artistes. Ce fichier est mis à jour en ajoutant pour chaque entrée, un nouveau dictionnaire comprenant les meta data du 1er résultat retourné par le moteur de recherche de YouTube lorsque la requête est égale à la concaténation de `Artiste` + `TrackName`
 
+ ***
+
+ ### **4. Téléchargment des tracks au format mp3**
+
+L'application [dwlsongs.sh](...) permet de télécharger les pistes audio au format mp3 sur le site YouTube. Il prend en entrée le fichier json [trackslist/tracks.json](https://raw.githubusercontent.com/hansglick/music_playground/master/app_grab_tracks/trackslist/tracks.json) qui contient les informations récupérées de tout les tracks. Il est nécessaire d'avoir run au préalable l'application `grapper_youtube_links.py` au préalable pour récupérer l'adresse url du track
+
+```
+cd app_grab_audio
+conda activate music
+(music) bash dwlsongs.sh trackslist/tracks.json
+
+```
+
+ * *Remarque importante* : il est nécessaire d'avoir installer **jq** et **ffmpeg** pour faire tourner l'application. Pour ce faire : `sudo apt-get install jq` et `sudo apt-get install ffmpeg`
+
+
+
+
+
 # Les données récupérées
 
 Le fichier [trackslist/tracks.json](https://raw.githubusercontent.com/hansglick/music_playground/master/app_grab_tracks/trackslist/tracks.json) comprend tout les tracks des artistes sélectionnés. Chaque entrée correspond à un morceau d'un artiste que l'on s'apprête à télécharger. Le details des informations récupérées pour un track :
