@@ -3,12 +3,12 @@ import json
 import os.path
 import argparse
 import sys
-
+from fun import *
 
 
 # HARDCODED PARAMETERS
-directory = "/home/osboxes/proj/music_playground/app_grab_tracks/"
-which_python = "/home/osboxes/anaconda3/envs/music/bin/python"
+directory = "/home/loic/proj/music_playground/app_grab_tracks/"
+which_python = "/home/loic/anaconda3/envs/music/bin/python"
 
 
 
@@ -28,6 +28,10 @@ def update_tracks_file(args):
 			if len(thename)>0:
 				requested_artists.append(thename)
 
+	requested_artists = [Get_Artist_Id(item)[1].strip().lower() for item in requested_artists if len(Get_Artist_Id(item)[1])>0]
+	requested_artists = list(set(requested_artists))
+	print(requested_artists)
+
 	# PATH FILENAME
 	saved_tracks_filename = directory + tracks_filename
 
@@ -41,12 +45,16 @@ def update_tracks_file(args):
 
 	# DEFINITION DES CLEAN REQUESTS ARTISTS ET TRACKS
 	if file_exist:
+		print("ca exist")
 		with open(saved_tracks_filename) as json_file: 
 			tracks = json.load(json_file) 
-		saved_artists = list(set([item["artist"].strip().lower() for item in tracks]))    
+		saved_artists = list(set([item["artist_str"].strip().lower() for item in tracks]))
+		print(saved_artists)    
 		cleaned_requested_artists = [artist for artist in requested_artists if artist not in saved_artists]
-		
+		print(cleaned_requested_artists)
+
 	else:
+		print("ca exist pas")
 		tracks = []
 		cleaned_requested_artists = requested_artists
 

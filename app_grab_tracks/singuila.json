@@ -1,0 +1,4951 @@
+[
+    {
+        "album": {
+            "name": "Entre 2",
+            "type": "album",
+            "uri": "spotify:album:3E0iPg7I434LlrpK6LL2aS"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 212160,
+        "features": {
+            "acousticness": 0.143,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5uxrjkuPBjB0seVKIOC3K8",
+            "danceability": 0.74,
+            "duration_ms": 212160,
+            "energy": 0.889,
+            "id": "5uxrjkuPBjB0seVKIOC3K8",
+            "instrumentalness": 0,
+            "key": 8,
+            "liveness": 0.184,
+            "loudness": -3.327,
+            "mode": 1,
+            "speechiness": 0.0746,
+            "tempo": 100.048,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/5uxrjkuPBjB0seVKIOC3K8",
+            "type": "audio_features",
+            "uri": "spotify:track:5uxrjkuPBjB0seVKIOC3K8",
+            "valence": 0.532
+        },
+        "featuring": [],
+        "name": "Retour de flamme",
+        "piste": 1,
+        "track": "spotify:track:5uxrjkuPBjB0seVKIOC3K8"
+    },
+    {
+        "album": {
+            "name": "Entre 2",
+            "type": "album",
+            "uri": "spotify:album:3E0iPg7I434LlrpK6LL2aS"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 227480,
+        "features": {
+            "acousticness": 0.187,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2EWDQBDhhfa7zWxpoy2VDA",
+            "danceability": 0.817,
+            "duration_ms": 227480,
+            "energy": 0.849,
+            "id": "2EWDQBDhhfa7zWxpoy2VDA",
+            "instrumentalness": 0,
+            "key": 8,
+            "liveness": 0.153,
+            "loudness": -4.749,
+            "mode": 1,
+            "speechiness": 0.0781,
+            "tempo": 101.022,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2EWDQBDhhfa7zWxpoy2VDA",
+            "type": "audio_features",
+            "uri": "spotify:track:2EWDQBDhhfa7zWxpoy2VDA",
+            "valence": 0.931
+        },
+        "featuring": [],
+        "name": "O\u00f9 est ma douce",
+        "piste": 2,
+        "track": "spotify:track:2EWDQBDhhfa7zWxpoy2VDA"
+    },
+    {
+        "album": {
+            "name": "Entre 2",
+            "type": "album",
+            "uri": "spotify:album:3E0iPg7I434LlrpK6LL2aS"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 253706,
+        "features": {
+            "acousticness": 0.0509,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/64qRHFgKl9r2WMqrG7R9Bv",
+            "danceability": 0.403,
+            "duration_ms": 253707,
+            "energy": 0.704,
+            "id": "64qRHFgKl9r2WMqrG7R9Bv",
+            "instrumentalness": 0,
+            "key": 5,
+            "liveness": 0.201,
+            "loudness": -7.438,
+            "mode": 1,
+            "speechiness": 0.064,
+            "tempo": 169.669,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/64qRHFgKl9r2WMqrG7R9Bv",
+            "type": "audio_features",
+            "uri": "spotify:track:64qRHFgKl9r2WMqrG7R9Bv",
+            "valence": 0.395
+        },
+        "featuring": [],
+        "name": "Retomber sur mes pieds",
+        "piste": 3,
+        "track": "spotify:track:64qRHFgKl9r2WMqrG7R9Bv"
+    },
+    {
+        "album": {
+            "name": "Entre 2",
+            "type": "album",
+            "uri": "spotify:album:3E0iPg7I434LlrpK6LL2aS"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 198626,
+        "features": {
+            "acousticness": 0.205,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3swANcVfDT1sJZQImkKC41",
+            "danceability": 0.683,
+            "duration_ms": 198627,
+            "energy": 0.489,
+            "id": "3swANcVfDT1sJZQImkKC41",
+            "instrumentalness": 0,
+            "key": 8,
+            "liveness": 0.0437,
+            "loudness": -5.542,
+            "mode": 0,
+            "speechiness": 0.0836,
+            "tempo": 109.939,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/3swANcVfDT1sJZQImkKC41",
+            "type": "audio_features",
+            "uri": "spotify:track:3swANcVfDT1sJZQImkKC41",
+            "valence": 0.798
+        },
+        "featuring": [],
+        "name": "Ay mama",
+        "piste": 4,
+        "track": "spotify:track:3swANcVfDT1sJZQImkKC41"
+    },
+    {
+        "album": {
+            "name": "Entre 2",
+            "type": "album",
+            "uri": "spotify:album:3E0iPg7I434LlrpK6LL2aS"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 251040,
+        "features": {
+            "acousticness": 0.00624,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2642Ei5zBzKuKLbR5IJtSd",
+            "danceability": 0.522,
+            "duration_ms": 251040,
+            "energy": 0.588,
+            "id": "2642Ei5zBzKuKLbR5IJtSd",
+            "instrumentalness": 0,
+            "key": 8,
+            "liveness": 0.0826,
+            "loudness": -7.679,
+            "mode": 0,
+            "speechiness": 0.115,
+            "tempo": 139.88,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2642Ei5zBzKuKLbR5IJtSd",
+            "type": "audio_features",
+            "uri": "spotify:track:2642Ei5zBzKuKLbR5IJtSd",
+            "valence": 0.573
+        },
+        "featuring": [],
+        "name": "I Love Paris",
+        "piste": 5,
+        "track": "spotify:track:2642Ei5zBzKuKLbR5IJtSd"
+    },
+    {
+        "album": {
+            "name": "Entre 2",
+            "type": "album",
+            "uri": "spotify:album:3E0iPg7I434LlrpK6LL2aS"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 235920,
+        "features": {
+            "acousticness": 0.103,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6iURXHPtNq3q6KdklmBkW2",
+            "danceability": 0.875,
+            "duration_ms": 235920,
+            "energy": 0.617,
+            "id": "6iURXHPtNq3q6KdklmBkW2",
+            "instrumentalness": 0,
+            "key": 6,
+            "liveness": 0.0966,
+            "loudness": -7.263,
+            "mode": 0,
+            "speechiness": 0.267,
+            "tempo": 148.064,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/6iURXHPtNq3q6KdklmBkW2",
+            "type": "audio_features",
+            "uri": "spotify:track:6iURXHPtNq3q6KdklmBkW2",
+            "valence": 0.803
+        },
+        "featuring": [
+            [
+                "spotify:artist:6qFt3TjvxMt77YGsktWG8Z",
+                "Sofiane"
+            ]
+        ],
+        "name": "Elle ne veut plus perdre de temps (feat. Sofiane)",
+        "piste": 6,
+        "track": "spotify:track:6iURXHPtNq3q6KdklmBkW2"
+    },
+    {
+        "album": {
+            "name": "Entre 2",
+            "type": "album",
+            "uri": "spotify:album:3E0iPg7I434LlrpK6LL2aS"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 201533,
+        "features": {
+            "acousticness": 0.429,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1tRSkwc3Guy0LqjqYYO0uJ",
+            "danceability": 0.524,
+            "duration_ms": 201533,
+            "energy": 0.522,
+            "id": "1tRSkwc3Guy0LqjqYYO0uJ",
+            "instrumentalness": 0,
+            "key": 5,
+            "liveness": 0.0977,
+            "loudness": -9.766,
+            "mode": 1,
+            "speechiness": 0.156,
+            "tempo": 120.09,
+            "time_signature": 5,
+            "track_href": "https://api.spotify.com/v1/tracks/1tRSkwc3Guy0LqjqYYO0uJ",
+            "type": "audio_features",
+            "uri": "spotify:track:1tRSkwc3Guy0LqjqYYO0uJ",
+            "valence": 0.691
+        },
+        "featuring": [],
+        "name": "\u00c7a va se g\u00e2ter",
+        "piste": 7,
+        "track": "spotify:track:1tRSkwc3Guy0LqjqYYO0uJ"
+    },
+    {
+        "album": {
+            "name": "Entre 2",
+            "type": "album",
+            "uri": "spotify:album:3E0iPg7I434LlrpK6LL2aS"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 200066,
+        "features": {
+            "acousticness": 0.139,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2ExghFUqREAu32WHfwE9DT",
+            "danceability": 0.605,
+            "duration_ms": 200067,
+            "energy": 0.511,
+            "id": "2ExghFUqREAu32WHfwE9DT",
+            "instrumentalness": 0,
+            "key": 5,
+            "liveness": 0.0533,
+            "loudness": -6.788,
+            "mode": 0,
+            "speechiness": 0.0443,
+            "tempo": 120.129,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2ExghFUqREAu32WHfwE9DT",
+            "type": "audio_features",
+            "uri": "spotify:track:2ExghFUqREAu32WHfwE9DT",
+            "valence": 0.229
+        },
+        "featuring": [],
+        "name": "Solitude",
+        "piste": 8,
+        "track": "spotify:track:2ExghFUqREAu32WHfwE9DT"
+    },
+    {
+        "album": {
+            "name": "Entre 2",
+            "type": "album",
+            "uri": "spotify:album:3E0iPg7I434LlrpK6LL2aS"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 262053,
+        "features": {
+            "acousticness": 0.343,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6QyWaXfjjglUd8NUDxQ92h",
+            "danceability": 0.627,
+            "duration_ms": 262053,
+            "energy": 0.54,
+            "id": "6QyWaXfjjglUd8NUDxQ92h",
+            "instrumentalness": 2.87e-06,
+            "key": 1,
+            "liveness": 0.349,
+            "loudness": -7.77,
+            "mode": 1,
+            "speechiness": 0.0477,
+            "tempo": 129.915,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/6QyWaXfjjglUd8NUDxQ92h",
+            "type": "audio_features",
+            "uri": "spotify:track:6QyWaXfjjglUd8NUDxQ92h",
+            "valence": 0.55
+        },
+        "featuring": [],
+        "name": "\u00c7a devient chaud",
+        "piste": 9,
+        "track": "spotify:track:6QyWaXfjjglUd8NUDxQ92h"
+    },
+    {
+        "album": {
+            "name": "Entre 2",
+            "type": "album",
+            "uri": "spotify:album:3E0iPg7I434LlrpK6LL2aS"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 228800,
+        "features": {
+            "acousticness": 0.0975,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4kTB3jziTeEf8WAFsHYnkf",
+            "danceability": 0.665,
+            "duration_ms": 228800,
+            "energy": 0.699,
+            "id": "4kTB3jziTeEf8WAFsHYnkf",
+            "instrumentalness": 0,
+            "key": 3,
+            "liveness": 0.0993,
+            "loudness": -6.866,
+            "mode": 0,
+            "speechiness": 0.0601,
+            "tempo": 167.887,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4kTB3jziTeEf8WAFsHYnkf",
+            "type": "audio_features",
+            "uri": "spotify:track:4kTB3jziTeEf8WAFsHYnkf",
+            "valence": 0.644
+        },
+        "featuring": [],
+        "name": "Revers brutal",
+        "piste": 10,
+        "track": "spotify:track:4kTB3jziTeEf8WAFsHYnkf"
+    },
+    {
+        "album": {
+            "name": "Entre 2",
+            "type": "album",
+            "uri": "spotify:album:3E0iPg7I434LlrpK6LL2aS"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 255813,
+        "features": {
+            "acousticness": 0.0033,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0liHDYQa0au4Fkn2OdaliO",
+            "danceability": 0.588,
+            "duration_ms": 255813,
+            "energy": 0.68,
+            "id": "0liHDYQa0au4Fkn2OdaliO",
+            "instrumentalness": 0,
+            "key": 8,
+            "liveness": 0.116,
+            "loudness": -7.148,
+            "mode": 0,
+            "speechiness": 0.197,
+            "tempo": 161.818,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/0liHDYQa0au4Fkn2OdaliO",
+            "type": "audio_features",
+            "uri": "spotify:track:0liHDYQa0au4Fkn2OdaliO",
+            "valence": 0.157
+        },
+        "featuring": [
+            [
+                "spotify:artist:2z2TRvloJt4EfUNQp9rHAi",
+                "Alonzo"
+            ]
+        ],
+        "name": "Je voulais juste (feat. Alonzo)",
+        "piste": 11,
+        "track": "spotify:track:0liHDYQa0au4Fkn2OdaliO"
+    },
+    {
+        "album": {
+            "name": "Entre 2",
+            "type": "album",
+            "uri": "spotify:album:3E0iPg7I434LlrpK6LL2aS"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 217440,
+        "features": {
+            "acousticness": 0.0441,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5gsKQsW9xO295xlGV5d2VA",
+            "danceability": 0.619,
+            "duration_ms": 217440,
+            "energy": 0.626,
+            "id": "5gsKQsW9xO295xlGV5d2VA",
+            "instrumentalness": 0,
+            "key": 11,
+            "liveness": 0.0393,
+            "loudness": -7.715,
+            "mode": 1,
+            "speechiness": 0.0914,
+            "tempo": 190.016,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/5gsKQsW9xO295xlGV5d2VA",
+            "type": "audio_features",
+            "uri": "spotify:track:5gsKQsW9xO295xlGV5d2VA",
+            "valence": 0.9
+        },
+        "featuring": [],
+        "name": "Ma libert\u00e9",
+        "piste": 12,
+        "track": "spotify:track:5gsKQsW9xO295xlGV5d2VA"
+    },
+    {
+        "album": {
+            "name": "Entre 2",
+            "type": "album",
+            "uri": "spotify:album:3E0iPg7I434LlrpK6LL2aS"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 190653,
+        "features": {
+            "acousticness": 0.0676,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5s06U0PxuBbpAOFp388Azd",
+            "danceability": 0.532,
+            "duration_ms": 190653,
+            "energy": 0.494,
+            "id": "5s06U0PxuBbpAOFp388Azd",
+            "instrumentalness": 0,
+            "key": 11,
+            "liveness": 0.353,
+            "loudness": -6.343,
+            "mode": 1,
+            "speechiness": 0.06,
+            "tempo": 170.073,
+            "time_signature": 3,
+            "track_href": "https://api.spotify.com/v1/tracks/5s06U0PxuBbpAOFp388Azd",
+            "type": "audio_features",
+            "uri": "spotify:track:5s06U0PxuBbpAOFp388Azd",
+            "valence": 0.575
+        },
+        "featuring": [],
+        "name": "\u00c7a ne te ressemble pas",
+        "piste": 13,
+        "track": "spotify:track:5s06U0PxuBbpAOFp388Azd"
+    },
+    {
+        "album": {
+            "name": "Entre 2",
+            "type": "album",
+            "uri": "spotify:album:3E0iPg7I434LlrpK6LL2aS"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 232080,
+        "features": {
+            "acousticness": 0.0213,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/10zgT6NIRcxre89XU2mhMa",
+            "danceability": 0.745,
+            "duration_ms": 232080,
+            "energy": 0.627,
+            "id": "10zgT6NIRcxre89XU2mhMa",
+            "instrumentalness": 2.21e-06,
+            "key": 7,
+            "liveness": 0.123,
+            "loudness": -6.084,
+            "mode": 0,
+            "speechiness": 0.0302,
+            "tempo": 110.012,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/10zgT6NIRcxre89XU2mhMa",
+            "type": "audio_features",
+            "uri": "spotify:track:10zgT6NIRcxre89XU2mhMa",
+            "valence": 0.723
+        },
+        "featuring": [],
+        "name": "Mon p\u00e8re c'est ma m\u00e8re",
+        "piste": 14,
+        "track": "spotify:track:10zgT6NIRcxre89XU2mhMa"
+    },
+    {
+        "album": {
+            "name": "Entre 2",
+            "type": "album",
+            "uri": "spotify:album:3E0iPg7I434LlrpK6LL2aS"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 246666,
+        "features": {
+            "acousticness": 0.317,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5KLq3zqkEkFrrvXLceZaoM",
+            "danceability": 0.683,
+            "duration_ms": 246667,
+            "energy": 0.508,
+            "id": "5KLq3zqkEkFrrvXLceZaoM",
+            "instrumentalness": 0,
+            "key": 5,
+            "liveness": 0.197,
+            "loudness": -9.331,
+            "mode": 1,
+            "speechiness": 0.0996,
+            "tempo": 92.001,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/5KLq3zqkEkFrrvXLceZaoM",
+            "type": "audio_features",
+            "uri": "spotify:track:5KLq3zqkEkFrrvXLceZaoM",
+            "valence": 0.451
+        },
+        "featuring": [],
+        "name": "Le fan",
+        "piste": 15,
+        "track": "spotify:track:5KLq3zqkEkFrrvXLceZaoM"
+    },
+    {
+        "album": {
+            "name": "Entre 2",
+            "type": "album",
+            "uri": "spotify:album:3E0iPg7I434LlrpK6LL2aS"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 225693,
+        "features": {
+            "acousticness": 0.208,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2lLEVqNHBKnBAINgVo215N",
+            "danceability": 0.811,
+            "duration_ms": 225693,
+            "energy": 0.769,
+            "id": "2lLEVqNHBKnBAINgVo215N",
+            "instrumentalness": 0,
+            "key": 4,
+            "liveness": 0.111,
+            "loudness": -5.025,
+            "mode": 1,
+            "speechiness": 0.16,
+            "tempo": 99.959,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2lLEVqNHBKnBAINgVo215N",
+            "type": "audio_features",
+            "uri": "spotify:track:2lLEVqNHBKnBAINgVo215N",
+            "valence": 0.739
+        },
+        "featuring": [
+            [
+                "spotify:artist:5DW7NxqQ2875JtjuV7KMn4",
+                "Youssoupha"
+            ]
+        ],
+        "name": "Rossignol (feat. Youssoupha)",
+        "piste": 16,
+        "track": "spotify:track:2lLEVqNHBKnBAINgVo215N"
+    },
+    {
+        "album": {
+            "name": "Ca fait Mal",
+            "type": "album",
+            "uri": "spotify:album:1iDAIZlXBzO0oESjVmDiUc"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 248400,
+        "features": {
+            "acousticness": 0.214,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4csD5ZfgDEOun6ZnvzPCEm",
+            "danceability": 0.527,
+            "duration_ms": 248400,
+            "energy": 0.846,
+            "id": "4csD5ZfgDEOun6ZnvzPCEm",
+            "instrumentalness": 0,
+            "key": 10,
+            "liveness": 0.229,
+            "loudness": -3.738,
+            "mode": 0,
+            "speechiness": 0.0445,
+            "tempo": 91.06,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4csD5ZfgDEOun6ZnvzPCEm",
+            "type": "audio_features",
+            "uri": "spotify:track:4csD5ZfgDEOun6ZnvzPCEm",
+            "valence": 0.42
+        },
+        "featuring": [],
+        "name": "Reviens Je T'En Prie - Version Album",
+        "piste": 1,
+        "track": "spotify:track:4csD5ZfgDEOun6ZnvzPCEm"
+    },
+    {
+        "album": {
+            "name": "Ca fait Mal",
+            "type": "album",
+            "uri": "spotify:album:1iDAIZlXBzO0oESjVmDiUc"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 296386,
+        "features": {
+            "acousticness": 0.16,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2IXVu4bBhKCIubKD2sK5eH",
+            "danceability": 0.464,
+            "duration_ms": 296387,
+            "energy": 0.712,
+            "id": "2IXVu4bBhKCIubKD2sK5eH",
+            "instrumentalness": 0,
+            "key": 7,
+            "liveness": 0.0678,
+            "loudness": -6.789,
+            "mode": 0,
+            "speechiness": 0.27,
+            "tempo": 79.714,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2IXVu4bBhKCIubKD2sK5eH",
+            "type": "audio_features",
+            "uri": "spotify:track:2IXVu4bBhKCIubKD2sK5eH",
+            "valence": 0.664
+        },
+        "featuring": [],
+        "name": "Ca Fait Mal",
+        "piste": 2,
+        "track": "spotify:track:2IXVu4bBhKCIubKD2sK5eH"
+    },
+    {
+        "album": {
+            "name": "Ca fait Mal",
+            "type": "album",
+            "uri": "spotify:album:1iDAIZlXBzO0oESjVmDiUc"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 241600,
+        "features": {
+            "acousticness": 0.605,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Xr6wKoHApCtqWrGcHP5Xx",
+            "danceability": 0.63,
+            "duration_ms": 241600,
+            "energy": 0.549,
+            "id": "5Xr6wKoHApCtqWrGcHP5Xx",
+            "instrumentalness": 0,
+            "key": 2,
+            "liveness": 0.19,
+            "loudness": -5.373,
+            "mode": 0,
+            "speechiness": 0.0473,
+            "tempo": 92.917,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/5Xr6wKoHApCtqWrGcHP5Xx",
+            "type": "audio_features",
+            "uri": "spotify:track:5Xr6wKoHApCtqWrGcHP5Xx",
+            "valence": 0.293
+        },
+        "featuring": [
+            [
+                "spotify:artist:2OtFCgbE4en8rwbFsxOFFz",
+                "Marc Antoine"
+            ]
+        ],
+        "name": "J'suis K.O",
+        "piste": 3,
+        "track": "spotify:track:5Xr6wKoHApCtqWrGcHP5Xx"
+    },
+    {
+        "album": {
+            "name": "Ca fait Mal",
+            "type": "album",
+            "uri": "spotify:album:1iDAIZlXBzO0oESjVmDiUc"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 228146,
+        "features": {
+            "acousticness": 0.0223,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1scM506Bq5y3Kw1NhEkgrN",
+            "danceability": 0.781,
+            "duration_ms": 228147,
+            "energy": 0.932,
+            "id": "1scM506Bq5y3Kw1NhEkgrN",
+            "instrumentalness": 0,
+            "key": 0,
+            "liveness": 0.0556,
+            "loudness": -4.114,
+            "mode": 1,
+            "speechiness": 0.156,
+            "tempo": 123.934,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/1scM506Bq5y3Kw1NhEkgrN",
+            "type": "audio_features",
+            "uri": "spotify:track:1scM506Bq5y3Kw1NhEkgrN",
+            "valence": 0.932
+        },
+        "featuring": [
+            [
+                "spotify:artist:4gD7pjkmrDtA85YBMkg5GA",
+                "Kamnouze"
+            ],
+            [
+                "spotify:artist:7kxYUR3VthtpyPgzvSh1H4",
+                "Petit Denis"
+            ]
+        ],
+        "name": "Ca N' Ment Pas",
+        "piste": 4,
+        "track": "spotify:track:1scM506Bq5y3Kw1NhEkgrN"
+    },
+    {
+        "album": {
+            "name": "Ca fait Mal",
+            "type": "album",
+            "uri": "spotify:album:1iDAIZlXBzO0oESjVmDiUc"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 214053,
+        "features": {
+            "acousticness": 0.359,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3VbGCRPGvnG0tuHlAbT3rd",
+            "danceability": 0.695,
+            "duration_ms": 214053,
+            "energy": 0.88,
+            "id": "3VbGCRPGvnG0tuHlAbT3rd",
+            "instrumentalness": 0,
+            "key": 4,
+            "liveness": 0.536,
+            "loudness": -5.696,
+            "mode": 0,
+            "speechiness": 0.208,
+            "tempo": 78.428,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/3VbGCRPGvnG0tuHlAbT3rd",
+            "type": "audio_features",
+            "uri": "spotify:track:3VbGCRPGvnG0tuHlAbT3rd",
+            "valence": 0.92
+        },
+        "featuring": [],
+        "name": "Opt\u00e9",
+        "piste": 5,
+        "track": "spotify:track:3VbGCRPGvnG0tuHlAbT3rd"
+    },
+    {
+        "album": {
+            "name": "Ca fait Mal",
+            "type": "album",
+            "uri": "spotify:album:1iDAIZlXBzO0oESjVmDiUc"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 252666,
+        "features": {
+            "acousticness": 0.0163,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3KVAtbHG5wnIJgSZY6BjUP",
+            "danceability": 0.614,
+            "duration_ms": 252667,
+            "energy": 0.802,
+            "id": "3KVAtbHG5wnIJgSZY6BjUP",
+            "instrumentalness": 7.29e-05,
+            "key": 8,
+            "liveness": 0.0723,
+            "loudness": -6.362,
+            "mode": 0,
+            "speechiness": 0.0476,
+            "tempo": 165.93,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/3KVAtbHG5wnIJgSZY6BjUP",
+            "type": "audio_features",
+            "uri": "spotify:track:3KVAtbHG5wnIJgSZY6BjUP",
+            "valence": 0.846
+        },
+        "featuring": [
+            [
+                "spotify:artist:5YE3riVoIML4fFnfqJzK3L",
+                "Milca"
+            ]
+        ],
+        "name": "Pour Y Croire Encore",
+        "piste": 6,
+        "track": "spotify:track:3KVAtbHG5wnIJgSZY6BjUP"
+    },
+    {
+        "album": {
+            "name": "Ca fait Mal",
+            "type": "album",
+            "uri": "spotify:album:1iDAIZlXBzO0oESjVmDiUc"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 223426,
+        "features": {
+            "acousticness": 0.406,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7FpTNTIZfUk90FwYe6RpBZ",
+            "danceability": 0.61,
+            "duration_ms": 223427,
+            "energy": 0.597,
+            "id": "7FpTNTIZfUk90FwYe6RpBZ",
+            "instrumentalness": 0,
+            "key": 9,
+            "liveness": 0.341,
+            "loudness": -4.968,
+            "mode": 1,
+            "speechiness": 0.0385,
+            "tempo": 99.966,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/7FpTNTIZfUk90FwYe6RpBZ",
+            "type": "audio_features",
+            "uri": "spotify:track:7FpTNTIZfUk90FwYe6RpBZ",
+            "valence": 0.553
+        },
+        "featuring": [],
+        "name": "Je D\u00e9teste Ma Vie",
+        "piste": 7,
+        "track": "spotify:track:7FpTNTIZfUk90FwYe6RpBZ"
+    },
+    {
+        "album": {
+            "name": "Ca fait Mal",
+            "type": "album",
+            "uri": "spotify:album:1iDAIZlXBzO0oESjVmDiUc"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 285240,
+        "features": {
+            "acousticness": 0.257,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Erar0N3sS7QEufbNPbgj4",
+            "danceability": 0.705,
+            "duration_ms": 285240,
+            "energy": 0.77,
+            "id": "3Erar0N3sS7QEufbNPbgj4",
+            "instrumentalness": 0,
+            "key": 2,
+            "liveness": 0.126,
+            "loudness": -5.477,
+            "mode": 0,
+            "speechiness": 0.0414,
+            "tempo": 94.003,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/3Erar0N3sS7QEufbNPbgj4",
+            "type": "audio_features",
+            "uri": "spotify:track:3Erar0N3sS7QEufbNPbgj4",
+            "valence": 0.697
+        },
+        "featuring": [],
+        "name": "Le Chemin",
+        "piste": 8,
+        "track": "spotify:track:3Erar0N3sS7QEufbNPbgj4"
+    },
+    {
+        "album": {
+            "name": "Ca fait Mal",
+            "type": "album",
+            "uri": "spotify:album:1iDAIZlXBzO0oESjVmDiUc"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 245160,
+        "features": {
+            "acousticness": 0.342,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4pHiTvAhmKQ6x2Kf1uYZiW",
+            "danceability": 0.824,
+            "duration_ms": 245160,
+            "energy": 0.704,
+            "id": "4pHiTvAhmKQ6x2Kf1uYZiW",
+            "instrumentalness": 0,
+            "key": 8,
+            "liveness": 0.114,
+            "loudness": -7.484,
+            "mode": 1,
+            "speechiness": 0.0578,
+            "tempo": 134.992,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4pHiTvAhmKQ6x2Kf1uYZiW",
+            "type": "audio_features",
+            "uri": "spotify:track:4pHiTvAhmKQ6x2Kf1uYZiW",
+            "valence": 0.927
+        },
+        "featuring": [],
+        "name": "Pour Elle",
+        "piste": 9,
+        "track": "spotify:track:4pHiTvAhmKQ6x2Kf1uYZiW"
+    },
+    {
+        "album": {
+            "name": "Ca fait Mal",
+            "type": "album",
+            "uri": "spotify:album:1iDAIZlXBzO0oESjVmDiUc"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 228786,
+        "features": {
+            "acousticness": 0.724,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1qYNzFbQEpA35IfOcNDAPP",
+            "danceability": 0.623,
+            "duration_ms": 228787,
+            "energy": 0.748,
+            "id": "1qYNzFbQEpA35IfOcNDAPP",
+            "instrumentalness": 0,
+            "key": 7,
+            "liveness": 0.283,
+            "loudness": -5.799,
+            "mode": 1,
+            "speechiness": 0.0586,
+            "tempo": 93.845,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/1qYNzFbQEpA35IfOcNDAPP",
+            "type": "audio_features",
+            "uri": "spotify:track:1qYNzFbQEpA35IfOcNDAPP",
+            "valence": 0.579
+        },
+        "featuring": [],
+        "name": "Etincelle",
+        "piste": 10,
+        "track": "spotify:track:1qYNzFbQEpA35IfOcNDAPP"
+    },
+    {
+        "album": {
+            "name": "Ca fait Mal",
+            "type": "album",
+            "uri": "spotify:album:1iDAIZlXBzO0oESjVmDiUc"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 225653,
+        "features": {
+            "acousticness": 0.235,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/57CEIq0HoxJGqBx7Kq7txM",
+            "danceability": 0.741,
+            "duration_ms": 225653,
+            "energy": 0.689,
+            "id": "57CEIq0HoxJGqBx7Kq7txM",
+            "instrumentalness": 0,
+            "key": 1,
+            "liveness": 0.0621,
+            "loudness": -5.805,
+            "mode": 0,
+            "speechiness": 0.0344,
+            "tempo": 149.963,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/57CEIq0HoxJGqBx7Kq7txM",
+            "type": "audio_features",
+            "uri": "spotify:track:57CEIq0HoxJGqBx7Kq7txM",
+            "valence": 0.961
+        },
+        "featuring": [
+            [
+                "spotify:artist:7mnpyj38Q6QeNTuAATB0vj",
+                "Lilah"
+            ]
+        ],
+        "name": "Moi Moi Moi",
+        "piste": 11,
+        "track": "spotify:track:57CEIq0HoxJGqBx7Kq7txM"
+    },
+    {
+        "album": {
+            "name": "Ca fait Mal",
+            "type": "album",
+            "uri": "spotify:album:1iDAIZlXBzO0oESjVmDiUc"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 267866,
+        "features": {
+            "acousticness": 0.391,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/33hDnn9gWYck3JvXH2JDn6",
+            "danceability": 0.727,
+            "duration_ms": 267867,
+            "energy": 0.714,
+            "id": "33hDnn9gWYck3JvXH2JDn6",
+            "instrumentalness": 0,
+            "key": 5,
+            "liveness": 0.0921,
+            "loudness": -4.311,
+            "mode": 0,
+            "speechiness": 0.0406,
+            "tempo": 120.078,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/33hDnn9gWYck3JvXH2JDn6",
+            "type": "audio_features",
+            "uri": "spotify:track:33hDnn9gWYck3JvXH2JDn6",
+            "valence": 0.883
+        },
+        "featuring": [],
+        "name": "Il N'Est Pas L\u00e0",
+        "piste": 12,
+        "track": "spotify:track:33hDnn9gWYck3JvXH2JDn6"
+    },
+    {
+        "album": {
+            "name": "Ca fait Mal",
+            "type": "album",
+            "uri": "spotify:album:1iDAIZlXBzO0oESjVmDiUc"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 276053,
+        "features": {
+            "acousticness": 0.218,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1SlLAqrSCr6I1pApBqt1Y8",
+            "danceability": 0.665,
+            "duration_ms": 276053,
+            "energy": 0.642,
+            "id": "1SlLAqrSCr6I1pApBqt1Y8",
+            "instrumentalness": 0,
+            "key": 3,
+            "liveness": 0.0702,
+            "loudness": -4.417,
+            "mode": 0,
+            "speechiness": 0.0485,
+            "tempo": 90.016,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/1SlLAqrSCr6I1pApBqt1Y8",
+            "type": "audio_features",
+            "uri": "spotify:track:1SlLAqrSCr6I1pApBqt1Y8",
+            "valence": 0.882
+        },
+        "featuring": [],
+        "name": "La Nuit",
+        "piste": 13,
+        "track": "spotify:track:1SlLAqrSCr6I1pApBqt1Y8"
+    },
+    {
+        "album": {
+            "name": "Ca fait Mal",
+            "type": "album",
+            "uri": "spotify:album:1iDAIZlXBzO0oESjVmDiUc"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 244600,
+        "features": {
+            "acousticness": 0.192,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ZyDQO3255FdNGJjuSu71q",
+            "danceability": 0.549,
+            "duration_ms": 244600,
+            "energy": 0.541,
+            "id": "1ZyDQO3255FdNGJjuSu71q",
+            "instrumentalness": 0,
+            "key": 9,
+            "liveness": 0.156,
+            "loudness": -7.145,
+            "mode": 1,
+            "speechiness": 0.0713,
+            "tempo": 93.869,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/1ZyDQO3255FdNGJjuSu71q",
+            "type": "audio_features",
+            "uri": "spotify:track:1ZyDQO3255FdNGJjuSu71q",
+            "valence": 0.479
+        },
+        "featuring": [],
+        "name": "Il N'A Fallu",
+        "piste": 14,
+        "track": "spotify:track:1ZyDQO3255FdNGJjuSu71q"
+    },
+    {
+        "album": {
+            "name": "Ca fait Mal",
+            "type": "album",
+            "uri": "spotify:album:1iDAIZlXBzO0oESjVmDiUc"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 242506,
+        "features": {
+            "acousticness": 0.371,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2LG3vqjXSI7tPbZ1GKIh7X",
+            "danceability": 0.781,
+            "duration_ms": 242507,
+            "energy": 0.542,
+            "id": "2LG3vqjXSI7tPbZ1GKIh7X",
+            "instrumentalness": 3.04e-06,
+            "key": 9,
+            "liveness": 0.044,
+            "loudness": -7.547,
+            "mode": 0,
+            "speechiness": 0.0431,
+            "tempo": 120.053,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2LG3vqjXSI7tPbZ1GKIh7X",
+            "type": "audio_features",
+            "uri": "spotify:track:2LG3vqjXSI7tPbZ1GKIh7X",
+            "valence": 0.965
+        },
+        "featuring": [],
+        "name": "Impatient De La Voir",
+        "piste": 15,
+        "track": "spotify:track:2LG3vqjXSI7tPbZ1GKIh7X"
+    },
+    {
+        "album": {
+            "name": "Ghetto compositeur",
+            "type": "album",
+            "uri": "spotify:album:55giOIrHxbaHw5xHbE64Np"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 39560,
+        "features": {
+            "acousticness": 0.927,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0ckKVYeXyyQkjnpkGqbV6y",
+            "danceability": 0.567,
+            "duration_ms": 39560,
+            "energy": 0.546,
+            "id": "0ckKVYeXyyQkjnpkGqbV6y",
+            "instrumentalness": 1.14e-06,
+            "key": 9,
+            "liveness": 0.103,
+            "loudness": -13.703,
+            "mode": 1,
+            "speechiness": 0.297,
+            "tempo": 89.017,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/0ckKVYeXyyQkjnpkGqbV6y",
+            "type": "audio_features",
+            "uri": "spotify:track:0ckKVYeXyyQkjnpkGqbV6y",
+            "valence": 0.658
+        },
+        "featuring": [],
+        "name": "Intro",
+        "piste": 1,
+        "track": "spotify:track:0ckKVYeXyyQkjnpkGqbV6y"
+    },
+    {
+        "album": {
+            "name": "Ghetto compositeur",
+            "type": "album",
+            "uri": "spotify:album:55giOIrHxbaHw5xHbE64Np"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 217080,
+        "features": {
+            "acousticness": 0.265,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6uR7miLYFGcRL0VmHP3wXC",
+            "danceability": 0.819,
+            "duration_ms": 217080,
+            "energy": 0.722,
+            "id": "6uR7miLYFGcRL0VmHP3wXC",
+            "instrumentalness": 0,
+            "key": 6,
+            "liveness": 0.0781,
+            "loudness": -4.336,
+            "mode": 0,
+            "speechiness": 0.142,
+            "tempo": 87.99,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/6uR7miLYFGcRL0VmHP3wXC",
+            "type": "audio_features",
+            "uri": "spotify:track:6uR7miLYFGcRL0VmHP3wXC",
+            "valence": 0.696
+        },
+        "featuring": [],
+        "name": "Ghetto compositeur",
+        "piste": 2,
+        "track": "spotify:track:6uR7miLYFGcRL0VmHP3wXC"
+    },
+    {
+        "album": {
+            "name": "Ghetto compositeur",
+            "type": "album",
+            "uri": "spotify:album:55giOIrHxbaHw5xHbE64Np"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 279893,
+        "features": {
+            "acousticness": 0.0882,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5A0FBlAHem8zIi4XF7Mjnz",
+            "danceability": 0.64,
+            "duration_ms": 279893,
+            "energy": 0.521,
+            "id": "5A0FBlAHem8zIi4XF7Mjnz",
+            "instrumentalness": 0,
+            "key": 11,
+            "liveness": 0.0842,
+            "loudness": -7.487,
+            "mode": 0,
+            "speechiness": 0.062,
+            "tempo": 83.023,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/5A0FBlAHem8zIi4XF7Mjnz",
+            "type": "audio_features",
+            "uri": "spotify:track:5A0FBlAHem8zIi4XF7Mjnz",
+            "valence": 0.646
+        },
+        "featuring": [],
+        "name": "Ma nature",
+        "piste": 3,
+        "track": "spotify:track:5A0FBlAHem8zIi4XF7Mjnz"
+    },
+    {
+        "album": {
+            "name": "Ghetto compositeur",
+            "type": "album",
+            "uri": "spotify:album:55giOIrHxbaHw5xHbE64Np"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 280293,
+        "features": {
+            "acousticness": 0.355,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2rwwGHau31uBDv18ehgWtT",
+            "danceability": 0.708,
+            "duration_ms": 280293,
+            "energy": 0.612,
+            "id": "2rwwGHau31uBDv18ehgWtT",
+            "instrumentalness": 0,
+            "key": 8,
+            "liveness": 0.0854,
+            "loudness": -10.796,
+            "mode": 1,
+            "speechiness": 0.147,
+            "tempo": 82.969,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2rwwGHau31uBDv18ehgWtT",
+            "type": "audio_features",
+            "uri": "spotify:track:2rwwGHau31uBDv18ehgWtT",
+            "valence": 0.847
+        },
+        "featuring": [],
+        "name": "Le mis\u00e9rable",
+        "piste": 4,
+        "track": "spotify:track:2rwwGHau31uBDv18ehgWtT"
+    },
+    {
+        "album": {
+            "name": "Ghetto compositeur",
+            "type": "album",
+            "uri": "spotify:album:55giOIrHxbaHw5xHbE64Np"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 243666,
+        "features": {
+            "acousticness": 0.0875,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6rW3WvkjR2StH6OEP0i8tC",
+            "danceability": 0.614,
+            "duration_ms": 243667,
+            "energy": 0.554,
+            "id": "6rW3WvkjR2StH6OEP0i8tC",
+            "instrumentalness": 0,
+            "key": 7,
+            "liveness": 0.0605,
+            "loudness": -6.815,
+            "mode": 1,
+            "speechiness": 0.0726,
+            "tempo": 184.869,
+            "time_signature": 3,
+            "track_href": "https://api.spotify.com/v1/tracks/6rW3WvkjR2StH6OEP0i8tC",
+            "type": "audio_features",
+            "uri": "spotify:track:6rW3WvkjR2StH6OEP0i8tC",
+            "valence": 0.765
+        },
+        "featuring": [],
+        "name": "Reste telle que tu es",
+        "piste": 5,
+        "track": "spotify:track:6rW3WvkjR2StH6OEP0i8tC"
+    },
+    {
+        "album": {
+            "name": "Ghetto compositeur",
+            "type": "album",
+            "uri": "spotify:album:55giOIrHxbaHw5xHbE64Np"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 196946,
+        "features": {
+            "acousticness": 0.138,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7qqCeoLgWttTNzNKt2vzaF",
+            "danceability": 0.713,
+            "duration_ms": 196947,
+            "energy": 0.769,
+            "id": "7qqCeoLgWttTNzNKt2vzaF",
+            "instrumentalness": 0.000277,
+            "key": 0,
+            "liveness": 0.325,
+            "loudness": -6.636,
+            "mode": 0,
+            "speechiness": 0.058,
+            "tempo": 149.965,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/7qqCeoLgWttTNzNKt2vzaF",
+            "type": "audio_features",
+            "uri": "spotify:track:7qqCeoLgWttTNzNKt2vzaF",
+            "valence": 0.964
+        },
+        "featuring": [],
+        "name": "Le temps passe trop vite",
+        "piste": 6,
+        "track": "spotify:track:7qqCeoLgWttTNzNKt2vzaF"
+    },
+    {
+        "album": {
+            "name": "Ghetto compositeur",
+            "type": "album",
+            "uri": "spotify:album:55giOIrHxbaHw5xHbE64Np"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 42866,
+        "features": {
+            "acousticness": 0.855,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3QRya8e49m7j6ztSkFokBx",
+            "danceability": 0.682,
+            "duration_ms": 42867,
+            "energy": 0.507,
+            "id": "3QRya8e49m7j6ztSkFokBx",
+            "instrumentalness": 1.9e-06,
+            "key": 10,
+            "liveness": 0.505,
+            "loudness": -20.984,
+            "mode": 0,
+            "speechiness": 0.793,
+            "tempo": 127.225,
+            "time_signature": 5,
+            "track_href": "https://api.spotify.com/v1/tracks/3QRya8e49m7j6ztSkFokBx",
+            "type": "audio_features",
+            "uri": "spotify:track:3QRya8e49m7j6ztSkFokBx",
+            "valence": 0.314
+        },
+        "featuring": [],
+        "name": "Interlude Outsider",
+        "piste": 7,
+        "track": "spotify:track:3QRya8e49m7j6ztSkFokBx"
+    },
+    {
+        "album": {
+            "name": "Ghetto compositeur",
+            "type": "album",
+            "uri": "spotify:album:55giOIrHxbaHw5xHbE64Np"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 263053,
+        "features": {
+            "acousticness": 0.0867,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4scXmvZox8otZedQ8yT3yL",
+            "danceability": 0.803,
+            "duration_ms": 263053,
+            "energy": 0.503,
+            "id": "4scXmvZox8otZedQ8yT3yL",
+            "instrumentalness": 0,
+            "key": 0,
+            "liveness": 0.0979,
+            "loudness": -9.478,
+            "mode": 1,
+            "speechiness": 0.0836,
+            "tempo": 89.998,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4scXmvZox8otZedQ8yT3yL",
+            "type": "audio_features",
+            "uri": "spotify:track:4scXmvZox8otZedQ8yT3yL",
+            "valence": 0.798
+        },
+        "featuring": [],
+        "name": "Outsider",
+        "piste": 8,
+        "track": "spotify:track:4scXmvZox8otZedQ8yT3yL"
+    },
+    {
+        "album": {
+            "name": "Ghetto compositeur",
+            "type": "album",
+            "uri": "spotify:album:55giOIrHxbaHw5xHbE64Np"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 197746,
+        "features": {
+            "acousticness": 0.3,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/52hXi2T7c3VZCDeyLXWVMd",
+            "danceability": 0.871,
+            "duration_ms": 197747,
+            "energy": 0.723,
+            "id": "52hXi2T7c3VZCDeyLXWVMd",
+            "instrumentalness": 0,
+            "key": 11,
+            "liveness": 0.0428,
+            "loudness": -5.926,
+            "mode": 0,
+            "speechiness": 0.0307,
+            "tempo": 120.037,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/52hXi2T7c3VZCDeyLXWVMd",
+            "type": "audio_features",
+            "uri": "spotify:track:52hXi2T7c3VZCDeyLXWVMd",
+            "valence": 0.979
+        },
+        "featuring": [],
+        "name": "Femme press\u00e9e",
+        "piste": 9,
+        "track": "spotify:track:52hXi2T7c3VZCDeyLXWVMd"
+    },
+    {
+        "album": {
+            "name": "Ghetto compositeur",
+            "type": "album",
+            "uri": "spotify:album:55giOIrHxbaHw5xHbE64Np"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 220013,
+        "features": {
+            "acousticness": 0.56,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6cAWudTtMZ1U7dQo7GbDp4",
+            "danceability": 0.442,
+            "duration_ms": 220013,
+            "energy": 0.603,
+            "id": "6cAWudTtMZ1U7dQo7GbDp4",
+            "instrumentalness": 0,
+            "key": 2,
+            "liveness": 0.263,
+            "loudness": -8.19,
+            "mode": 1,
+            "speechiness": 0.0468,
+            "tempo": 80.66,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/6cAWudTtMZ1U7dQo7GbDp4",
+            "type": "audio_features",
+            "uri": "spotify:track:6cAWudTtMZ1U7dQo7GbDp4",
+            "valence": 0.526
+        },
+        "featuring": [],
+        "name": "L'enfant du pays",
+        "piste": 10,
+        "track": "spotify:track:6cAWudTtMZ1U7dQo7GbDp4"
+    },
+    {
+        "album": {
+            "name": "Ghetto compositeur",
+            "type": "album",
+            "uri": "spotify:album:55giOIrHxbaHw5xHbE64Np"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 298133,
+        "features": {
+            "acousticness": 0.525,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3QMbQTdpE6nBNc3QQiC9Wx",
+            "danceability": 0.746,
+            "duration_ms": 298133,
+            "energy": 0.593,
+            "id": "3QMbQTdpE6nBNc3QQiC9Wx",
+            "instrumentalness": 0,
+            "key": 4,
+            "liveness": 0.108,
+            "loudness": -7.078,
+            "mode": 0,
+            "speechiness": 0.0692,
+            "tempo": 133.973,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/3QMbQTdpE6nBNc3QQiC9Wx",
+            "type": "audio_features",
+            "uri": "spotify:track:3QMbQTdpE6nBNc3QQiC9Wx",
+            "valence": 0.72
+        },
+        "featuring": [],
+        "name": "Apprendre \u00e0 pardonner",
+        "piste": 11,
+        "track": "spotify:track:3QMbQTdpE6nBNc3QQiC9Wx"
+    },
+    {
+        "album": {
+            "name": "Ghetto compositeur",
+            "type": "album",
+            "uri": "spotify:album:55giOIrHxbaHw5xHbE64Np"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 36413,
+        "features": {
+            "acousticness": 0.118,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/56lRm9rr6pyJf5SKsYaw0P",
+            "danceability": 0.766,
+            "duration_ms": 36413,
+            "energy": 0.21,
+            "id": "56lRm9rr6pyJf5SKsYaw0P",
+            "instrumentalness": 0,
+            "key": 7,
+            "liveness": 0.189,
+            "loudness": -27.966,
+            "mode": 0,
+            "speechiness": 0.902,
+            "tempo": 116.452,
+            "time_signature": 5,
+            "track_href": "https://api.spotify.com/v1/tracks/56lRm9rr6pyJf5SKsYaw0P",
+            "type": "audio_features",
+            "uri": "spotify:track:56lRm9rr6pyJf5SKsYaw0P",
+            "valence": 0.341
+        },
+        "featuring": [],
+        "name": "Interlude L'imposteur",
+        "piste": 12,
+        "track": "spotify:track:56lRm9rr6pyJf5SKsYaw0P"
+    },
+    {
+        "album": {
+            "name": "Ghetto compositeur",
+            "type": "album",
+            "uri": "spotify:album:55giOIrHxbaHw5xHbE64Np"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 311386,
+        "features": {
+            "acousticness": 0.291,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2vIF1Hxrn5mxFIQrdmFEpz",
+            "danceability": 0.811,
+            "duration_ms": 311387,
+            "energy": 0.401,
+            "id": "2vIF1Hxrn5mxFIQrdmFEpz",
+            "instrumentalness": 0,
+            "key": 4,
+            "liveness": 0.0995,
+            "loudness": -10.774,
+            "mode": 0,
+            "speechiness": 0.0508,
+            "tempo": 119.99,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2vIF1Hxrn5mxFIQrdmFEpz",
+            "type": "audio_features",
+            "uri": "spotify:track:2vIF1Hxrn5mxFIQrdmFEpz",
+            "valence": 0.604
+        },
+        "featuring": [],
+        "name": "L'Imposteur",
+        "piste": 13,
+        "track": "spotify:track:2vIF1Hxrn5mxFIQrdmFEpz"
+    },
+    {
+        "album": {
+            "name": "Ghetto compositeur",
+            "type": "album",
+            "uri": "spotify:album:55giOIrHxbaHw5xHbE64Np"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 258746,
+        "features": {
+            "acousticness": 0.0156,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/404tgS0OfadvKZPO8BoP2I",
+            "danceability": 0.85,
+            "duration_ms": 258747,
+            "energy": 0.607,
+            "id": "404tgS0OfadvKZPO8BoP2I",
+            "instrumentalness": 1.17e-06,
+            "key": 2,
+            "liveness": 0.301,
+            "loudness": -8.385,
+            "mode": 1,
+            "speechiness": 0.0487,
+            "tempo": 100.0,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/404tgS0OfadvKZPO8BoP2I",
+            "type": "audio_features",
+            "uri": "spotify:track:404tgS0OfadvKZPO8BoP2I",
+            "valence": 0.885
+        },
+        "featuring": [],
+        "name": "Les amoureux du Hip Hop",
+        "piste": 14,
+        "track": "spotify:track:404tgS0OfadvKZPO8BoP2I"
+    },
+    {
+        "album": {
+            "name": "On ne vit qu'une fois",
+            "type": "album",
+            "uri": "spotify:album:5hlZizF4ARXGU8zafxgt76"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 230093,
+        "features": {
+            "acousticness": 0.433,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/66XnS93DpC4j0f4l36Ux6N",
+            "danceability": 0.861,
+            "duration_ms": 230093,
+            "energy": 0.634,
+            "id": "66XnS93DpC4j0f4l36Ux6N",
+            "instrumentalness": 0,
+            "key": 1,
+            "liveness": 0.0981,
+            "loudness": -7.434,
+            "mode": 1,
+            "speechiness": 0.269,
+            "tempo": 101.96,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/66XnS93DpC4j0f4l36Ux6N",
+            "type": "audio_features",
+            "uri": "spotify:track:66XnS93DpC4j0f4l36Ux6N",
+            "valence": 0.954
+        },
+        "featuring": [],
+        "name": "C'est pour le \u00e4",
+        "piste": 1,
+        "track": "spotify:track:66XnS93DpC4j0f4l36Ux6N"
+    },
+    {
+        "album": {
+            "name": "On ne vit qu'une fois",
+            "type": "album",
+            "uri": "spotify:album:5hlZizF4ARXGU8zafxgt76"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 221213,
+        "features": {
+            "acousticness": 0.342,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5U7Z4mTDgqcozcTm3yR8qh",
+            "danceability": 0.655,
+            "duration_ms": 221213,
+            "energy": 0.721,
+            "id": "5U7Z4mTDgqcozcTm3yR8qh",
+            "instrumentalness": 0,
+            "key": 0,
+            "liveness": 0.367,
+            "loudness": -6.526,
+            "mode": 1,
+            "speechiness": 0.168,
+            "tempo": 165.942,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/5U7Z4mTDgqcozcTm3yR8qh",
+            "type": "audio_features",
+            "uri": "spotify:track:5U7Z4mTDgqcozcTm3yR8qh",
+            "valence": 0.689
+        },
+        "featuring": [],
+        "name": "Ma conscience",
+        "piste": 2,
+        "track": "spotify:track:5U7Z4mTDgqcozcTm3yR8qh"
+    },
+    {
+        "album": {
+            "name": "On ne vit qu'une fois",
+            "type": "album",
+            "uri": "spotify:album:5hlZizF4ARXGU8zafxgt76"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 285400,
+        "features": {
+            "acousticness": 0.176,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5PbHrvzV98LwenDOjX57h8",
+            "danceability": 0.694,
+            "duration_ms": 285400,
+            "energy": 0.626,
+            "id": "5PbHrvzV98LwenDOjX57h8",
+            "instrumentalness": 0,
+            "key": 1,
+            "liveness": 0.321,
+            "loudness": -4.959,
+            "mode": 0,
+            "speechiness": 0.0803,
+            "tempo": 82.966,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/5PbHrvzV98LwenDOjX57h8",
+            "type": "audio_features",
+            "uri": "spotify:track:5PbHrvzV98LwenDOjX57h8",
+            "valence": 0.69
+        },
+        "featuring": [],
+        "name": "J'avance en chantant",
+        "piste": 3,
+        "track": "spotify:track:5PbHrvzV98LwenDOjX57h8"
+    },
+    {
+        "album": {
+            "name": "On ne vit qu'une fois",
+            "type": "album",
+            "uri": "spotify:album:5hlZizF4ARXGU8zafxgt76"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 243266,
+        "features": {
+            "acousticness": 0.192,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3JMoMCxWGCcOLyrZ8fxk4N",
+            "danceability": 0.852,
+            "duration_ms": 243267,
+            "energy": 0.427,
+            "id": "3JMoMCxWGCcOLyrZ8fxk4N",
+            "instrumentalness": 0,
+            "key": 4,
+            "liveness": 0.138,
+            "loudness": -9.952,
+            "mode": 0,
+            "speechiness": 0.0514,
+            "tempo": 120.971,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/3JMoMCxWGCcOLyrZ8fxk4N",
+            "type": "audio_features",
+            "uri": "spotify:track:3JMoMCxWGCcOLyrZ8fxk4N",
+            "valence": 0.657
+        },
+        "featuring": [],
+        "name": "Pr\u00e9paratifs",
+        "piste": 4,
+        "track": "spotify:track:3JMoMCxWGCcOLyrZ8fxk4N"
+    },
+    {
+        "album": {
+            "name": "On ne vit qu'une fois",
+            "type": "album",
+            "uri": "spotify:album:5hlZizF4ARXGU8zafxgt76"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 258213,
+        "features": {
+            "acousticness": 0.195,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0hXFVSnDswuALbiR7mFIzB",
+            "danceability": 0.844,
+            "duration_ms": 258213,
+            "energy": 0.507,
+            "id": "0hXFVSnDswuALbiR7mFIzB",
+            "instrumentalness": 0,
+            "key": 0,
+            "liveness": 0.123,
+            "loudness": -6.218,
+            "mode": 1,
+            "speechiness": 0.0353,
+            "tempo": 104.012,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/0hXFVSnDswuALbiR7mFIzB",
+            "type": "audio_features",
+            "uri": "spotify:track:0hXFVSnDswuALbiR7mFIzB",
+            "valence": 0.817
+        },
+        "featuring": [],
+        "name": "A\u00efcha",
+        "piste": 5,
+        "track": "spotify:track:0hXFVSnDswuALbiR7mFIzB"
+    },
+    {
+        "album": {
+            "name": "On ne vit qu'une fois",
+            "type": "album",
+            "uri": "spotify:album:5hlZizF4ARXGU8zafxgt76"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 225813,
+        "features": {
+            "acousticness": 0.0319,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2utZQMhIp7gOtjCwoIedxc",
+            "danceability": 0.837,
+            "duration_ms": 225813,
+            "energy": 0.636,
+            "id": "2utZQMhIp7gOtjCwoIedxc",
+            "instrumentalness": 0,
+            "key": 5,
+            "liveness": 0.131,
+            "loudness": -7.235,
+            "mode": 0,
+            "speechiness": 0.293,
+            "tempo": 165.962,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2utZQMhIp7gOtjCwoIedxc",
+            "type": "audio_features",
+            "uri": "spotify:track:2utZQMhIp7gOtjCwoIedxc",
+            "valence": 0.869
+        },
+        "featuring": [
+            [
+                "spotify:artist:3iE3iLBiJ4SVgNqa6JASfY",
+                "Lino"
+            ],
+            [
+                "spotify:artist:3bG1qrusG1VEw4bPPQwSA7",
+                "Kazkami"
+            ]
+        ],
+        "name": "Moi et mes gars (feat. Lino & Kazkami)",
+        "piste": 6,
+        "track": "spotify:track:2utZQMhIp7gOtjCwoIedxc"
+    },
+    {
+        "album": {
+            "name": "On ne vit qu'une fois",
+            "type": "album",
+            "uri": "spotify:album:5hlZizF4ARXGU8zafxgt76"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 251986,
+        "features": {
+            "acousticness": 0.211,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0qA0VfB8p2eKzYCyBuYwdx",
+            "danceability": 0.874,
+            "duration_ms": 251987,
+            "energy": 0.458,
+            "id": "0qA0VfB8p2eKzYCyBuYwdx",
+            "instrumentalness": 7.71e-06,
+            "key": 6,
+            "liveness": 0.246,
+            "loudness": -8.384,
+            "mode": 1,
+            "speechiness": 0.0863,
+            "tempo": 133.899,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/0qA0VfB8p2eKzYCyBuYwdx",
+            "type": "audio_features",
+            "uri": "spotify:track:0qA0VfB8p2eKzYCyBuYwdx",
+            "valence": 0.803
+        },
+        "featuring": [],
+        "name": "Comme personne",
+        "piste": 7,
+        "track": "spotify:track:0qA0VfB8p2eKzYCyBuYwdx"
+    },
+    {
+        "album": {
+            "name": "On ne vit qu'une fois",
+            "type": "album",
+            "uri": "spotify:album:5hlZizF4ARXGU8zafxgt76"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 265706,
+        "features": {
+            "acousticness": 0.285,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7dZOTSE7ylfrfEQ0JNfpZx",
+            "danceability": 0.883,
+            "duration_ms": 265707,
+            "energy": 0.447,
+            "id": "7dZOTSE7ylfrfEQ0JNfpZx",
+            "instrumentalness": 0.000333,
+            "key": 10,
+            "liveness": 0.0544,
+            "loudness": -9.186,
+            "mode": 1,
+            "speechiness": 0.0497,
+            "tempo": 124.013,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/7dZOTSE7ylfrfEQ0JNfpZx",
+            "type": "audio_features",
+            "uri": "spotify:track:7dZOTSE7ylfrfEQ0JNfpZx",
+            "valence": 0.967
+        },
+        "featuring": [],
+        "name": "Elle me sao\u00fble",
+        "piste": 8,
+        "track": "spotify:track:7dZOTSE7ylfrfEQ0JNfpZx"
+    },
+    {
+        "album": {
+            "name": "On ne vit qu'une fois",
+            "type": "album",
+            "uri": "spotify:album:5hlZizF4ARXGU8zafxgt76"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 233013,
+        "features": {
+            "acousticness": 0.239,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7CKBfOFf9K4UHclSKucZzr",
+            "danceability": 0.877,
+            "duration_ms": 233013,
+            "energy": 0.537,
+            "id": "7CKBfOFf9K4UHclSKucZzr",
+            "instrumentalness": 0,
+            "key": 4,
+            "liveness": 0.1,
+            "loudness": -7.242,
+            "mode": 0,
+            "speechiness": 0.0417,
+            "tempo": 124.952,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/7CKBfOFf9K4UHclSKucZzr",
+            "type": "audio_features",
+            "uri": "spotify:track:7CKBfOFf9K4UHclSKucZzr",
+            "valence": 0.723
+        },
+        "featuring": [],
+        "name": "Je doute",
+        "piste": 9,
+        "track": "spotify:track:7CKBfOFf9K4UHclSKucZzr"
+    },
+    {
+        "album": {
+            "name": "On ne vit qu'une fois",
+            "type": "album",
+            "uri": "spotify:album:5hlZizF4ARXGU8zafxgt76"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 247613,
+        "features": {
+            "acousticness": 0.0508,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4NNecZmgvwAWwVdFhcZHn8",
+            "danceability": 0.715,
+            "duration_ms": 247613,
+            "energy": 0.765,
+            "id": "4NNecZmgvwAWwVdFhcZHn8",
+            "instrumentalness": 3.03e-05,
+            "key": 2,
+            "liveness": 0.196,
+            "loudness": -6.256,
+            "mode": 0,
+            "speechiness": 0.0921,
+            "tempo": 174.005,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4NNecZmgvwAWwVdFhcZHn8",
+            "type": "audio_features",
+            "uri": "spotify:track:4NNecZmgvwAWwVdFhcZHn8",
+            "valence": 0.917
+        },
+        "featuring": [
+            [
+                "spotify:artist:3JCfgXnyQBwjAp61EctbQP",
+                "Perle Lama"
+            ]
+        ],
+        "name": "Tournons la page (feat. Perle Lama)",
+        "piste": 10,
+        "track": "spotify:track:4NNecZmgvwAWwVdFhcZHn8"
+    },
+    {
+        "album": {
+            "name": "On ne vit qu'une fois",
+            "type": "album",
+            "uri": "spotify:album:5hlZizF4ARXGU8zafxgt76"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 239666,
+        "features": {
+            "acousticness": 0.0376,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6lwk7C5xK5cdmKupE8lU7U",
+            "danceability": 0.923,
+            "duration_ms": 239667,
+            "energy": 0.502,
+            "id": "6lwk7C5xK5cdmKupE8lU7U",
+            "instrumentalness": 1.62e-05,
+            "key": 11,
+            "liveness": 0.0771,
+            "loudness": -5.517,
+            "mode": 1,
+            "speechiness": 0.0406,
+            "tempo": 110.015,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/6lwk7C5xK5cdmKupE8lU7U",
+            "type": "audio_features",
+            "uri": "spotify:track:6lwk7C5xK5cdmKupE8lU7U",
+            "valence": 0.974
+        },
+        "featuring": [],
+        "name": "C'est trop",
+        "piste": 11,
+        "track": "spotify:track:6lwk7C5xK5cdmKupE8lU7U"
+    },
+    {
+        "album": {
+            "name": "On ne vit qu'une fois",
+            "type": "album",
+            "uri": "spotify:album:5hlZizF4ARXGU8zafxgt76"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 279586,
+        "features": {
+            "acousticness": 0.186,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/37MqgFVZ8T7fh7K85zkcYW",
+            "danceability": 0.811,
+            "duration_ms": 279587,
+            "energy": 0.42,
+            "id": "37MqgFVZ8T7fh7K85zkcYW",
+            "instrumentalness": 0,
+            "key": 10,
+            "liveness": 0.0992,
+            "loudness": -9.107,
+            "mode": 0,
+            "speechiness": 0.239,
+            "tempo": 134.001,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/37MqgFVZ8T7fh7K85zkcYW",
+            "type": "audio_features",
+            "uri": "spotify:track:37MqgFVZ8T7fh7K85zkcYW",
+            "valence": 0.739
+        },
+        "featuring": [],
+        "name": "Mal\u00e9diction",
+        "piste": 12,
+        "track": "spotify:track:37MqgFVZ8T7fh7K85zkcYW"
+    },
+    {
+        "album": {
+            "name": "On ne vit qu'une fois",
+            "type": "album",
+            "uri": "spotify:album:5hlZizF4ARXGU8zafxgt76"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 317626,
+        "features": {
+            "acousticness": 0.33,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4hgJ5nLVxnQPsuLRcZZuZY",
+            "danceability": 0.768,
+            "duration_ms": 317627,
+            "energy": 0.43,
+            "id": "4hgJ5nLVxnQPsuLRcZZuZY",
+            "instrumentalness": 0,
+            "key": 8,
+            "liveness": 0.0939,
+            "loudness": -8.712,
+            "mode": 0,
+            "speechiness": 0.0635,
+            "tempo": 120.061,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4hgJ5nLVxnQPsuLRcZZuZY",
+            "type": "audio_features",
+            "uri": "spotify:track:4hgJ5nLVxnQPsuLRcZZuZY",
+            "valence": 0.448
+        },
+        "featuring": [],
+        "name": "Le roi des connards",
+        "piste": 13,
+        "track": "spotify:track:4hgJ5nLVxnQPsuLRcZZuZY"
+    },
+    {
+        "album": {
+            "name": "On ne vit qu'une fois",
+            "type": "album",
+            "uri": "spotify:album:5hlZizF4ARXGU8zafxgt76"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 217506,
+        "features": {
+            "acousticness": 0.0807,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/14awpgHwALWC7XgAvPm8We",
+            "danceability": 0.642,
+            "duration_ms": 217507,
+            "energy": 0.663,
+            "id": "14awpgHwALWC7XgAvPm8We",
+            "instrumentalness": 0,
+            "key": 11,
+            "liveness": 0.0386,
+            "loudness": -7.512,
+            "mode": 0,
+            "speechiness": 0.336,
+            "tempo": 172.078,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/14awpgHwALWC7XgAvPm8We",
+            "type": "audio_features",
+            "uri": "spotify:track:14awpgHwALWC7XgAvPm8We",
+            "valence": 0.843
+        },
+        "featuring": [
+            [
+                "spotify:artist:09xdUjwuCCTnmDSyORXD1Z",
+                "Jacky Brown"
+            ]
+        ],
+        "name": "En bas de ma fen\u00eatre (feat. Jacky Brown)",
+        "piste": 14,
+        "track": "spotify:track:14awpgHwALWC7XgAvPm8We"
+    },
+    {
+        "album": {
+            "name": "On ne vit qu'une fois",
+            "type": "album",
+            "uri": "spotify:album:5hlZizF4ARXGU8zafxgt76"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 217840,
+        "features": {
+            "acousticness": 0.239,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5YUQrPSUJXebjDTJ6i6dWO",
+            "danceability": 0.754,
+            "duration_ms": 217840,
+            "energy": 0.652,
+            "id": "5YUQrPSUJXebjDTJ6i6dWO",
+            "instrumentalness": 0,
+            "key": 3,
+            "liveness": 0.104,
+            "loudness": -8.012,
+            "mode": 1,
+            "speechiness": 0.106,
+            "tempo": 89.973,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/5YUQrPSUJXebjDTJ6i6dWO",
+            "type": "audio_features",
+            "uri": "spotify:track:5YUQrPSUJXebjDTJ6i6dWO",
+            "valence": 0.556
+        },
+        "featuring": [],
+        "name": "Evit\u00e9",
+        "piste": 15,
+        "track": "spotify:track:5YUQrPSUJXebjDTJ6i6dWO"
+    },
+    {
+        "album": {
+            "name": "On ne vit qu'une fois",
+            "type": "album",
+            "uri": "spotify:album:5hlZizF4ARXGU8zafxgt76"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 282773,
+        "features": {
+            "acousticness": 0.0725,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4f1B40foWJcDgdJwdsKf3R",
+            "danceability": 0.667,
+            "duration_ms": 282773,
+            "energy": 0.742,
+            "id": "4f1B40foWJcDgdJwdsKf3R",
+            "instrumentalness": 0,
+            "key": 6,
+            "liveness": 0.214,
+            "loudness": -7.831,
+            "mode": 0,
+            "speechiness": 0.406,
+            "tempo": 148.016,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4f1B40foWJcDgdJwdsKf3R",
+            "type": "audio_features",
+            "uri": "spotify:track:4f1B40foWJcDgdJwdsKf3R",
+            "valence": 0.749
+        },
+        "featuring": [],
+        "name": "Trop tard",
+        "piste": 16,
+        "track": "spotify:track:4f1B40foWJcDgdJwdsKf3R"
+    },
+    {
+        "album": {
+            "name": "Les gars",
+            "type": "single",
+            "uri": "spotify:album:66xY4ORhavhDzOm0rkLMKD"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 212816,
+        "features": {
+            "acousticness": 0.114,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2yPICn9gVO8qviL5Ve6g7X",
+            "danceability": 0.724,
+            "duration_ms": 212817,
+            "energy": 0.672,
+            "id": "2yPICn9gVO8qviL5Ve6g7X",
+            "instrumentalness": 0,
+            "key": 8,
+            "liveness": 0.116,
+            "loudness": -4.294,
+            "mode": 1,
+            "speechiness": 0.0348,
+            "tempo": 95.065,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2yPICn9gVO8qviL5Ve6g7X",
+            "type": "audio_features",
+            "uri": "spotify:track:2yPICn9gVO8qviL5Ve6g7X",
+            "valence": 0.797
+        },
+        "featuring": [],
+        "name": "Les gars",
+        "piste": 1,
+        "track": "spotify:track:2yPICn9gVO8qviL5Ve6g7X"
+    },
+    {
+        "album": {
+            "name": "Boniments",
+            "type": "single",
+            "uri": "spotify:album:1iVBDlQl906HBlE9GhIwNG"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 167561,
+        "features": {
+            "acousticness": 0.405,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/51UUqTOU0M29zFVpPpxF1N",
+            "danceability": 0.629,
+            "duration_ms": 167562,
+            "energy": 0.789,
+            "id": "51UUqTOU0M29zFVpPpxF1N",
+            "instrumentalness": 0,
+            "key": 0,
+            "liveness": 0.143,
+            "loudness": -5.202,
+            "mode": 0,
+            "speechiness": 0.0821,
+            "tempo": 198.07,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/51UUqTOU0M29zFVpPpxF1N",
+            "type": "audio_features",
+            "uri": "spotify:track:51UUqTOU0M29zFVpPpxF1N",
+            "valence": 0.948
+        },
+        "featuring": [],
+        "name": "Boniments",
+        "piste": 1,
+        "track": "spotify:track:51UUqTOU0M29zFVpPpxF1N"
+    },
+    {
+        "album": {
+            "name": "Dans la cage du rossignol",
+            "type": "single",
+            "uri": "spotify:album:6AFyGMoykUbjg5Ky1woW01"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 86111,
+        "features": {
+            "acousticness": 0.706,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4cxJjtoXu5EgFQFRBKW5Fg",
+            "danceability": 0.875,
+            "duration_ms": 86111,
+            "energy": 0.551,
+            "id": "4cxJjtoXu5EgFQFRBKW5Fg",
+            "instrumentalness": 2.91e-05,
+            "key": 6,
+            "liveness": 0.121,
+            "loudness": -6.473,
+            "mode": 0,
+            "speechiness": 0.107,
+            "tempo": 108.094,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4cxJjtoXu5EgFQFRBKW5Fg",
+            "type": "audio_features",
+            "uri": "spotify:track:4cxJjtoXu5EgFQFRBKW5Fg",
+            "valence": 0.826
+        },
+        "featuring": [],
+        "name": "DCDR - Episode 1",
+        "piste": 1,
+        "track": "spotify:track:4cxJjtoXu5EgFQFRBKW5Fg"
+    },
+    {
+        "album": {
+            "name": "Dans la cage du rossignol",
+            "type": "single",
+            "uri": "spotify:album:6AFyGMoykUbjg5Ky1woW01"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 88888,
+        "features": {
+            "acousticness": 0.635,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Uy9ENwvg57RljbxCGPljZ",
+            "danceability": 0.834,
+            "duration_ms": 88889,
+            "energy": 0.601,
+            "id": "0Uy9ENwvg57RljbxCGPljZ",
+            "instrumentalness": 4.51e-06,
+            "key": 9,
+            "liveness": 0.0871,
+            "loudness": -7.369,
+            "mode": 1,
+            "speechiness": 0.0963,
+            "tempo": 108.082,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/0Uy9ENwvg57RljbxCGPljZ",
+            "type": "audio_features",
+            "uri": "spotify:track:0Uy9ENwvg57RljbxCGPljZ",
+            "valence": 0.733
+        },
+        "featuring": [],
+        "name": "DCDR - Episode 2",
+        "piste": 2,
+        "track": "spotify:track:0Uy9ENwvg57RljbxCGPljZ"
+    },
+    {
+        "album": {
+            "name": "Dans la cage du rossignol",
+            "type": "single",
+            "uri": "spotify:album:6AFyGMoykUbjg5Ky1woW01"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 88750,
+        "features": {
+            "acousticness": 0.611,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6penMCa7KLvObvYu8KWbsH",
+            "danceability": 0.809,
+            "duration_ms": 88750,
+            "energy": 0.642,
+            "id": "6penMCa7KLvObvYu8KWbsH",
+            "instrumentalness": 1.75e-05,
+            "key": 6,
+            "liveness": 0.11,
+            "loudness": -7.941,
+            "mode": 0,
+            "speechiness": 0.0795,
+            "tempo": 107.943,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/6penMCa7KLvObvYu8KWbsH",
+            "type": "audio_features",
+            "uri": "spotify:track:6penMCa7KLvObvYu8KWbsH",
+            "valence": 0.726
+        },
+        "featuring": [],
+        "name": "DCDR - Episode 3",
+        "piste": 3,
+        "track": "spotify:track:6penMCa7KLvObvYu8KWbsH"
+    },
+    {
+        "album": {
+            "name": "Dans la cage du rossignol",
+            "type": "single",
+            "uri": "spotify:album:6AFyGMoykUbjg5Ky1woW01"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 106666,
+        "features": {
+            "acousticness": 0.476,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4o4jGwvpfT8EgBtnXE7Bwt",
+            "danceability": 0.828,
+            "duration_ms": 106667,
+            "energy": 0.666,
+            "id": "4o4jGwvpfT8EgBtnXE7Bwt",
+            "instrumentalness": 0,
+            "key": 9,
+            "liveness": 0.106,
+            "loudness": -6.535,
+            "mode": 1,
+            "speechiness": 0.116,
+            "tempo": 107.96,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4o4jGwvpfT8EgBtnXE7Bwt",
+            "type": "audio_features",
+            "uri": "spotify:track:4o4jGwvpfT8EgBtnXE7Bwt",
+            "valence": 0.626
+        },
+        "featuring": [],
+        "name": "DCDR - Episode 4",
+        "piste": 4,
+        "track": "spotify:track:4o4jGwvpfT8EgBtnXE7Bwt"
+    },
+    {
+        "album": {
+            "name": "Dans la cage du rossignol",
+            "type": "single",
+            "uri": "spotify:album:6AFyGMoykUbjg5Ky1woW01"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 87222,
+        "features": {
+            "acousticness": 0.616,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/07Ou7XafjIP5TnJDrBUYpu",
+            "danceability": 0.73,
+            "duration_ms": 87222,
+            "energy": 0.57,
+            "id": "07Ou7XafjIP5TnJDrBUYpu",
+            "instrumentalness": 1.12e-06,
+            "key": 6,
+            "liveness": 0.168,
+            "loudness": -8.274,
+            "mode": 0,
+            "speechiness": 0.11,
+            "tempo": 108.051,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/07Ou7XafjIP5TnJDrBUYpu",
+            "type": "audio_features",
+            "uri": "spotify:track:07Ou7XafjIP5TnJDrBUYpu",
+            "valence": 0.726
+        },
+        "featuring": [],
+        "name": "DCDR - Episode 5",
+        "piste": 5,
+        "track": "spotify:track:07Ou7XafjIP5TnJDrBUYpu"
+    },
+    {
+        "album": {
+            "name": "Dans la cage du rossignol",
+            "type": "single",
+            "uri": "spotify:album:6AFyGMoykUbjg5Ky1woW01"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 91666,
+        "features": {
+            "acousticness": 0.682,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3fOMBN8eVIvzXP0iNhIPCM",
+            "danceability": 0.805,
+            "duration_ms": 91667,
+            "energy": 0.618,
+            "id": "3fOMBN8eVIvzXP0iNhIPCM",
+            "instrumentalness": 0.000204,
+            "key": 6,
+            "liveness": 0.218,
+            "loudness": -6.913,
+            "mode": 0,
+            "speechiness": 0.121,
+            "tempo": 108.005,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/3fOMBN8eVIvzXP0iNhIPCM",
+            "type": "audio_features",
+            "uri": "spotify:track:3fOMBN8eVIvzXP0iNhIPCM",
+            "valence": 0.586
+        },
+        "featuring": [],
+        "name": "DCDR - Episode 6",
+        "piste": 6,
+        "track": "spotify:track:3fOMBN8eVIvzXP0iNhIPCM"
+    },
+    {
+        "album": {
+            "name": "Dans la cage du rossignol",
+            "type": "single",
+            "uri": "spotify:album:6AFyGMoykUbjg5Ky1woW01"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 102500,
+        "features": {
+            "acousticness": 0.503,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0vk93wZ4vviaw0UfkmOBxx",
+            "danceability": 0.86,
+            "duration_ms": 102500,
+            "energy": 0.662,
+            "id": "0vk93wZ4vviaw0UfkmOBxx",
+            "instrumentalness": 0,
+            "key": 6,
+            "liveness": 0.138,
+            "loudness": -6.888,
+            "mode": 0,
+            "speechiness": 0.151,
+            "tempo": 108.024,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/0vk93wZ4vviaw0UfkmOBxx",
+            "type": "audio_features",
+            "uri": "spotify:track:0vk93wZ4vviaw0UfkmOBxx",
+            "valence": 0.603
+        },
+        "featuring": [],
+        "name": "DCDR - Episode 7",
+        "piste": 7,
+        "track": "spotify:track:0vk93wZ4vviaw0UfkmOBxx"
+    },
+    {
+        "album": {
+            "name": "Dans la cage du rossignol",
+            "type": "single",
+            "uri": "spotify:album:6AFyGMoykUbjg5Ky1woW01"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 112222,
+        "features": {
+            "acousticness": 0.664,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7eOzZX22Wei77TtyiVRPiV",
+            "danceability": 0.727,
+            "duration_ms": 112222,
+            "energy": 0.713,
+            "id": "7eOzZX22Wei77TtyiVRPiV",
+            "instrumentalness": 0,
+            "key": 6,
+            "liveness": 0.169,
+            "loudness": -6.49,
+            "mode": 0,
+            "speechiness": 0.132,
+            "tempo": 107.91,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/7eOzZX22Wei77TtyiVRPiV",
+            "type": "audio_features",
+            "uri": "spotify:track:7eOzZX22Wei77TtyiVRPiV",
+            "valence": 0.685
+        },
+        "featuring": [],
+        "name": "DCDR - Episode 8",
+        "piste": 8,
+        "track": "spotify:track:7eOzZX22Wei77TtyiVRPiV"
+    },
+    {
+        "album": {
+            "name": "Dans la cage du rossignol",
+            "type": "single",
+            "uri": "spotify:album:6AFyGMoykUbjg5Ky1woW01"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 582434,
+        "features": {
+            "acousticness": 0.587,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1aFSnprYlBhouJ1QB8oqyO",
+            "danceability": 0.841,
+            "duration_ms": 582435,
+            "energy": 0.713,
+            "id": "1aFSnprYlBhouJ1QB8oqyO",
+            "instrumentalness": 0,
+            "key": 6,
+            "liveness": 0.15,
+            "loudness": -5.367,
+            "mode": 0,
+            "speechiness": 0.144,
+            "tempo": 107.984,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/1aFSnprYlBhouJ1QB8oqyO",
+            "type": "audio_features",
+            "uri": "spotify:track:1aFSnprYlBhouJ1QB8oqyO",
+            "valence": 0.818
+        },
+        "featuring": [],
+        "name": "DCDR - Version Longue",
+        "piste": 9,
+        "track": "spotify:track:1aFSnprYlBhouJ1QB8oqyO"
+    },
+    {
+        "album": {
+            "name": "Dans la cage du rossignol (Episode 9: La voisine)",
+            "type": "single",
+            "uri": "spotify:album:06v0HYd0Ur8k7dRn1JeV3C"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 150961,
+        "features": {
+            "acousticness": 0.687,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7eoTP0Myet21opNHRqn0gY",
+            "danceability": 0.86,
+            "duration_ms": 150962,
+            "energy": 0.636,
+            "id": "7eoTP0Myet21opNHRqn0gY",
+            "instrumentalness": 0,
+            "key": 6,
+            "liveness": 0.0749,
+            "loudness": -5.083,
+            "mode": 0,
+            "speechiness": 0.138,
+            "tempo": 108.021,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/7eoTP0Myet21opNHRqn0gY",
+            "type": "audio_features",
+            "uri": "spotify:track:7eoTP0Myet21opNHRqn0gY",
+            "valence": 0.779
+        },
+        "featuring": [],
+        "name": "Dans la cage du rossignol - Episode 9: La voisine",
+        "piste": 1,
+        "track": "spotify:track:7eoTP0Myet21opNHRqn0gY"
+    },
+    {
+        "album": {
+            "name": "Belle",
+            "type": "single",
+            "uri": "spotify:album:6nmpx6TMUbz9OPxD02jZ8N"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 229772,
+        "features": {
+            "acousticness": 0.088,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3MExfJnJA9d6QaxqlGDVMT",
+            "danceability": 0.727,
+            "duration_ms": 229773,
+            "energy": 0.539,
+            "id": "3MExfJnJA9d6QaxqlGDVMT",
+            "instrumentalness": 0,
+            "key": 10,
+            "liveness": 0.11,
+            "loudness": -7.074,
+            "mode": 1,
+            "speechiness": 0.0824,
+            "tempo": 140.054,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/3MExfJnJA9d6QaxqlGDVMT",
+            "type": "audio_features",
+            "uri": "spotify:track:3MExfJnJA9d6QaxqlGDVMT",
+            "valence": 0.483
+        },
+        "featuring": [
+            [
+                "spotify:artist:6IflU2YrY5Cyw7YoBICosV",
+                "Fally Ipupa"
+            ]
+        ],
+        "name": "Belle",
+        "piste": 1,
+        "track": "spotify:track:3MExfJnJA9d6QaxqlGDVMT"
+    },
+    {
+        "album": {
+            "name": "L'amour ne suffit pas",
+            "type": "single",
+            "uri": "spotify:album:4bOqxR34Ims6ta3zRrS6IQ"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 244800,
+        "features": {
+            "acousticness": 0.0452,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5p3Haatqbfaz8GSNMTkEHR",
+            "danceability": 0.613,
+            "duration_ms": 244800,
+            "energy": 0.689,
+            "id": "5p3Haatqbfaz8GSNMTkEHR",
+            "instrumentalness": 0,
+            "key": 11,
+            "liveness": 0.153,
+            "loudness": -4.217,
+            "mode": 0,
+            "speechiness": 0.24,
+            "tempo": 199.984,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/5p3Haatqbfaz8GSNMTkEHR",
+            "type": "audio_features",
+            "uri": "spotify:track:5p3Haatqbfaz8GSNMTkEHR",
+            "valence": 0.573
+        },
+        "featuring": [
+            [
+                "spotify:artist:3ngGKc1bL3IkT6TPwlhjpC",
+                "HIRO"
+            ]
+        ],
+        "name": "L'amour ne suffit pas",
+        "piste": 1,
+        "track": "spotify:track:5p3Haatqbfaz8GSNMTkEHR"
+    },
+    {
+        "album": {
+            "name": "Angela (French Version)",
+            "type": "single",
+            "uri": "spotify:album:6sbnCH374RRILieyecjTKD"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 215192,
+        "features": {
+            "acousticness": 0.0288,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3OJp5iv120NrWcwbbLVGTA",
+            "danceability": 0.759,
+            "duration_ms": 215192,
+            "energy": 0.85,
+            "id": "3OJp5iv120NrWcwbbLVGTA",
+            "instrumentalness": 0.00055,
+            "key": 6,
+            "liveness": 0.039,
+            "loudness": -4.552,
+            "mode": 1,
+            "speechiness": 0.0788,
+            "tempo": 104.02,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/3OJp5iv120NrWcwbbLVGTA",
+            "type": "audio_features",
+            "uri": "spotify:track:3OJp5iv120NrWcwbbLVGTA",
+            "valence": 0.732
+        },
+        "featuring": [
+            [
+                "spotify:artist:2ybfFlvm4VB8C56wI1yOQs",
+                "Young \"D\""
+            ],
+            [
+                "spotify:artist:0oKNR4ahj1CPnK2kQmbOfo",
+                "Flavour"
+            ]
+        ],
+        "name": "Angela (French Version)",
+        "piste": 1,
+        "track": "spotify:track:3OJp5iv120NrWcwbbLVGTA"
+    },
+    {
+        "album": {
+            "name": "La femme de quelqu'un",
+            "type": "single",
+            "uri": "spotify:album:5ghMSB30kcxVQUla0XbZa1"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 262452,
+        "features": {
+            "acousticness": 0.524,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/05ko9fLQ2E8XsKeJbq57M1",
+            "danceability": 0.677,
+            "duration_ms": 262452,
+            "energy": 0.778,
+            "id": "05ko9fLQ2E8XsKeJbq57M1",
+            "instrumentalness": 3.03e-06,
+            "key": 3,
+            "liveness": 0.121,
+            "loudness": -5.892,
+            "mode": 1,
+            "speechiness": 0.0329,
+            "tempo": 149.961,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/05ko9fLQ2E8XsKeJbq57M1",
+            "type": "audio_features",
+            "uri": "spotify:track:05ko9fLQ2E8XsKeJbq57M1",
+            "valence": 0.838
+        },
+        "featuring": [
+            [
+                "spotify:artist:7e14Bh8oZXNRmZxjhhTARb",
+                "Koffi Olomide"
+            ]
+        ],
+        "name": "La femme de quelqu'un",
+        "piste": 1,
+        "track": "spotify:track:05ko9fLQ2E8XsKeJbq57M1"
+    },
+    {
+        "album": {
+            "name": "Ma go",
+            "type": "single",
+            "uri": "spotify:album:4gqzblNG3FkdIY81PdPA3c"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 178285,
+        "features": {
+            "acousticness": 0.405,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7HFbmI8rlOiGdwzhgd7QDN",
+            "danceability": 0.827,
+            "duration_ms": 178286,
+            "energy": 0.74,
+            "id": "7HFbmI8rlOiGdwzhgd7QDN",
+            "instrumentalness": 0,
+            "key": 9,
+            "liveness": 0.0619,
+            "loudness": -3.879,
+            "mode": 0,
+            "speechiness": 0.0835,
+            "tempo": 104.983,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/7HFbmI8rlOiGdwzhgd7QDN",
+            "type": "audio_features",
+            "uri": "spotify:track:7HFbmI8rlOiGdwzhgd7QDN",
+            "valence": 0.764
+        },
+        "featuring": [],
+        "name": "Ma go",
+        "piste": 1,
+        "track": "spotify:track:7HFbmI8rlOiGdwzhgd7QDN"
+    },
+    {
+        "album": {
+            "name": "Faut pas me toucher",
+            "type": "single",
+            "uri": "spotify:album:7MJGYOgzulsgtv7tjUVDxO"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 230619,
+        "features": {
+            "acousticness": 0.224,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0hrdCoV5LPC0ni1ahSbAID",
+            "danceability": 0.824,
+            "duration_ms": 230619,
+            "energy": 0.694,
+            "id": "0hrdCoV5LPC0ni1ahSbAID",
+            "instrumentalness": 0,
+            "key": 5,
+            "liveness": 0.357,
+            "loudness": -5.086,
+            "mode": 1,
+            "speechiness": 0.132,
+            "tempo": 110.017,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/0hrdCoV5LPC0ni1ahSbAID",
+            "type": "audio_features",
+            "uri": "spotify:track:0hrdCoV5LPC0ni1ahSbAID",
+            "valence": 0.691
+        },
+        "featuring": [],
+        "name": "Faut pas me toucher",
+        "piste": 1,
+        "track": "spotify:track:0hrdCoV5LPC0ni1ahSbAID"
+    },
+    {
+        "album": {
+            "name": "Nightingale",
+            "type": "single",
+            "uri": "spotify:album:7gf8jI2NSFubBDcoSxSfsN"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 219346,
+        "features": {
+            "acousticness": 0.0827,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0PMn6K8oJj9kqa21CeuqV6",
+            "danceability": 0.757,
+            "duration_ms": 219347,
+            "energy": 0.918,
+            "id": "0PMn6K8oJj9kqa21CeuqV6",
+            "instrumentalness": 0.00203,
+            "key": 1,
+            "liveness": 0.231,
+            "loudness": -5.064,
+            "mode": 0,
+            "speechiness": 0.086,
+            "tempo": 115.007,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/0PMn6K8oJj9kqa21CeuqV6",
+            "type": "audio_features",
+            "uri": "spotify:track:0PMn6K8oJj9kqa21CeuqV6",
+            "valence": 0.737
+        },
+        "featuring": [
+            [
+                "spotify:artist:1GaBsp1ICIp1e6udgE7fba",
+                "Kevin Lyttle"
+            ],
+            [
+                "spotify:artist:4SXD1fxpHkIcwg5a25ZaO8",
+                "Jvck Frost"
+            ]
+        ],
+        "name": "Nightingale",
+        "piste": 1,
+        "track": "spotify:track:0PMn6K8oJj9kqa21CeuqV6"
+    },
+    {
+        "album": {
+            "name": "Rossignol (Tefa & Moox Remix)",
+            "type": "single",
+            "uri": "spotify:album:0Uur4m3umYCQhRmTo6F9ZU"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 227386,
+        "features": {
+            "acousticness": 0.223,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4LKHbQgBlnujV3dWFJ91hc",
+            "danceability": 0.852,
+            "duration_ms": 227386,
+            "energy": 0.823,
+            "id": "4LKHbQgBlnujV3dWFJ91hc",
+            "instrumentalness": 1.85e-05,
+            "key": 11,
+            "liveness": 0.162,
+            "loudness": -5.297,
+            "mode": 1,
+            "speechiness": 0.209,
+            "tempo": 114.978,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4LKHbQgBlnujV3dWFJ91hc",
+            "type": "audio_features",
+            "uri": "spotify:track:4LKHbQgBlnujV3dWFJ91hc",
+            "valence": 0.728
+        },
+        "featuring": [
+            [
+                "spotify:artist:5DW7NxqQ2875JtjuV7KMn4",
+                "Youssoupha"
+            ],
+            [
+                "spotify:artist:1GaBsp1ICIp1e6udgE7fba",
+                "Kevin Lyttle"
+            ],
+            [
+                "spotify:artist:4HmOlzFosyr6YQBowodsgC",
+                "Tefa & Moox"
+            ]
+        ],
+        "name": "Rossignol - Tefa & Moox Remix",
+        "piste": 1,
+        "track": "spotify:track:4LKHbQgBlnujV3dWFJ91hc"
+    },
+    {
+        "album": {
+            "name": "Rossignol",
+            "type": "single",
+            "uri": "spotify:album:7e0EZFQVgFoV6JB7gDeEXy"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 225684,
+        "features": {
+            "acousticness": 0.209,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6bIxunWwfK0ZYV96qCqBcv",
+            "danceability": 0.817,
+            "duration_ms": 225685,
+            "energy": 0.773,
+            "id": "6bIxunWwfK0ZYV96qCqBcv",
+            "instrumentalness": 0,
+            "key": 4,
+            "liveness": 0.112,
+            "loudness": -5.062,
+            "mode": 1,
+            "speechiness": 0.16,
+            "tempo": 99.955,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/6bIxunWwfK0ZYV96qCqBcv",
+            "type": "audio_features",
+            "uri": "spotify:track:6bIxunWwfK0ZYV96qCqBcv",
+            "valence": 0.705
+        },
+        "featuring": [
+            [
+                "spotify:artist:5DW7NxqQ2875JtjuV7KMn4",
+                "Youssoupha"
+            ]
+        ],
+        "name": "Rossignol",
+        "piste": 1,
+        "track": "spotify:track:6bIxunWwfK0ZYV96qCqBcv"
+    },
+    {
+        "album": {
+            "name": "Qu'est ce qu'elle est bonne (feat. Soprano)",
+            "type": "single",
+            "uri": "spotify:album:1CTeopA7eawltc2pDrrtNB"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 278893,
+        "features": {
+            "acousticness": 0.117,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1iXIKKYzjxUa86pPIomfJR",
+            "danceability": 0.636,
+            "duration_ms": 278893,
+            "energy": 0.919,
+            "id": "1iXIKKYzjxUa86pPIomfJR",
+            "instrumentalness": 0,
+            "key": 4,
+            "liveness": 0.372,
+            "loudness": -3.791,
+            "mode": 0,
+            "speechiness": 0.0966,
+            "tempo": 77.002,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/1iXIKKYzjxUa86pPIomfJR",
+            "type": "audio_features",
+            "uri": "spotify:track:1iXIKKYzjxUa86pPIomfJR",
+            "valence": 0.789
+        },
+        "featuring": [
+            [
+                "spotify:artist:2RJBv9wXbW6m539q9NOfW1",
+                "Soprano"
+            ]
+        ],
+        "name": "Qu'est ce qu'elle est bonne",
+        "piste": 1,
+        "track": "spotify:track:1iXIKKYzjxUa86pPIomfJR"
+    },
+    {
+        "album": {
+            "name": "C'est ca qu'on aime",
+            "type": "single",
+            "uri": "spotify:album:3SquiFKkpZfJ2UZkIQ1MrE"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 228733,
+        "features": {
+            "acousticness": 0.0287,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7MzopQmN8qQz2onpQtMftx",
+            "danceability": 0.742,
+            "duration_ms": 228733,
+            "energy": 0.86,
+            "id": "7MzopQmN8qQz2onpQtMftx",
+            "instrumentalness": 0,
+            "key": 11,
+            "liveness": 0.329,
+            "loudness": -4.418,
+            "mode": 1,
+            "speechiness": 0.032,
+            "tempo": 128.06,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/7MzopQmN8qQz2onpQtMftx",
+            "type": "audio_features",
+            "uri": "spotify:track:7MzopQmN8qQz2onpQtMftx",
+            "valence": 0.906
+        },
+        "featuring": [],
+        "name": "C'est ca qu'on aime",
+        "piste": 1,
+        "track": "spotify:track:7MzopQmN8qQz2onpQtMftx"
+    },
+    {
+        "album": {
+            "name": "Mieux loin de moi",
+            "type": "single",
+            "uri": "spotify:album:6YjMdO7ZHL1TkQuCe35Ppu"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 210267,
+        "features": {
+            "acousticness": 0.0851,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/086pEhT9TwRjpoRVbQHjfT",
+            "danceability": 0.596,
+            "duration_ms": 210268,
+            "energy": 0.8,
+            "id": "086pEhT9TwRjpoRVbQHjfT",
+            "instrumentalness": 0,
+            "key": 4,
+            "liveness": 0.317,
+            "loudness": -6.178,
+            "mode": 0,
+            "speechiness": 0.0541,
+            "tempo": 149.636,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/086pEhT9TwRjpoRVbQHjfT",
+            "type": "audio_features",
+            "uri": "spotify:track:086pEhT9TwRjpoRVbQHjfT",
+            "valence": 0.498
+        },
+        "featuring": [],
+        "name": "Mieux loin de moi",
+        "piste": 1,
+        "track": "spotify:track:086pEhT9TwRjpoRVbQHjfT"
+    },
+    {
+        "album": {
+            "name": "Elle a un truc",
+            "type": "single",
+            "uri": "spotify:album:77VeO4YdyJdMbwZ7sij1dO"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 207272,
+        "features": {
+            "acousticness": 0.0316,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Jxv4YroDVVOgRv4EQlRvw",
+            "danceability": 0.733,
+            "duration_ms": 207273,
+            "energy": 0.919,
+            "id": "2Jxv4YroDVVOgRv4EQlRvw",
+            "instrumentalness": 0,
+            "key": 8,
+            "liveness": 0.303,
+            "loudness": -4.326,
+            "mode": 1,
+            "speechiness": 0.0699,
+            "tempo": 110.046,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2Jxv4YroDVVOgRv4EQlRvw",
+            "type": "audio_features",
+            "uri": "spotify:track:2Jxv4YroDVVOgRv4EQlRvw",
+            "valence": 0.903
+        },
+        "featuring": [
+            [
+                "spotify:artist:7iTsSoL0FCLoDYkIJzPjOs",
+                "Edalam"
+            ]
+        ],
+        "name": "Elle a un truc - Radio edit",
+        "piste": 1,
+        "track": "spotify:track:2Jxv4YroDVVOgRv4EQlRvw"
+    },
+    {
+        "album": {
+            "name": "Elle a un truc",
+            "type": "single",
+            "uri": "spotify:album:77VeO4YdyJdMbwZ7sij1dO"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 279272,
+        "features": {
+            "acousticness": 0.00708,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1BmPdFv4T0DC2W6dlTgy8h",
+            "danceability": 0.712,
+            "duration_ms": 279273,
+            "energy": 0.89,
+            "id": "1BmPdFv4T0DC2W6dlTgy8h",
+            "instrumentalness": 8.33e-05,
+            "key": 8,
+            "liveness": 0.0716,
+            "loudness": -4.671,
+            "mode": 1,
+            "speechiness": 0.0522,
+            "tempo": 110.014,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/1BmPdFv4T0DC2W6dlTgy8h",
+            "type": "audio_features",
+            "uri": "spotify:track:1BmPdFv4T0DC2W6dlTgy8h",
+            "valence": 0.927
+        },
+        "featuring": [
+            [
+                "spotify:artist:7iTsSoL0FCLoDYkIJzPjOs",
+                "Edalam"
+            ]
+        ],
+        "name": "Elle a un truc - Club Mix",
+        "piste": 2,
+        "track": "spotify:track:1BmPdFv4T0DC2W6dlTgy8h"
+    },
+    {
+        "album": {
+            "name": "My Blood Flow's Blazing",
+            "type": "single",
+            "uri": "spotify:album:4bV8gN6w7m6AoJCPDhLZ8n"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 252380,
+        "features": {
+            "acousticness": 0.037,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5myhtwUBCeajGZ5p56yv0a",
+            "danceability": 0.706,
+            "duration_ms": 252381,
+            "energy": 0.824,
+            "id": "5myhtwUBCeajGZ5p56yv0a",
+            "instrumentalness": 0,
+            "key": 9,
+            "liveness": 0.0898,
+            "loudness": -4.828,
+            "mode": 1,
+            "speechiness": 0.0464,
+            "tempo": 92.938,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/5myhtwUBCeajGZ5p56yv0a",
+            "type": "audio_features",
+            "uri": "spotify:track:5myhtwUBCeajGZ5p56yv0a",
+            "valence": 0.677
+        },
+        "featuring": [],
+        "name": "My Bloo Flow's Blazing",
+        "piste": 1,
+        "track": "spotify:track:5myhtwUBCeajGZ5p56yv0a"
+    },
+    {
+        "album": {
+            "name": "My Blood Flow's Blazing",
+            "type": "single",
+            "uri": "spotify:album:4bV8gN6w7m6AoJCPDhLZ8n"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 252380,
+        "features": {
+            "acousticness": 0.0108,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6f337PDGHlmcZvWtoKyOrR",
+            "danceability": 0.713,
+            "duration_ms": 252381,
+            "energy": 0.793,
+            "id": "6f337PDGHlmcZvWtoKyOrR",
+            "instrumentalness": 5.12e-06,
+            "key": 9,
+            "liveness": 0.11,
+            "loudness": -6.052,
+            "mode": 1,
+            "speechiness": 0.0376,
+            "tempo": 92.961,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/6f337PDGHlmcZvWtoKyOrR",
+            "type": "audio_features",
+            "uri": "spotify:track:6f337PDGHlmcZvWtoKyOrR",
+            "valence": 0.53
+        },
+        "featuring": [],
+        "name": "My Blood Flow's Blazing Playback - Playback",
+        "piste": 2,
+        "track": "spotify:track:6f337PDGHlmcZvWtoKyOrR"
+    },
+    {
+        "album": {
+            "name": "Le sang chaud",
+            "type": "single",
+            "uri": "spotify:album:1gXS1BVjH7Jw6FoyVYuQxS"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 252380,
+        "features": {
+            "acousticness": 0.0276,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0mwWX84RpMRYC8VijUqoNj",
+            "danceability": 0.674,
+            "duration_ms": 252381,
+            "energy": 0.808,
+            "id": "0mwWX84RpMRYC8VijUqoNj",
+            "instrumentalness": 0,
+            "key": 6,
+            "liveness": 0.0936,
+            "loudness": -4.726,
+            "mode": 0,
+            "speechiness": 0.0456,
+            "tempo": 92.994,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/0mwWX84RpMRYC8VijUqoNj",
+            "type": "audio_features",
+            "uri": "spotify:track:0mwWX84RpMRYC8VijUqoNj",
+            "valence": 0.605
+        },
+        "featuring": [],
+        "name": "Le sang chaud",
+        "piste": 1,
+        "track": "spotify:track:0mwWX84RpMRYC8VijUqoNj"
+    },
+    {
+        "album": {
+            "name": "African Fiesta",
+            "type": "single",
+            "uri": "spotify:album:7wj9N4z0v2KlDftBTzrqHN"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 204320,
+        "features": {
+            "acousticness": 0.122,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5tg9qllirI8LdfCMSRVb7E",
+            "danceability": 0.709,
+            "duration_ms": 204320,
+            "energy": 0.869,
+            "id": "5tg9qllirI8LdfCMSRVb7E",
+            "instrumentalness": 0,
+            "key": 0,
+            "liveness": 0.72,
+            "loudness": -2.424,
+            "mode": 0,
+            "speechiness": 0.0323,
+            "tempo": 113.024,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/5tg9qllirI8LdfCMSRVb7E",
+            "type": "audio_features",
+            "uri": "spotify:track:5tg9qllirI8LdfCMSRVb7E",
+            "valence": 0.849
+        },
+        "featuring": [
+            [
+                "spotify:artist:7B3BBs7j0Zbp2PYeqlFXpK",
+                "Dibi Dobo"
+            ]
+        ],
+        "name": "African Fiesta",
+        "piste": 1,
+        "track": "spotify:track:5tg9qllirI8LdfCMSRVb7E"
+    },
+    {
+        "album": {
+            "name": "Reviens Je T'En Prie - Radio Edit",
+            "type": "single",
+            "uri": "spotify:album:4cy1KluwJYKKaPd6BMqUU3"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 223853,
+        "features": {
+            "acousticness": 0.188,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0hWbr12Y121YWWK8VnZWAR",
+            "danceability": 0.568,
+            "duration_ms": 223853,
+            "energy": 0.857,
+            "id": "0hWbr12Y121YWWK8VnZWAR",
+            "instrumentalness": 0,
+            "key": 10,
+            "liveness": 0.645,
+            "loudness": -3.724,
+            "mode": 0,
+            "speechiness": 0.049,
+            "tempo": 91.043,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/0hWbr12Y121YWWK8VnZWAR",
+            "type": "audio_features",
+            "uri": "spotify:track:0hWbr12Y121YWWK8VnZWAR",
+            "valence": 0.566
+        },
+        "featuring": [],
+        "name": "Reviens Je T'En Prie - Radio Edit",
+        "piste": 1,
+        "track": "spotify:track:0hWbr12Y121YWWK8VnZWAR"
+    },
+    {
+        "album": {
+            "name": "Jaune",
+            "type": "album",
+            "uri": "spotify:album:3VeKNCmxu0ouhVqg4zrA3T"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 178410,
+        "features": {
+            "acousticness": 0.196,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6E3W87WLbF21xhnMjFbX9G",
+            "danceability": 0.817,
+            "duration_ms": 178411,
+            "energy": 0.645,
+            "id": "6E3W87WLbF21xhnMjFbX9G",
+            "instrumentalness": 0,
+            "key": 3,
+            "liveness": 0.0865,
+            "loudness": -5.982,
+            "mode": 0,
+            "speechiness": 0.231,
+            "tempo": 126.642,
+            "time_signature": 5,
+            "track_href": "https://api.spotify.com/v1/tracks/6E3W87WLbF21xhnMjFbX9G",
+            "type": "audio_features",
+            "uri": "spotify:track:6E3W87WLbF21xhnMjFbX9G",
+            "valence": 0.748
+        },
+        "featuring": [
+            [
+                "spotify:artist:2vCOfKQ7WFyWmuHbTz7OgG",
+                "Says'z"
+            ]
+        ],
+        "name": "Ca joue (feat. Singuila)",
+        "piste": 2,
+        "track": "spotify:track:6E3W87WLbF21xhnMjFbX9G"
+    },
+    {
+        "album": {
+            "name": "Jaune",
+            "type": "album",
+            "uri": "spotify:album:75A8FclefChwJVMm2ErAhf"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 178411,
+        "features": {
+            "acousticness": 0.196,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1qJPR2jgrQLpSnLr9aLRsW",
+            "danceability": 0.817,
+            "duration_ms": 178411,
+            "energy": 0.645,
+            "id": "1qJPR2jgrQLpSnLr9aLRsW",
+            "instrumentalness": 0,
+            "key": 3,
+            "liveness": 0.0865,
+            "loudness": -5.982,
+            "mode": 0,
+            "speechiness": 0.231,
+            "tempo": 126.642,
+            "time_signature": 5,
+            "track_href": "https://api.spotify.com/v1/tracks/1qJPR2jgrQLpSnLr9aLRsW",
+            "type": "audio_features",
+            "uri": "spotify:track:1qJPR2jgrQLpSnLr9aLRsW",
+            "valence": 0.748
+        },
+        "featuring": [
+            [
+                "spotify:artist:2vCOfKQ7WFyWmuHbTz7OgG",
+                "Says'z"
+            ]
+        ],
+        "name": "\u00c7a joue",
+        "piste": 2,
+        "track": "spotify:track:1qJPR2jgrQLpSnLr9aLRsW"
+    },
+    {
+        "album": {
+            "name": "Eklektik 2.0",
+            "type": "album",
+            "uri": "spotify:album:1u3ES2iIsYS4vClAu1wFUM"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 213960,
+        "features": {
+            "acousticness": 0.21,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/37mnHcoqeVYMbCJfKTuAMp",
+            "danceability": 0.697,
+            "duration_ms": 213960,
+            "energy": 0.811,
+            "id": "37mnHcoqeVYMbCJfKTuAMp",
+            "instrumentalness": 0,
+            "key": 0,
+            "liveness": 0.165,
+            "loudness": -4.554,
+            "mode": 1,
+            "speechiness": 0.0315,
+            "tempo": 139.988,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/37mnHcoqeVYMbCJfKTuAMp",
+            "type": "audio_features",
+            "uri": "spotify:track:37mnHcoqeVYMbCJfKTuAMp",
+            "valence": 0.826
+        },
+        "featuring": [
+            [
+                "spotify:artist:71ZTSV6EMRWyjOGx14LrDE",
+                "Shan'L"
+            ]
+        ],
+        "name": "Le mal est fait (feat. Singuila)",
+        "piste": 16,
+        "track": "spotify:track:37mnHcoqeVYMbCJfKTuAMp"
+    },
+    {
+        "album": {
+            "name": "Coeur en cage",
+            "type": "single",
+            "uri": "spotify:album:56x11IalvWkXCto2d6l8r6"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 201644,
+        "features": {
+            "acousticness": 0.34,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6IrCyVxjJSKkvuO4gZ1147",
+            "danceability": 0.682,
+            "duration_ms": 201644,
+            "energy": 0.538,
+            "id": "6IrCyVxjJSKkvuO4gZ1147",
+            "instrumentalness": 1.4e-06,
+            "key": 2,
+            "liveness": 0.0651,
+            "loudness": -9.248,
+            "mode": 1,
+            "speechiness": 0.101,
+            "tempo": 102.035,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/6IrCyVxjJSKkvuO4gZ1147",
+            "type": "audio_features",
+            "uri": "spotify:track:6IrCyVxjJSKkvuO4gZ1147",
+            "valence": 0.61
+        },
+        "featuring": [
+            [
+                "spotify:artist:3qt4OYC2CeOuVjKtzGMobL",
+                "Charlotte Dipanda"
+            ]
+        ],
+        "name": "Coeur en cage",
+        "piste": 1,
+        "track": "spotify:track:6IrCyVxjJSKkvuO4gZ1147"
+    },
+    {
+        "album": {
+            "name": "Best Of",
+            "type": "compilation",
+            "uri": "spotify:album:4tlSWI0nunSSyXTSlo8fvo"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 124533,
+        "features": {
+            "acousticness": 0.353,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1PtF5uqMb4VpKELngwQHFN",
+            "danceability": 0.82,
+            "duration_ms": 124533,
+            "energy": 0.536,
+            "id": "1PtF5uqMb4VpKELngwQHFN",
+            "instrumentalness": 0,
+            "key": 5,
+            "liveness": 0.0821,
+            "loudness": -6.994,
+            "mode": 0,
+            "speechiness": 0.276,
+            "tempo": 112.019,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/1PtF5uqMb4VpKELngwQHFN",
+            "type": "audio_features",
+            "uri": "spotify:track:1PtF5uqMb4VpKELngwQHFN",
+            "valence": 0.501
+        },
+        "featuring": [
+            [
+                "spotify:artist:46CaFQ5mdimxfNmTILDBlk",
+                "Oonagh"
+            ]
+        ],
+        "name": "Jana Wakae",
+        "piste": 11,
+        "track": "spotify:track:1PtF5uqMb4VpKELngwQHFN"
+    },
+    {
+        "album": {
+            "name": "Ego\u00efste (feat. Singuila)",
+            "type": "single",
+            "uri": "spotify:album:4o8EeDorPR2RMZm5OaVmMq"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 194226,
+        "features": {
+            "acousticness": 0.241,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3FmGg2mso36Z8oj7e9q3Wl",
+            "danceability": 0.748,
+            "duration_ms": 194227,
+            "energy": 0.434,
+            "id": "3FmGg2mso36Z8oj7e9q3Wl",
+            "instrumentalness": 0,
+            "key": 6,
+            "liveness": 0.0708,
+            "loudness": -10.033,
+            "mode": 1,
+            "speechiness": 0.0741,
+            "tempo": 96.997,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/3FmGg2mso36Z8oj7e9q3Wl",
+            "type": "audio_features",
+            "uri": "spotify:track:3FmGg2mso36Z8oj7e9q3Wl",
+            "valence": 0.547
+        },
+        "featuring": [
+            [
+                "spotify:artist:26zgIfFyTCImkHAp5gwKW8",
+                "Jo\u00e9 Dw\u00e8t Fil\u00e9"
+            ]
+        ],
+        "name": "Ego\u00efste (feat. Singuila)",
+        "piste": 1,
+        "track": "spotify:track:3FmGg2mso36Z8oj7e9q3Wl"
+    },
+    {
+        "album": {
+            "name": "Ego\u00efste",
+            "type": "single",
+            "uri": "spotify:album:51Jk41W11oDMOU0QHGX6BP"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 192989,
+        "features": {
+            "acousticness": 0.28,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/50osLLKpR0dhM6EPtllrRR",
+            "danceability": 0.728,
+            "duration_ms": 192990,
+            "energy": 0.315,
+            "id": "50osLLKpR0dhM6EPtllrRR",
+            "instrumentalness": 0,
+            "key": 6,
+            "liveness": 0.0796,
+            "loudness": -16.133,
+            "mode": 1,
+            "speechiness": 0.115,
+            "tempo": 96.999,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/50osLLKpR0dhM6EPtllrRR",
+            "type": "audio_features",
+            "uri": "spotify:track:50osLLKpR0dhM6EPtllrRR",
+            "valence": 0.552
+        },
+        "featuring": [
+            [
+                "spotify:artist:26zgIfFyTCImkHAp5gwKW8",
+                "Jo\u00e9 Dw\u00e8t Fil\u00e9"
+            ]
+        ],
+        "name": "Ego\u00efste",
+        "piste": 1,
+        "track": "spotify:track:50osLLKpR0dhM6EPtllrRR"
+    },
+    {
+        "album": {
+            "name": "Erratum (Deluxe Edition)",
+            "type": "album",
+            "uri": "spotify:album:12bDmtxnWnTnZxNF8kpvac"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 207526,
+        "features": {
+            "acousticness": 0.302,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1mxm95sQegcedAGhkjGSAE",
+            "danceability": 0.689,
+            "duration_ms": 207527,
+            "energy": 0.634,
+            "id": "1mxm95sQegcedAGhkjGSAE",
+            "instrumentalness": 0,
+            "key": 4,
+            "liveness": 0.143,
+            "loudness": -7.238,
+            "mode": 0,
+            "speechiness": 0.105,
+            "tempo": 84.938,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/1mxm95sQegcedAGhkjGSAE",
+            "type": "audio_features",
+            "uri": "spotify:track:1mxm95sQegcedAGhkjGSAE",
+            "valence": 0.37
+        },
+        "featuring": [
+            [
+                "spotify:artist:64XqdWjtYhfMJeQB7wtAwS",
+                "Hiro"
+            ]
+        ],
+        "name": "S'en aller",
+        "piste": 6,
+        "track": "spotify:track:1mxm95sQegcedAGhkjGSAE"
+    },
+    {
+        "album": {
+            "name": "Kings",
+            "type": "album",
+            "uri": "spotify:album:5oIHdYp91VtzjM1Cir3syp"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 214343,
+        "features": {
+            "acousticness": 0.232,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7E4LVNTcRucYVlhATIHdae",
+            "danceability": 0.724,
+            "duration_ms": 214344,
+            "energy": 0.802,
+            "id": "7E4LVNTcRucYVlhATIHdae",
+            "instrumentalness": 0,
+            "key": 1,
+            "liveness": 0.111,
+            "loudness": -2.539,
+            "mode": 1,
+            "speechiness": 0.0423,
+            "tempo": 112.001,
+            "time_signature": 5,
+            "track_href": "https://api.spotify.com/v1/tracks/7E4LVNTcRucYVlhATIHdae",
+            "type": "audio_features",
+            "uri": "spotify:track:7E4LVNTcRucYVlhATIHdae",
+            "valence": 0.771
+        },
+        "featuring": [
+            [
+                "spotify:artist:5Gf71JW8QjF77ELQ94JX38",
+                "Pit Baccardi"
+            ],
+            [
+                "spotify:artist:19MUAFeICSgiIHN7C452LD",
+                "Magasco"
+            ]
+        ],
+        "name": "Baby",
+        "piste": 3,
+        "track": "spotify:track:7E4LVNTcRucYVlhATIHdae"
+    },
+    {
+        "album": {
+            "name": "Angela",
+            "type": "single",
+            "uri": "spotify:album:3nX1pM1hg2s8pnjs99rv8J"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 230769,
+        "features": {
+            "acousticness": 0.187,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2bx3kK2qKx3I5AXKABIPzj",
+            "danceability": 0.625,
+            "duration_ms": 230769,
+            "energy": 0.932,
+            "id": "2bx3kK2qKx3I5AXKABIPzj",
+            "instrumentalness": 0,
+            "key": 6,
+            "liveness": 0.0579,
+            "loudness": -5.403,
+            "mode": 1,
+            "speechiness": 0.177,
+            "tempo": 103.769,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2bx3kK2qKx3I5AXKABIPzj",
+            "type": "audio_features",
+            "uri": "spotify:track:2bx3kK2qKx3I5AXKABIPzj",
+            "valence": 0.761
+        },
+        "featuring": [
+            [
+                "spotify:artist:2ybfFlvm4VB8C56wI1yOQs",
+                "Young \"D\""
+            ],
+            [
+                "spotify:artist:0oKNR4ahj1CPnK2kQmbOfo",
+                "Flavour"
+            ],
+            [
+                "spotify:artist:7fKO99ryLDo8VocdtVvwZW",
+                "Yemi Alade"
+            ],
+            [
+                "spotify:artist:1eCaedusgydlcn69blHOvL",
+                "Harmonize"
+            ],
+            [
+                "spotify:artist:2JX4h8xm0hNxCB0aNBWzyi",
+                "Gyptian"
+            ]
+        ],
+        "name": "Angela",
+        "piste": 1,
+        "track": "spotify:track:2bx3kK2qKx3I5AXKABIPzj"
+    },
+    {
+        "album": {
+            "name": "Cloud Nine",
+            "type": "album",
+            "uri": "spotify:album:3R7zidjDuf8Wb1NiA0jo65"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 249280,
+        "features": {
+            "acousticness": 0.254,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3BWopQjX8Ga0DLPEBcYfRV",
+            "danceability": 0.718,
+            "duration_ms": 249281,
+            "energy": 0.782,
+            "id": "3BWopQjX8Ga0DLPEBcYfRV",
+            "instrumentalness": 0.000651,
+            "key": 8,
+            "liveness": 0.0951,
+            "loudness": -4.052,
+            "mode": 1,
+            "speechiness": 0.096,
+            "tempo": 101.996,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/3BWopQjX8Ga0DLPEBcYfRV",
+            "type": "audio_features",
+            "uri": "spotify:track:3BWopQjX8Ga0DLPEBcYfRV",
+            "valence": 0.814
+        },
+        "featuring": [
+            [
+                "spotify:artist:7cUFvbLZrLySXBoxk39kCZ",
+                "Locko"
+            ]
+        ],
+        "name": "Hein Hein Hein",
+        "piste": 10,
+        "track": "spotify:track:3BWopQjX8Ga0DLPEBcYfRV"
+    },
+    {
+        "album": {
+            "name": "Encore lui",
+            "type": "album",
+            "uri": "spotify:album:5GwN4xqdPkbyRiQuuhu0Fr"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 212582,
+        "features": {
+            "acousticness": 0.124,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4RvoKvJqdjr8d7ooLImGlt",
+            "danceability": 0.691,
+            "duration_ms": 212582,
+            "energy": 0.814,
+            "id": "4RvoKvJqdjr8d7ooLImGlt",
+            "instrumentalness": 0,
+            "key": 4,
+            "liveness": 0.0792,
+            "loudness": -5.141,
+            "mode": 0,
+            "speechiness": 0.356,
+            "tempo": 128.043,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4RvoKvJqdjr8d7ooLImGlt",
+            "type": "audio_features",
+            "uri": "spotify:track:4RvoKvJqdjr8d7ooLImGlt",
+            "valence": 0.542
+        },
+        "featuring": [
+            [
+                "spotify:artist:6CSKMBCeQhddsPL63zvDhX",
+                "Dj Leska"
+            ],
+            [
+                "spotify:artist:1q3qfgcLt7dhYNdWLEXgkX",
+                "Le D"
+            ]
+        ],
+        "name": "NRV",
+        "piste": 8,
+        "track": "spotify:track:4RvoKvJqdjr8d7ooLImGlt"
+    },
+    {
+        "album": {
+            "name": "Hors format, vol. 1",
+            "type": "compilation",
+            "uri": "spotify:album:5plcZrik53qDPK4JNcIFG8"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 193173,
+        "features": {
+            "acousticness": 0.267,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5RBaBbzNHC6lD74aog4nFh",
+            "danceability": 0.609,
+            "duration_ms": 193173,
+            "energy": 0.831,
+            "id": "5RBaBbzNHC6lD74aog4nFh",
+            "instrumentalness": 0,
+            "key": 10,
+            "liveness": 0.108,
+            "loudness": -4.464,
+            "mode": 0,
+            "speechiness": 0.307,
+            "tempo": 150.094,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/5RBaBbzNHC6lD74aog4nFh",
+            "type": "audio_features",
+            "uri": "spotify:track:5RBaBbzNHC6lD74aog4nFh",
+            "valence": 0.566
+        },
+        "featuring": [
+            [
+                "spotify:artist:0QODQ4TiVsOcGvWxk97Ylv",
+                "Calbo"
+            ]
+        ],
+        "name": "Ind\u00e9l\u00e9bile",
+        "piste": 11,
+        "track": "spotify:track:5RBaBbzNHC6lD74aog4nFh"
+    },
+    {
+        "album": {
+            "name": "Ad Honores",
+            "type": "album",
+            "uri": "spotify:album:6F4D9pAe966U9LdzdiIQqc"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 357586,
+        "features": {
+            "acousticness": 0.544,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6JBJ9bNtvoFEEGy3U3QpKV",
+            "danceability": 0.829,
+            "duration_ms": 357586,
+            "energy": 0.582,
+            "id": "6JBJ9bNtvoFEEGy3U3QpKV",
+            "instrumentalness": 2.97e-05,
+            "key": 3,
+            "liveness": 0.0973,
+            "loudness": -6.777,
+            "mode": 0,
+            "speechiness": 0.103,
+            "tempo": 137.83,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/6JBJ9bNtvoFEEGy3U3QpKV",
+            "type": "audio_features",
+            "uri": "spotify:track:6JBJ9bNtvoFEEGy3U3QpKV",
+            "valence": 0.773
+        },
+        "featuring": [
+            [
+                "spotify:artist:4kb5hcDKr0k4NGNTP6xwhn",
+                "Afrodiziac"
+            ],
+            [
+                "spotify:artist:1R1ZaDpOyunIdJ6oAssW8H",
+                "Jango Jack"
+            ],
+            [
+                "spotify:artist:4IjyykHvuK7hXGSemXjzcn",
+                "Naty"
+            ]
+        ],
+        "name": "Sale attitude",
+        "piste": 9,
+        "track": "spotify:track:6JBJ9bNtvoFEEGy3U3QpKV"
+    },
+    {
+        "album": {
+            "name": "Afrique - Antilles : La rencontre musicale avec toutes les stars",
+            "type": "compilation",
+            "uri": "spotify:album:3iHnfZPlEyHwAKmQArcLrk"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 262586,
+        "features": {
+            "acousticness": 0.321,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6c7qjPPsgIv1JMgbx4kP3G",
+            "danceability": 0.424,
+            "duration_ms": 262587,
+            "energy": 0.832,
+            "id": "6c7qjPPsgIv1JMgbx4kP3G",
+            "instrumentalness": 0,
+            "key": 6,
+            "liveness": 0.144,
+            "loudness": -5.567,
+            "mode": 1,
+            "speechiness": 0.382,
+            "tempo": 81.168,
+            "time_signature": 1,
+            "track_href": "https://api.spotify.com/v1/tracks/6c7qjPPsgIv1JMgbx4kP3G",
+            "type": "audio_features",
+            "uri": "spotify:track:6c7qjPPsgIv1JMgbx4kP3G",
+            "valence": 0.599
+        },
+        "featuring": [
+            [
+                "spotify:artist:1Fvf7GTHUjkFdkTkzENxAo",
+                "Fdy Phenomen"
+            ]
+        ],
+        "name": "Illusion",
+        "piste": 16,
+        "track": "spotify:track:6c7qjPPsgIv1JMgbx4kP3G"
+    },
+    {
+        "album": {
+            "name": "#ILOVECARNIVAL VOL. 1",
+            "type": "compilation",
+            "uri": "spotify:album:4uQi5Ip6rtcFu8oeiQACWS"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 219346,
+        "features": {
+            "acousticness": 0.0827,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1tcFbi6Ecvw1abPIMeeEAx",
+            "danceability": 0.757,
+            "duration_ms": 219347,
+            "energy": 0.918,
+            "id": "1tcFbi6Ecvw1abPIMeeEAx",
+            "instrumentalness": 0.00203,
+            "key": 1,
+            "liveness": 0.231,
+            "loudness": -5.064,
+            "mode": 0,
+            "speechiness": 0.086,
+            "tempo": 115.007,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/1tcFbi6Ecvw1abPIMeeEAx",
+            "type": "audio_features",
+            "uri": "spotify:track:1tcFbi6Ecvw1abPIMeeEAx",
+            "valence": 0.737
+        },
+        "featuring": [
+            [
+                "spotify:artist:1GaBsp1ICIp1e6udgE7fba",
+                "Kevin Lyttle"
+            ],
+            [
+                "spotify:artist:4SXD1fxpHkIcwg5a25ZaO8",
+                "Jvck Frost"
+            ]
+        ],
+        "name": "Nightingale - (Rossignol Edit)",
+        "piste": 5,
+        "track": "spotify:track:1tcFbi6Ecvw1abPIMeeEAx"
+    },
+    {
+        "album": {
+            "name": "C\u00e9sarienne",
+            "type": "album",
+            "uri": "spotify:album:59gz8ws9PaWq10c3pjhxTb"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 222725,
+        "features": {
+            "acousticness": 0.5,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/71iCAa476vkX2tkdUzo3zl",
+            "danceability": 0.545,
+            "duration_ms": 222726,
+            "energy": 0.838,
+            "id": "71iCAa476vkX2tkdUzo3zl",
+            "instrumentalness": 1.3e-05,
+            "key": 6,
+            "liveness": 0.109,
+            "loudness": -5.488,
+            "mode": 1,
+            "speechiness": 0.67,
+            "tempo": 88.56,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/71iCAa476vkX2tkdUzo3zl",
+            "type": "audio_features",
+            "uri": "spotify:track:71iCAa476vkX2tkdUzo3zl",
+            "valence": 0.699
+        },
+        "featuring": [
+            [
+                "spotify:artist:1rJtyG6tqPJkubcxb8zXs0",
+                "Za"
+            ]
+        ],
+        "name": "Encore (feat. Singuila)",
+        "piste": 8,
+        "track": "spotify:track:71iCAa476vkX2tkdUzo3zl"
+    },
+    {
+        "album": {
+            "name": "El Capo",
+            "type": "album",
+            "uri": "spotify:album:2ou8idHkCMWeep7lu3Hop7"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 207200,
+        "features": {
+            "acousticness": 0.0867,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0h1kAI15cGugfCIebiArEQ",
+            "danceability": 0.745,
+            "duration_ms": 207200,
+            "energy": 0.902,
+            "id": "0h1kAI15cGugfCIebiArEQ",
+            "instrumentalness": 0,
+            "key": 0,
+            "liveness": 0.288,
+            "loudness": -4.732,
+            "mode": 1,
+            "speechiness": 0.107,
+            "tempo": 127.997,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/0h1kAI15cGugfCIebiArEQ",
+            "type": "audio_features",
+            "uri": "spotify:track:0h1kAI15cGugfCIebiArEQ",
+            "valence": 0.914
+        },
+        "featuring": [
+            [
+                "spotify:artist:7kxYUR3VthtpyPgzvSh1H4",
+                "Petit Denis"
+            ],
+            [
+                "spotify:artist:4gD7pjkmrDtA85YBMkg5GA",
+                "Kamnouze"
+            ]
+        ],
+        "name": "Y a la joie",
+        "piste": 4,
+        "track": "spotify:track:0h1kAI15cGugfCIebiArEQ"
+    },
+    {
+        "album": {
+            "name": "Morceaux d'un homme",
+            "type": "album",
+            "uri": "spotify:album:0SJA6pb6uS81vDc3gTQsSv"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 217261,
+        "features": {
+            "acousticness": 0.0875,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Pr2fyBLfwste9TIvLTJP4",
+            "danceability": 0.381,
+            "duration_ms": 217261,
+            "energy": 0.796,
+            "id": "0Pr2fyBLfwste9TIvLTJP4",
+            "instrumentalness": 0,
+            "key": 10,
+            "liveness": 0.0804,
+            "loudness": -6.284,
+            "mode": 1,
+            "speechiness": 0.139,
+            "tempo": 83.841,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/0Pr2fyBLfwste9TIvLTJP4",
+            "type": "audio_features",
+            "uri": "spotify:track:0Pr2fyBLfwste9TIvLTJP4",
+            "valence": 0.617
+        },
+        "featuring": [
+            [
+                "spotify:artist:0cGAKlRsOPxXPZijGW9ZuN",
+                "Black Kent"
+            ]
+        ],
+        "name": "Comme avant",
+        "piste": 14,
+        "track": "spotify:track:0Pr2fyBLfwste9TIvLTJP4"
+    },
+    {
+        "album": {
+            "name": "Plan Perfecto",
+            "type": "single",
+            "uri": "spotify:album:18hgDSqNcDRjvfwbOE2OpV"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 202000,
+        "features": {
+            "acousticness": 0.0664,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/23NLnjD71Onf6fA7hZg2mw",
+            "danceability": 0.708,
+            "duration_ms": 202000,
+            "energy": 0.846,
+            "id": "23NLnjD71Onf6fA7hZg2mw",
+            "instrumentalness": 0,
+            "key": 7,
+            "liveness": 0.0837,
+            "loudness": -4.999,
+            "mode": 0,
+            "speechiness": 0.0674,
+            "tempo": 120.008,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/23NLnjD71Onf6fA7hZg2mw",
+            "type": "audio_features",
+            "uri": "spotify:track:23NLnjD71Onf6fA7hZg2mw",
+            "valence": 0.582
+        },
+        "featuring": [
+            [
+                "spotify:artist:7D6PY4S9jPOmNvimabfQ3A",
+                "Chrisce"
+            ]
+        ],
+        "name": "Plan Perfecto",
+        "piste": 1,
+        "track": "spotify:track:23NLnjD71Onf6fA7hZg2mw"
+    },
+    {
+        "album": {
+            "name": "Hola hola (L'hymne Trace pour la CAN 2015)",
+            "type": "single",
+            "uri": "spotify:album:1y1moZLSuotUiTbKPN2iDP"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 216634,
+        "features": {
+            "acousticness": 0.541,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4dpTXiw5TllGccrepRoUsd",
+            "danceability": 0.767,
+            "duration_ms": 216635,
+            "energy": 0.943,
+            "id": "4dpTXiw5TllGccrepRoUsd",
+            "instrumentalness": 0.00136,
+            "key": 11,
+            "liveness": 0.207,
+            "loudness": -2.513,
+            "mode": 1,
+            "speechiness": 0.0717,
+            "tempo": 130.973,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4dpTXiw5TllGccrepRoUsd",
+            "type": "audio_features",
+            "uri": "spotify:track:4dpTXiw5TllGccrepRoUsd",
+            "valence": 0.963
+        },
+        "featuring": [
+            [
+                "spotify:artist:4RVinIIKSvO4mc0DGj8FW1",
+                "Molare"
+            ],
+            [
+                "spotify:artist:5BfpzKNakWiXUNm1RfBgUi",
+                "Toofan"
+            ],
+            [
+                "spotify:artist:6eTEMo2irgozfqcK4dEUeE",
+                "Wizboyy"
+            ],
+            [
+                "spotify:artist:3eTpitQsrNQdmkQJHS2v2j",
+                "Eddy Kenzo"
+            ],
+            [
+                "spotify:artist:5l7ri5zbUJag1vEvGEvglt",
+                "Arielle T."
+            ],
+            [
+                "spotify:artist:2GLzNCMpJZYZaeAyhwuifS",
+                "Mani Bella"
+            ],
+            [
+                "spotify:artist:3wVciFsMCKw8wIvA3PTAZl",
+                "Cano"
+            ]
+        ],
+        "name": "Hola hola - L'hymne Trace pour la CAN 2015",
+        "piste": 1,
+        "track": "spotify:track:4dpTXiw5TllGccrepRoUsd"
+    },
+    {
+        "album": {
+            "name": "Tropik Mayass Mix",
+            "type": "compilation",
+            "uri": "spotify:album:5aj0pOpiwPfaefaf6WX0S1"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 236878,
+        "features": {
+            "acousticness": 0.416,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1jOhqmEn4OpCQW6R9GM8QO",
+            "danceability": 0.567,
+            "duration_ms": 236878,
+            "energy": 0.855,
+            "id": "1jOhqmEn4OpCQW6R9GM8QO",
+            "instrumentalness": 0.000181,
+            "key": 0,
+            "liveness": 0.084,
+            "loudness": -5.406,
+            "mode": 0,
+            "speechiness": 0.0584,
+            "tempo": 171.934,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/1jOhqmEn4OpCQW6R9GM8QO",
+            "type": "audio_features",
+            "uri": "spotify:track:1jOhqmEn4OpCQW6R9GM8QO",
+            "valence": 0.706
+        },
+        "featuring": [
+            [
+                "spotify:artist:5VaQdK5TI5u5H6p3H25GPU",
+                "Kim"
+            ]
+        ],
+        "name": "Bats-toi - Remix",
+        "piste": 8,
+        "track": "spotify:track:1jOhqmEn4OpCQW6R9GM8QO"
+    },
+    {
+        "album": {
+            "name": "Ma Generation",
+            "type": "album",
+            "uri": "spotify:album:5LoOS1iyB4uEoRxRsHlYTm"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 203836,
+        "features": {
+            "acousticness": 0.0161,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4TmDFjZ4aV6q2xAAkRuU0H",
+            "danceability": 0.732,
+            "duration_ms": 203837,
+            "energy": 0.871,
+            "id": "4TmDFjZ4aV6q2xAAkRuU0H",
+            "instrumentalness": 2.16e-05,
+            "key": 10,
+            "liveness": 0.311,
+            "loudness": -5.97,
+            "mode": 1,
+            "speechiness": 0.0552,
+            "tempo": 96.48,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4TmDFjZ4aV6q2xAAkRuU0H",
+            "type": "audio_features",
+            "uri": "spotify:track:4TmDFjZ4aV6q2xAAkRuU0H",
+            "valence": 0.845
+        },
+        "featuring": [
+            [
+                "spotify:artist:0r2xzktGgZe1CWV9d0b4cP",
+                "Kevin Mengi"
+            ]
+        ],
+        "name": "P\u00e9cho (feat. Singuila)",
+        "piste": 9,
+        "track": "spotify:track:4TmDFjZ4aV6q2xAAkRuU0H"
+    },
+    {
+        "album": {
+            "name": "Winner Tour 2013 (Winner Tour 2013)",
+            "type": "single",
+            "uri": "spotify:album:7xZrh289KebjcmhiZxr0j7"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 207272,
+        "features": {
+            "acousticness": 0.0316,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4lZouakbwLDsqfmgoL9947",
+            "danceability": 0.733,
+            "duration_ms": 207273,
+            "energy": 0.919,
+            "id": "4lZouakbwLDsqfmgoL9947",
+            "instrumentalness": 0,
+            "key": 8,
+            "liveness": 0.303,
+            "loudness": -4.326,
+            "mode": 1,
+            "speechiness": 0.0699,
+            "tempo": 110.046,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4lZouakbwLDsqfmgoL9947",
+            "type": "audio_features",
+            "uri": "spotify:track:4lZouakbwLDsqfmgoL9947",
+            "valence": 0.903
+        },
+        "featuring": [
+            [
+                "spotify:artist:7iTsSoL0FCLoDYkIJzPjOs",
+                "Edalam"
+            ]
+        ],
+        "name": "Elle a un truc",
+        "piste": 3,
+        "track": "spotify:track:4lZouakbwLDsqfmgoL9947"
+    },
+    {
+        "album": {
+            "name": "B2 : Stars Vs Rebelyon (Bonus Version)",
+            "type": "album",
+            "uri": "spotify:album:4JXq6CQ0fRq1oW1IGDB2Bg"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 256666,
+        "features": {
+            "acousticness": 0.127,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1mn6mqT2UAuQe1W6tOGEN1",
+            "danceability": 0.852,
+            "duration_ms": 256667,
+            "energy": 0.779,
+            "id": "1mn6mqT2UAuQe1W6tOGEN1",
+            "instrumentalness": 0,
+            "key": 11,
+            "liveness": 0.202,
+            "loudness": -6.085,
+            "mode": 1,
+            "speechiness": 0.0429,
+            "tempo": 129.994,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/1mn6mqT2UAuQe1W6tOGEN1",
+            "type": "audio_features",
+            "uri": "spotify:track:1mn6mqT2UAuQe1W6tOGEN1",
+            "valence": 0.902
+        },
+        "featuring": [],
+        "name": "Anita",
+        "piste": 5,
+        "track": "spotify:track:1mn6mqT2UAuQe1W6tOGEN1"
+    },
+    {
+        "album": {
+            "name": "La cit\u00e9 rose (musique inspir\u00e9e du film)",
+            "type": "compilation",
+            "uri": "spotify:album:3kWaCYeCUCxpwCQuzXaeGX"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 233586,
+        "features": {
+            "acousticness": 0.322,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4lI0mZGM2NuvWJAGIy89w8",
+            "danceability": 0.781,
+            "duration_ms": 233587,
+            "energy": 0.733,
+            "id": "4lI0mZGM2NuvWJAGIy89w8",
+            "instrumentalness": 0,
+            "key": 7,
+            "liveness": 0.281,
+            "loudness": -4.833,
+            "mode": 1,
+            "speechiness": 0.146,
+            "tempo": 88.487,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4lI0mZGM2NuvWJAGIy89w8",
+            "type": "audio_features",
+            "uri": "spotify:track:4lI0mZGM2NuvWJAGIy89w8",
+            "valence": 0.861
+        },
+        "featuring": [
+            [
+                "spotify:artist:6uXqGHHVsTzZSc5uLEEj0M",
+                "Yas & T1000"
+            ]
+        ],
+        "name": "J'ai oubli\u00e9 (feat. Yas & T1000 [S.Killa])",
+        "piste": 5,
+        "track": "spotify:track:4lI0mZGM2NuvWJAGIy89w8"
+    },
+    {
+        "album": {
+            "name": "Premi\u00e8re Classe (Les Sessions R&B)",
+            "type": "compilation",
+            "uri": "spotify:album:5v3wDx1mpTA5Om8BbYHPrK"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 283933,
+        "features": {
+            "acousticness": 0.103,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6fJf0AIzESQVsLKNHKxo8U",
+            "danceability": 0.843,
+            "duration_ms": 283933,
+            "energy": 0.636,
+            "id": "6fJf0AIzESQVsLKNHKxo8U",
+            "instrumentalness": 2.69e-06,
+            "key": 2,
+            "liveness": 0.182,
+            "loudness": -5.05,
+            "mode": 0,
+            "speechiness": 0.124,
+            "tempo": 105.579,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/6fJf0AIzESQVsLKNHKxo8U",
+            "type": "audio_features",
+            "uri": "spotify:track:6fJf0AIzESQVsLKNHKxo8U",
+            "valence": 0.96
+        },
+        "featuring": [],
+        "name": "Le damn\u00e9",
+        "piste": 12,
+        "track": "spotify:track:6fJf0AIzESQVsLKNHKxo8U"
+    },
+    {
+        "album": {
+            "name": "Paradis perdu",
+            "type": "album",
+            "uri": "spotify:album:2U7V53Q8jYt5cboGyfAgOo"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 199173,
+        "features": {
+            "acousticness": 0.289,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/53ZRQAXqmvJac4q8nJaTr2",
+            "danceability": 0.608,
+            "duration_ms": 199173,
+            "energy": 0.724,
+            "id": "53ZRQAXqmvJac4q8nJaTr2",
+            "instrumentalness": 0,
+            "key": 11,
+            "liveness": 0.338,
+            "loudness": -7.476,
+            "mode": 1,
+            "speechiness": 0.0756,
+            "tempo": 71.962,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/53ZRQAXqmvJac4q8nJaTr2",
+            "type": "audio_features",
+            "uri": "spotify:track:53ZRQAXqmvJac4q8nJaTr2",
+            "valence": 0.882
+        },
+        "featuring": [
+            [
+                "spotify:artist:1slMaHG56X8oSZdBzx7isZ",
+                "Wicked"
+            ]
+        ],
+        "name": "Papa",
+        "piste": 13,
+        "track": "spotify:track:53ZRQAXqmvJac4q8nJaTr2"
+    },
+    {
+        "album": {
+            "name": "Move 4 Your Country",
+            "type": "single",
+            "uri": "spotify:album:2zeHdVYOXi0PZX24Gn8ocj"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 219768,
+        "features": {
+            "acousticness": 0.214,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5h1UrnFyFbjC2SPDBPtxiS",
+            "danceability": 0.69,
+            "duration_ms": 219768,
+            "energy": 0.941,
+            "id": "5h1UrnFyFbjC2SPDBPtxiS",
+            "instrumentalness": 2.54e-06,
+            "key": 0,
+            "liveness": 0.162,
+            "loudness": -4.78,
+            "mode": 1,
+            "speechiness": 0.123,
+            "tempo": 130.014,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/5h1UrnFyFbjC2SPDBPtxiS",
+            "type": "audio_features",
+            "uri": "spotify:track:5h1UrnFyFbjC2SPDBPtxiS",
+            "valence": 0.885
+        },
+        "featuring": [
+            [
+                "spotify:artist:4qcYL0Da42tSXX3GREpvFl",
+                "Lynnsha"
+            ],
+            [
+                "spotify:artist:4DPAkF8h2JInYO0wOLQhRt",
+                "Bebi Philip"
+            ],
+            [
+                "spotify:artist:0eLzSHo8zT9rswxQoFPqct",
+                "Nash"
+            ],
+            [
+                "spotify:artist:4gD7pjkmrDtA85YBMkg5GA",
+                "Kamnouze"
+            ],
+            [
+                "spotify:artist:3rF9KKd6aPZvLa2NbQsiKH",
+                "Jacob Desvarieux"
+            ]
+        ],
+        "name": "Move 4 Your Country",
+        "piste": 1,
+        "track": "spotify:track:5h1UrnFyFbjC2SPDBPtxiS"
+    },
+    {
+        "album": {
+            "name": "Boulbi Neuf Deux Sp\u00e9cial Boulogne",
+            "type": "compilation",
+            "uri": "spotify:album:49CQMFfnYpJIi0niUbL2Vd"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 227946,
+        "features": {
+            "acousticness": 0.398,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1GrXsI1ovqo7YLwUKTxYb5",
+            "danceability": 0.396,
+            "duration_ms": 227947,
+            "energy": 0.767,
+            "id": "1GrXsI1ovqo7YLwUKTxYb5",
+            "instrumentalness": 2.86e-06,
+            "key": 7,
+            "liveness": 0.48,
+            "loudness": -10.707,
+            "mode": 0,
+            "speechiness": 0.439,
+            "tempo": 98.771,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/1GrXsI1ovqo7YLwUKTxYb5",
+            "type": "audio_features",
+            "uri": "spotify:track:1GrXsI1ovqo7YLwUKTxYb5",
+            "valence": 0.863
+        },
+        "featuring": [
+            [
+                "spotify:artist:5RFGH29EXjwUKSTrowHKVc",
+                "Les Rieurs"
+            ],
+            [
+                "spotify:artist:3CeFsxjQ2SMDVbTtTthj0r",
+                "Adil"
+            ]
+        ],
+        "name": "Il faut leur dire",
+        "piste": 10,
+        "track": "spotify:track:1GrXsI1ovqo7YLwUKTxYb5"
+    },
+    {
+        "album": {
+            "name": "Affaires 2 Famille",
+            "type": "album",
+            "uri": "spotify:album:3xN9o3zNor9zKCHgZroxuL"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 340293,
+        "features": {
+            "acousticness": 0.342,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4qgzaIkutWxfZkmn5cqaKC",
+            "danceability": 0.624,
+            "duration_ms": 338733,
+            "energy": 0.766,
+            "id": "4qgzaIkutWxfZkmn5cqaKC",
+            "instrumentalness": 0,
+            "key": 4,
+            "liveness": 0.227,
+            "loudness": -5.487,
+            "mode": 0,
+            "speechiness": 0.431,
+            "tempo": 79.43,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4qgzaIkutWxfZkmn5cqaKC",
+            "type": "audio_features",
+            "uri": "spotify:track:4qgzaIkutWxfZkmn5cqaKC",
+            "valence": 0.505
+        },
+        "featuring": [
+            [
+                "spotify:artist:5qAHb2rKTK9bWXF70QvPQn",
+                "Alibi Montana"
+            ],
+            [
+                "spotify:artist:0J70OzqwVWsM4OE4kqaYzE",
+                "Alino"
+            ]
+        ],
+        "name": "Papa Maman",
+        "piste": 11,
+        "track": "spotify:track:4qgzaIkutWxfZkmn5cqaKC"
+    },
+    {
+        "album": {
+            "name": "Ra\u00ef Fever",
+            "type": "compilation",
+            "uri": "spotify:album:1GxuxJKl6klAPFn7vebyAs"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 221773,
+        "features": {
+            "acousticness": 0.419,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6NigkjOcM9CCkTimKEfYX7",
+            "danceability": 0.839,
+            "duration_ms": 221773,
+            "energy": 0.714,
+            "id": "6NigkjOcM9CCkTimKEfYX7",
+            "instrumentalness": 0,
+            "key": 1,
+            "liveness": 0.313,
+            "loudness": -3.788,
+            "mode": 1,
+            "speechiness": 0.0861,
+            "tempo": 118.036,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/6NigkjOcM9CCkTimKEfYX7",
+            "type": "audio_features",
+            "uri": "spotify:track:6NigkjOcM9CCkTimKEfYX7",
+            "valence": 0.727
+        },
+        "featuring": [],
+        "name": "2 Pour Une - Feat. Sarhaoui",
+        "piste": 6,
+        "track": "spotify:track:6NigkjOcM9CCkTimKEfYX7"
+    },
+    {
+        "album": {
+            "name": "Karnivor",
+            "type": "album",
+            "uri": "spotify:album:7nm7RQ5B5jvNz8N7zJtlOU"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 251506,
+        "features": {
+            "acousticness": 0.0491,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/24K9OGfqQGJqm6WL0OnoX3",
+            "danceability": 0.512,
+            "duration_ms": 251507,
+            "energy": 0.781,
+            "id": "24K9OGfqQGJqm6WL0OnoX3",
+            "instrumentalness": 0,
+            "key": 8,
+            "liveness": 0.154,
+            "loudness": -2.874,
+            "mode": 0,
+            "speechiness": 0.161,
+            "tempo": 93.333,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/24K9OGfqQGJqm6WL0OnoX3",
+            "type": "audio_features",
+            "uri": "spotify:track:24K9OGfqQGJqm6WL0OnoX3",
+            "valence": 0.516
+        },
+        "featuring": [
+            [
+                "spotify:artist:2tqyf97Ornfq2CZPeeEf05",
+                "Ba'ponga"
+            ]
+        ],
+        "name": "Deracine",
+        "piste": 14,
+        "track": "spotify:track:24K9OGfqQGJqm6WL0OnoX3"
+    },
+    {
+        "album": {
+            "name": "G\u00e9n\u00e9ration Ra\u00ef 2008",
+            "type": "compilation",
+            "uri": "spotify:album:3c7w5zdiBANtxrZvOzTQXD"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 189253,
+        "features": {
+            "acousticness": 0.367,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4rW73MWZMxP5hnRpJIFbH8",
+            "danceability": 0.838,
+            "duration_ms": 189253,
+            "energy": 0.71,
+            "id": "4rW73MWZMxP5hnRpJIFbH8",
+            "instrumentalness": 0,
+            "key": 1,
+            "liveness": 0.375,
+            "loudness": -4.543,
+            "mode": 1,
+            "speechiness": 0.101,
+            "tempo": 118.038,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4rW73MWZMxP5hnRpJIFbH8",
+            "type": "audio_features",
+            "uri": "spotify:track:4rW73MWZMxP5hnRpJIFbH8",
+            "valence": 0.771
+        },
+        "featuring": [
+            [
+                "spotify:artist:1gJfzQ9ddfUGkMhznVLQe6",
+                "Sahraoui"
+            ]
+        ],
+        "name": "1 pour 2",
+        "piste": 21,
+        "track": "spotify:track:4rW73MWZMxP5hnRpJIFbH8"
+    },
+    {
+        "album": {
+            "name": "Sensations supr\u00eames",
+            "type": "album",
+            "uri": "spotify:album:541fWkTciGG2UBBsJUPIgL"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 272160,
+        "features": {
+            "acousticness": 0.0281,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/48wktIFfeoj5hRsvsIr9uN",
+            "danceability": 0.447,
+            "duration_ms": 272160,
+            "energy": 0.844,
+            "id": "48wktIFfeoj5hRsvsIr9uN",
+            "instrumentalness": 0,
+            "key": 0,
+            "liveness": 0.622,
+            "loudness": -5.992,
+            "mode": 0,
+            "speechiness": 0.353,
+            "tempo": 80.837,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/48wktIFfeoj5hRsvsIr9uN",
+            "type": "audio_features",
+            "uri": "spotify:track:48wktIFfeoj5hRsvsIr9uN",
+            "valence": 0.666
+        },
+        "featuring": [
+            [
+                "spotify:artist:4gD7pjkmrDtA85YBMkg5GA",
+                "Kamnouze"
+            ]
+        ],
+        "name": "Nos blessures",
+        "piste": 8,
+        "track": "spotify:track:48wktIFfeoj5hRsvsIr9uN"
+    },
+    {
+        "album": {
+            "name": "Sensations supr\u00eames",
+            "type": "album",
+            "uri": "spotify:album:541fWkTciGG2UBBsJUPIgL"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 229026,
+        "features": {
+            "acousticness": 0.0225,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6fL9yCuiRpWBFV9iW9F07G",
+            "danceability": 0.787,
+            "duration_ms": 229027,
+            "energy": 0.935,
+            "id": "6fL9yCuiRpWBFV9iW9F07G",
+            "instrumentalness": 0,
+            "key": 0,
+            "liveness": 0.0827,
+            "loudness": -4.072,
+            "mode": 1,
+            "speechiness": 0.161,
+            "tempo": 123.932,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/6fL9yCuiRpWBFV9iW9F07G",
+            "type": "audio_features",
+            "uri": "spotify:track:6fL9yCuiRpWBFV9iW9F07G",
+            "valence": 0.935
+        },
+        "featuring": [
+            [
+                "spotify:artist:4gD7pjkmrDtA85YBMkg5GA",
+                "Kamnouze"
+            ],
+            [
+                "spotify:artist:7kxYUR3VthtpyPgzvSh1H4",
+                "Petit Denis"
+            ]
+        ],
+        "name": "\u00c7a n'ment pas",
+        "piste": 14,
+        "track": "spotify:track:6fL9yCuiRpWBFV9iW9F07G"
+    },
+    {
+        "album": {
+            "name": "Street Couleur",
+            "type": "album",
+            "uri": "spotify:album:5D98SEF0maPfnipb7tITsJ"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 226480,
+        "features": {
+            "acousticness": 0.151,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4pXXtkhMGvXp7dXJH7WoIb",
+            "danceability": 0.86,
+            "duration_ms": 226480,
+            "energy": 0.58,
+            "id": "4pXXtkhMGvXp7dXJH7WoIb",
+            "instrumentalness": 0,
+            "key": 0,
+            "liveness": 0.126,
+            "loudness": -4.877,
+            "mode": 1,
+            "speechiness": 0.3,
+            "tempo": 89.969,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4pXXtkhMGvXp7dXJH7WoIb",
+            "type": "audio_features",
+            "uri": "spotify:track:4pXXtkhMGvXp7dXJH7WoIb",
+            "valence": 0.455
+        },
+        "featuring": [
+            [
+                "spotify:artist:5h0VUGq3Pn45E3rcz9oe66",
+                "Dry"
+            ]
+        ],
+        "name": "Coup du sort",
+        "piste": 2,
+        "track": "spotify:track:4pXXtkhMGvXp7dXJH7WoIb"
+    },
+    {
+        "album": {
+            "name": "Dis l'heure 2 afro zouk",
+            "type": "compilation",
+            "uri": "spotify:album:73VwcuVRGEgrKjUX2iyJrl"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 256666,
+        "features": {
+            "acousticness": 0.119,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2qOlVcqsJoeS2nEZ55sQSE",
+            "danceability": 0.857,
+            "duration_ms": 256667,
+            "energy": 0.777,
+            "id": "2qOlVcqsJoeS2nEZ55sQSE",
+            "instrumentalness": 0,
+            "key": 11,
+            "liveness": 0.173,
+            "loudness": -6.075,
+            "mode": 1,
+            "speechiness": 0.0461,
+            "tempo": 129.984,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2qOlVcqsJoeS2nEZ55sQSE",
+            "type": "audio_features",
+            "uri": "spotify:track:2qOlVcqsJoeS2nEZ55sQSE",
+            "valence": 0.918
+        },
+        "featuring": [
+            [
+                "spotify:artist:6a4cdntqTPN10fph5A8zRQ",
+                "Papa Wemba"
+            ]
+        ],
+        "name": "Anita, femme africaine",
+        "piste": 4,
+        "track": "spotify:track:2qOlVcqsJoeS2nEZ55sQSE"
+    },
+    {
+        "album": {
+            "name": "Thank You",
+            "type": "single",
+            "uri": "spotify:album:4RLgq0VQUQSFXKAvgPfT3J"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 255133,
+        "features": {
+            "acousticness": 0.599,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7bwymeiXT1HbFlGoKcE8KK",
+            "danceability": 0.428,
+            "duration_ms": 255133,
+            "energy": 0.637,
+            "id": "7bwymeiXT1HbFlGoKcE8KK",
+            "instrumentalness": 0,
+            "key": 2,
+            "liveness": 0.19,
+            "loudness": -6.948,
+            "mode": 1,
+            "speechiness": 0.145,
+            "tempo": 92.068,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/7bwymeiXT1HbFlGoKcE8KK",
+            "type": "audio_features",
+            "uri": "spotify:track:7bwymeiXT1HbFlGoKcE8KK",
+            "valence": 0.631
+        },
+        "featuring": [
+            [
+                "spotify:artist:3f5W9NEwkc1SAIPFuumcaf",
+                "Jamelia"
+            ]
+        ],
+        "name": "Thank You",
+        "piste": 1,
+        "track": "spotify:track:7bwymeiXT1HbFlGoKcE8KK"
+    },
+    {
+        "album": {
+            "name": "Self made men",
+            "type": "album",
+            "uri": "spotify:album:37XDl5pdAkLFWP8sHoV1CJ"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 226386,
+        "features": {
+            "acousticness": 0.151,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2MxbsJ8PFTlpbM8bgYyet2",
+            "danceability": 0.706,
+            "duration_ms": 226387,
+            "energy": 0.66,
+            "id": "2MxbsJ8PFTlpbM8bgYyet2",
+            "instrumentalness": 0,
+            "key": 10,
+            "liveness": 0.254,
+            "loudness": -8.5,
+            "mode": 0,
+            "speechiness": 0.261,
+            "tempo": 86.017,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2MxbsJ8PFTlpbM8bgYyet2",
+            "type": "audio_features",
+            "uri": "spotify:track:2MxbsJ8PFTlpbM8bgYyet2",
+            "valence": 0.672
+        },
+        "featuring": [
+            [
+                "spotify:artist:5n3pThVKbdouFVF7rzM57v",
+                "Endo"
+            ]
+        ],
+        "name": "Rendez-vous",
+        "piste": 21,
+        "track": "spotify:track:2MxbsJ8PFTlpbM8bgYyet2"
+    },
+    {
+        "album": {
+            "name": "L'encre en guise de larmes",
+            "type": "album",
+            "uri": "spotify:album:6R5C64t6HX2TFygBwD0VwF"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 306373,
+        "features": {
+            "acousticness": 0.0532,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2HDi2jht586wdRKCkAR1SF",
+            "danceability": 0.867,
+            "duration_ms": 306373,
+            "energy": 0.75,
+            "id": "2HDi2jht586wdRKCkAR1SF",
+            "instrumentalness": 0,
+            "key": 7,
+            "liveness": 0.0967,
+            "loudness": -8.474,
+            "mode": 1,
+            "speechiness": 0.253,
+            "tempo": 98.971,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2HDi2jht586wdRKCkAR1SF",
+            "type": "audio_features",
+            "uri": "spotify:track:2HDi2jht586wdRKCkAR1SF",
+            "valence": 0.735
+        },
+        "featuring": [
+            [
+                "spotify:artist:69yVEiGKjokl3qx25AbBPs",
+                "Ol Kainry"
+            ],
+            [
+                "spotify:artist:2PB3smeUXRDaYAyaS7BtoS",
+                "Antilop Sa."
+            ],
+            [
+                "spotify:artist:3bG1qrusG1VEw4bPPQwSA7",
+                "Kazkami"
+            ],
+            [
+                "spotify:artist:6CdNg5mrTGPbSBHXLizwmy",
+                "Jerry Da Funkyla"
+            ],
+            [
+                "spotify:artist:0CKLpOMZhcKQbYHHydLkU5",
+                "16ar"
+            ]
+        ],
+        "name": "Rageux",
+        "piste": 14,
+        "track": "spotify:track:2HDi2jht586wdRKCkAR1SF"
+    }
+]

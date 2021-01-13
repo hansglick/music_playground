@@ -10,14 +10,61 @@ client_credentials_manager = SpotifyClientCredentials(client_id=client_id, clien
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 
-def Get_Artist_Id(artist_name):
+def levenshtein(s1, s2):
+    if len(s1) < len(s2):
+        return levenshtein(s2, s1)
+
+    # len(s1) >= len(s2)
+    if len(s2) == 0:
+        return len(s1)
+
+    previous_row = range(len(s2) + 1)
+    for i, c1 in enumerate(s1):
+        current_row = [i + 1]
+        for j, c2 in enumerate(s2):
+            insertions = previous_row[j + 1] + 1 # j+1 instead of j since previous_row and current_row are one character longer
+            deletions = current_row[j] + 1       # than s2
+            substitutions = previous_row[j] + (c1 != c2)
+            current_row.append(min(insertions, deletions, substitutions))
+        previous_row = current_row
+    
+    return previous_row[-1]
+
+def Get_Artist_Id(artist_name,max_edit_distance=3):
    
     """
     Renvoie le spotify artist uri à partir du nom d'un artiste
     """
-   
-    artist_uri = sp.search(artist_name)['tracks']['items'][0]['artists'][0]['uri']
-    artist_str = sp.search(artist_name)['tracks']['items'][0]['artists'][0]["name"]
+
+    searchobj = sp.search(artist_name)
+
+    L = []
+    for track in searchobj["tracks"]["items"]:
+        for artist in track["artists"]:
+            L.append((artist["name"],artist["uri"]))
+    L = list(set(L))
+
+    X = []
+    for name,uri in L:
+        dis = levenshtein(artist_name.strip().lower(), name.strip().lower())
+        X.append((dis,name,uri))
+
+    X.sort(key = lambda a : a[0])
+
+    if len(X)>0:
+        
+        if X[0][0]>max_edit_distance:
+            artist_uri = ""
+            artist_str = ""
+        else:
+            artist_uri = X[0][2]
+            artist_str = X[0][1]
+    else:
+        artist_uri = ""
+        artist_str = ""
+
+
+
    
     return artist_uri,artist_str
 

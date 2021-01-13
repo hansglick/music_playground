@@ -98,8 +98,6 @@ conda activate music
  * Les fichiers mp3 sont présents dans ce [repository](https://github.com/hansglick/music_playground/tree/master/app_grab_audio)
 
 
-
-
 # Les données récupérées
 
 Le fichier [trackslist/tracks.json](https://raw.githubusercontent.com/hansglick/music_playground/master/app_grab_tracks/trackslist/tracks.json) comprend tout les tracks des artistes sélectionnés. Chaque entrée correspond à un morceau d'un artiste que l'on s'apprête à télécharger. Le details des informations récupérées pour un track :
@@ -120,3 +118,19 @@ Le fichier [trackslist/tracks.json](https://raw.githubusercontent.com/hansglick/
 ### **Le premier résultat d'une recherche YouTube pas toujours pertinent**
 
 Il s'avère que Youtube galère un peu pour renvoyer la vidéo correspondant au track qu'on recherche en première position, la [vidéo suivante](https://www.youtube.com/watch?v=R-LNBZkVaeU&feature=youtu.be&ab_channel=MartinVincelot) est un screen du run de l'application grabber_urls. Chaque ligne correspond au premier résultat du moteur de recherche youtube pour la requête d'un track. Comme tu peux le voir, il ressort très souvent une interview de 01:54:00 avec 29,310 vues pour des tracks différents. Ceci étant pour des artistes plus connus, je pense qu'il ne fait pas cette erreur. Peut-être faut-il élargir la recherche au top 5 résultats ou bien "oublier" ce track pour lequel le résultat retourné a une durée beaucoup trop grande.
+
+
+
+# Autres Applications
+
+
+### **Téléchargement des URLs d'une channel**
+
+Si l'on veut récupérer les URLs d'une channel Youtube, on peut utiliser l'application [youtube-dl](https://github.com/ytdl-org/youtube-dl). La commande bash suivante permet de créer un fichier `urls_data.txt` qui recense les URLs de la chaîne  `https://www.youtube.com/channel/UCyBcZJsQKjwuJtOysaCqU1Q`
+
+```
+cd app_grab_channel
+conda activate music
+(music) bash grab_channel.sh https://www.youtube.com/channel/UCyBcZJsQKjwuJtOysaCqU1Q urls_data.txt
+
+```
