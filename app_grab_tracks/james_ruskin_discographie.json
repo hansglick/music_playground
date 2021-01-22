@@ -3729,40 +3729,6 @@
         },
         "artist": "spotify:artist:1CxlOLe7rJ6EO7aPMxi9Xx",
         "artist_str": "James Ruskin",
-        "duration": 321000,
-        "features": {
-            "acousticness": 0.00294,
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6fCwakqA0Xgl60xrz6fzry",
-            "danceability": 0.751,
-            "duration_ms": 321000,
-            "energy": 0.97,
-            "id": "6fCwakqA0Xgl60xrz6fzry",
-            "instrumentalness": 0.958,
-            "key": 6,
-            "liveness": 0.124,
-            "loudness": -11.83,
-            "mode": 0,
-            "speechiness": 0.105,
-            "tempo": 138.032,
-            "time_signature": 4,
-            "track_href": "https://api.spotify.com/v1/tracks/6fCwakqA0Xgl60xrz6fzry",
-            "type": "audio_features",
-            "uri": "spotify:track:6fCwakqA0Xgl60xrz6fzry",
-            "valence": 0.0557
-        },
-        "featuring": [],
-        "name": "The Divide",
-        "piste": 2,
-        "track": "spotify:track:6fCwakqA0Xgl60xrz6fzry"
-    },
-    {
-        "album": {
-            "name": "Transition",
-            "type": "single",
-            "uri": "spotify:album:5xvCBeT8x5KrteOR4C2fE7"
-        },
-        "artist": "spotify:artist:1CxlOLe7rJ6EO7aPMxi9Xx",
-        "artist_str": "James Ruskin",
         "duration": 272125,
         "features": {
             "acousticness": 0.0338,
@@ -4311,88 +4277,6 @@
     },
     {
         "album": {
-            "name": "Version 004.1",
-            "type": "single",
-            "uri": "spotify:album:3VW6lXaD8Urp1DiGPn7QyB"
-        },
-        "artist": "spotify:artist:1CxlOLe7rJ6EO7aPMxi9Xx",
-        "artist_str": "James Ruskin",
-        "duration": 360000,
-        "features": {
-            "acousticness": 0.0372,
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1hJAAmG5AJX0mpxTCFyiiR",
-            "danceability": 0.709,
-            "duration_ms": 360000,
-            "energy": 0.809,
-            "id": "1hJAAmG5AJX0mpxTCFyiiR",
-            "instrumentalness": 0.418,
-            "key": 8,
-            "liveness": 0.274,
-            "loudness": -9.005,
-            "mode": 1,
-            "speechiness": 0.147,
-            "tempo": 127.99,
-            "time_signature": 4,
-            "track_href": "https://api.spotify.com/v1/tracks/1hJAAmG5AJX0mpxTCFyiiR",
-            "type": "audio_features",
-            "uri": "spotify:track:1hJAAmG5AJX0mpxTCFyiiR",
-            "valence": 0.0737
-        },
-        "featuring": [
-            [
-                "spotify:artist:3pqHn0bHhBjL0duQ5xesFe",
-                "SHDW"
-            ],
-            [
-                "spotify:artist:5KZRxjXY2OubsqhK7dI6ZA",
-                "Obscure Shape"
-            ]
-        ],
-        "name": "Nachtblende - James Ruskin Version",
-        "piste": 3,
-        "track": "spotify:track:1hJAAmG5AJX0mpxTCFyiiR"
-    },
-    {
-        "album": {
-            "name": "Calling Broadsword / Standing Alone Remixes",
-            "type": "single",
-            "uri": "spotify:album:1mPzX0a7DSuEiByRfVh0GI"
-        },
-        "artist": "spotify:artist:1CxlOLe7rJ6EO7aPMxi9Xx",
-        "artist_str": "James Ruskin",
-        "duration": 356492,
-        "features": {
-            "acousticness": 0.000194,
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0DvxEOc8aPifLzYrvIHbxI",
-            "danceability": 0.55,
-            "duration_ms": 356492,
-            "energy": 0.713,
-            "id": "0DvxEOc8aPifLzYrvIHbxI",
-            "instrumentalness": 0.843,
-            "key": 7,
-            "liveness": 0.326,
-            "loudness": -12.332,
-            "mode": 0,
-            "speechiness": 0.0601,
-            "tempo": 127.03,
-            "time_signature": 4,
-            "track_href": "https://api.spotify.com/v1/tracks/0DvxEOc8aPifLzYrvIHbxI",
-            "type": "audio_features",
-            "uri": "spotify:track:0DvxEOc8aPifLzYrvIHbxI",
-            "valence": 0.309
-        },
-        "featuring": [
-            [
-                "spotify:artist:2uFdvIWH2BWTbQkTb7srDX",
-                "Ben Long"
-            ]
-        ],
-        "name": "Calling Broadsword - James Ruskin Remix",
-        "piste": 1,
-        "track": "spotify:track:0DvxEOc8aPifLzYrvIHbxI"
-    },
-    {
-        "album": {
             "name": "The Light Years Reworks",
             "type": "album",
             "uri": "spotify:album:5aD072MXqZY4TvYxLhz52H"
@@ -4520,45 +4404,6 @@
         },
         "artist": "spotify:artist:1CxlOLe7rJ6EO7aPMxi9Xx",
         "artist_str": "James Ruskin",
-        "duration": 373015,
-        "features": {
-            "acousticness": 0.00148,
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0pMz3SNBZBKzd7PM0Vtuoh",
-            "danceability": 0.753,
-            "duration_ms": 373016,
-            "energy": 0.633,
-            "id": "0pMz3SNBZBKzd7PM0Vtuoh",
-            "instrumentalness": 0.91,
-            "key": 10,
-            "liveness": 0.114,
-            "loudness": -13.254,
-            "mode": 1,
-            "speechiness": 0.0556,
-            "tempo": 130.0,
-            "time_signature": 4,
-            "track_href": "https://api.spotify.com/v1/tracks/0pMz3SNBZBKzd7PM0Vtuoh",
-            "type": "audio_features",
-            "uri": "spotify:track:0pMz3SNBZBKzd7PM0Vtuoh",
-            "valence": 0.165
-        },
-        "featuring": [
-            [
-                "spotify:artist:7Bcwlp6PO9TZObiXcINxrJ",
-                "DVS1"
-            ]
-        ],
-        "name": "Page 1",
-        "piste": 3,
-        "track": "spotify:track:0pMz3SNBZBKzd7PM0Vtuoh"
-    },
-    {
-        "album": {
-            "name": "Structures and Solutions",
-            "type": "compilation",
-            "uri": "spotify:album:5E8H6w3Rrh9aAc6kHIFQuZ"
-        },
-        "artist": "spotify:artist:1CxlOLe7rJ6EO7aPMxi9Xx",
-        "artist_str": "James Ruskin",
         "duration": 322155,
         "features": {
             "acousticness": 0.00407,
@@ -4621,45 +4466,6 @@
     },
     {
         "album": {
-            "name": "Hypnotica Hunter EP",
-            "type": "single",
-            "uri": "spotify:album:3O7zZojfDX5P3mNr1YS8K3"
-        },
-        "artist": "spotify:artist:1CxlOLe7rJ6EO7aPMxi9Xx",
-        "artist_str": "James Ruskin",
-        "duration": 430000,
-        "features": {
-            "acousticness": 0.0639,
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5IdnX0z7hKvzGfwqCMzXD5",
-            "danceability": 0.669,
-            "duration_ms": 430000,
-            "energy": 0.674,
-            "id": "5IdnX0z7hKvzGfwqCMzXD5",
-            "instrumentalness": 0.889,
-            "key": 6,
-            "liveness": 0.0774,
-            "loudness": -12.623,
-            "mode": 0,
-            "speechiness": 0.0402,
-            "tempo": 127.0,
-            "time_signature": 4,
-            "track_href": "https://api.spotify.com/v1/tracks/5IdnX0z7hKvzGfwqCMzXD5",
-            "type": "audio_features",
-            "uri": "spotify:track:5IdnX0z7hKvzGfwqCMzXD5",
-            "valence": 0.132
-        },
-        "featuring": [
-            [
-                "spotify:artist:3UgO6nB3uAhce1atO8m7Q1",
-                "Dany Rodriguez"
-            ]
-        ],
-        "name": "Hypnotica Hunter - James Ruskin Remix",
-        "piste": 2,
-        "track": "spotify:track:5IdnX0z7hKvzGfwqCMzXD5"
-    },
-    {
-        "album": {
             "name": "5 Years of Gynoid",
             "type": "compilation",
             "uri": "spotify:album:2nl0afnSWlSHSQXEcpPlUs"
@@ -4696,40 +4502,6 @@
         "name": "Metropolis How? - James Ruskin Remix",
         "piste": 47,
         "track": "spotify:track:2KQ2unM5b9egSP2mNRlrFQ"
-    },
-    {
-        "album": {
-            "name": "CLR Presents Mind Sets: Rebekah",
-            "type": "album",
-            "uri": "spotify:album:6R8daXtcJiOcRG9zmUnUrL"
-        },
-        "artist": "spotify:artist:1CxlOLe7rJ6EO7aPMxi9Xx",
-        "artist_str": "James Ruskin",
-        "duration": 319411,
-        "features": {
-            "acousticness": 0.00479,
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/435M2YnbBybf0LHdHMgBe8",
-            "danceability": 0.369,
-            "duration_ms": 319411,
-            "energy": 0.911,
-            "id": "435M2YnbBybf0LHdHMgBe8",
-            "instrumentalness": 0.891,
-            "key": 1,
-            "liveness": 0.146,
-            "loudness": -8.446,
-            "mode": 1,
-            "speechiness": 0.064,
-            "tempo": 129.99,
-            "time_signature": 4,
-            "track_href": "https://api.spotify.com/v1/tracks/435M2YnbBybf0LHdHMgBe8",
-            "type": "audio_features",
-            "uri": "spotify:track:435M2YnbBybf0LHdHMgBe8",
-            "valence": 0.0355
-        },
-        "featuring": [],
-        "name": "Wisdom of Youth",
-        "piste": 17,
-        "track": "spotify:track:435M2YnbBybf0LHdHMgBe8"
     },
     {
         "album": {
@@ -5098,45 +4870,6 @@
     },
     {
         "album": {
-            "name": "Space Ibiza (Compiled by MYNC)",
-            "type": "album",
-            "uri": "spotify:album:305NxAoznaG5C0jXwbmXUQ"
-        },
-        "artist": "spotify:artist:1CxlOLe7rJ6EO7aPMxi9Xx",
-        "artist_str": "James Ruskin",
-        "duration": 409219,
-        "features": {
-            "acousticness": 0.658,
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1rzWLeHOAHUqMDpqklcTGh",
-            "danceability": 0.737,
-            "duration_ms": 409219,
-            "energy": 0.434,
-            "id": "1rzWLeHOAHUqMDpqklcTGh",
-            "instrumentalness": 0.936,
-            "key": 11,
-            "liveness": 0.104,
-            "loudness": -11.339,
-            "mode": 0,
-            "speechiness": 0.121,
-            "tempo": 127.004,
-            "time_signature": 4,
-            "track_href": "https://api.spotify.com/v1/tracks/1rzWLeHOAHUqMDpqklcTGh",
-            "type": "audio_features",
-            "uri": "spotify:track:1rzWLeHOAHUqMDpqklcTGh",
-            "valence": 0.137
-        },
-        "featuring": [
-            [
-                "spotify:artist:56HBXB2JoYhf04oMeko90l",
-                "Mark Broom"
-            ]
-        ],
-        "name": "Merz - Original Mix",
-        "piste": 15,
-        "track": "spotify:track:1rzWLeHOAHUqMDpqklcTGh"
-    },
-    {
-        "album": {
             "name": "EPM 10",
             "type": "compilation",
             "uri": "spotify:album:7gxO3Mb4ovdbaovQa0mRfU"
@@ -5422,45 +5155,6 @@
     },
     {
         "album": {
-            "name": "Traversable Wormhole",
-            "type": "single",
-            "uri": "spotify:album:6Kl3K8Pzqs7zPUaN3eNBZp"
-        },
-        "artist": "spotify:artist:1CxlOLe7rJ6EO7aPMxi9Xx",
-        "artist_str": "James Ruskin",
-        "duration": 387895,
-        "features": {
-            "acousticness": 0.157,
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3JFopnPJ4E5qkn5ksWd5BL",
-            "danceability": 0.729,
-            "duration_ms": 387895,
-            "energy": 0.572,
-            "id": "3JFopnPJ4E5qkn5ksWd5BL",
-            "instrumentalness": 0.938,
-            "key": 2,
-            "liveness": 0.116,
-            "loudness": -13.943,
-            "mode": 1,
-            "speechiness": 0.0437,
-            "tempo": 126.001,
-            "time_signature": 4,
-            "track_href": "https://api.spotify.com/v1/tracks/3JFopnPJ4E5qkn5ksWd5BL",
-            "type": "audio_features",
-            "uri": "spotify:track:3JFopnPJ4E5qkn5ksWd5BL",
-            "valence": 0.0387
-        },
-        "featuring": [
-            [
-                "spotify:artist:174SfsFbceCK1VprauAWWn",
-                "Traversable Wormhole"
-            ]
-        ],
-        "name": "Tachyon - James Ruskin Remix",
-        "piste": 3,
-        "track": "spotify:track:3JFopnPJ4E5qkn5ksWd5BL"
-    },
-    {
-        "album": {
             "name": "Erotic Misery",
             "type": "single",
             "uri": "spotify:album:2fPgLmK5jD34f7ucMK4bry"
@@ -5656,45 +5350,6 @@
     },
     {
         "album": {
-            "name": "The 10th Planet 2",
-            "type": "compilation",
-            "uri": "spotify:album:6YCaEQQyJgIf1SMXqeyCH6"
-        },
-        "artist": "spotify:artist:1CxlOLe7rJ6EO7aPMxi9Xx",
-        "artist_str": "James Ruskin",
-        "duration": 414374,
-        "features": {
-            "acousticness": 0.0266,
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7BAXpa6M3IQHlhTQzGnlUk",
-            "danceability": 0.775,
-            "duration_ms": 414375,
-            "energy": 0.775,
-            "id": "7BAXpa6M3IQHlhTQzGnlUk",
-            "instrumentalness": 0.939,
-            "key": 2,
-            "liveness": 0.112,
-            "loudness": -11.402,
-            "mode": 1,
-            "speechiness": 0.0401,
-            "tempo": 128.009,
-            "time_signature": 4,
-            "track_href": "https://api.spotify.com/v1/tracks/7BAXpa6M3IQHlhTQzGnlUk",
-            "type": "audio_features",
-            "uri": "spotify:track:7BAXpa6M3IQHlhTQzGnlUk",
-            "valence": 0.0377
-        },
-        "featuring": [
-            [
-                "spotify:artist:5C9sHCqYRrpC1foQuhU7jC",
-                "Little Nobody"
-            ]
-        ],
-        "name": "Metropolis How - James Ruskin Remix",
-        "piste": 2,
-        "track": "spotify:track:7BAXpa6M3IQHlhTQzGnlUk"
-    },
-    {
-        "album": {
             "name": "Metropolis How? Remixes",
             "type": "single",
             "uri": "spotify:album:3DCTwTUluDbyJ0ueBli4MQ"
@@ -5731,45 +5386,6 @@
         "name": "MetropolisHow - James Ruskin Remix",
         "piste": 1,
         "track": "spotify:track:36zMEnLsDLjnaaBWdi0KtK"
-    },
-    {
-        "album": {
-            "name": "Metropolis How? Remixes",
-            "type": "single",
-            "uri": "spotify:album:6rWgZQ8M2KxthOzUu22ZXS"
-        },
-        "artist": "spotify:artist:1CxlOLe7rJ6EO7aPMxi9Xx",
-        "artist_str": "James Ruskin",
-        "duration": 414374,
-        "features": {
-            "acousticness": 0.0266,
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2qtzJvDl5p9jCp5XzZzcMI",
-            "danceability": 0.775,
-            "duration_ms": 414375,
-            "energy": 0.775,
-            "id": "2qtzJvDl5p9jCp5XzZzcMI",
-            "instrumentalness": 0.939,
-            "key": 2,
-            "liveness": 0.112,
-            "loudness": -11.402,
-            "mode": 1,
-            "speechiness": 0.0401,
-            "tempo": 128.009,
-            "time_signature": 4,
-            "track_href": "https://api.spotify.com/v1/tracks/2qtzJvDl5p9jCp5XzZzcMI",
-            "type": "audio_features",
-            "uri": "spotify:track:2qtzJvDl5p9jCp5XzZzcMI",
-            "valence": 0.0377
-        },
-        "featuring": [
-            [
-                "spotify:artist:5C9sHCqYRrpC1foQuhU7jC",
-                "Little Nobody"
-            ]
-        ],
-        "name": "Metropolis How? - James Ruskin Remix",
-        "piste": 1,
-        "track": "spotify:track:2qtzJvDl5p9jCp5XzZzcMI"
     },
     {
         "album": {
@@ -5992,40 +5608,6 @@
     },
     {
         "album": {
-            "name": "Rxxistance Vol. 3: Essential, Mixed by Stoned Baby",
-            "type": "compilation",
-            "uri": "spotify:album:2LqvvmbkCAwWuY6c6GsqIw"
-        },
-        "artist": "spotify:artist:1CxlOLe7rJ6EO7aPMxi9Xx",
-        "artist_str": "James Ruskin",
-        "duration": 207920,
-        "features": {
-            "acousticness": 0.0398,
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/73qMnnQkxsB7FHAqCHDDQL",
-            "danceability": 0.634,
-            "duration_ms": 207920,
-            "energy": 0.985,
-            "id": "73qMnnQkxsB7FHAqCHDDQL",
-            "instrumentalness": 0.875,
-            "key": 7,
-            "liveness": 0.394,
-            "loudness": -11.402,
-            "mode": 1,
-            "speechiness": 0.0551,
-            "tempo": 139.638,
-            "time_signature": 4,
-            "track_href": "https://api.spotify.com/v1/tracks/73qMnnQkxsB7FHAqCHDDQL",
-            "type": "audio_features",
-            "uri": "spotify:track:73qMnnQkxsB7FHAqCHDDQL",
-            "valence": 0.327
-        },
-        "featuring": [],
-        "name": "After Dark",
-        "piste": 9,
-        "track": "spotify:track:73qMnnQkxsB7FHAqCHDDQL"
-    },
-    {
-        "album": {
             "name": "Rxxistance Vol. 2: Fusion, Mixed by Oliver Ho (Continuous Mix)",
             "type": "compilation",
             "uri": "spotify:album:3NJxLrhesFhCDRRQiXMDuS"
@@ -6057,40 +5639,6 @@
         "name": "Prevention Beyond Cause",
         "piste": 16,
         "track": "spotify:track:7FAXowVMGpa58fgEvGcA75"
-    },
-    {
-        "album": {
-            "name": "Rxxistance Vol. 2: Fusion, Mixed by Oliver Ho",
-            "type": "compilation",
-            "uri": "spotify:album:1eTpA4Y6G8pLkDwkazoDHW"
-        },
-        "artist": "spotify:artist:1CxlOLe7rJ6EO7aPMxi9Xx",
-        "artist_str": "James Ruskin",
-        "duration": 271560,
-        "features": {
-            "acousticness": 0.0487,
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3uYBHUNwXNgYZnRNlAQfaV",
-            "danceability": 0.67,
-            "duration_ms": 271560,
-            "energy": 0.789,
-            "id": "3uYBHUNwXNgYZnRNlAQfaV",
-            "instrumentalness": 0.859,
-            "key": 10,
-            "liveness": 0.0917,
-            "loudness": -18.462,
-            "mode": 0,
-            "speechiness": 0.0759,
-            "tempo": 141.399,
-            "time_signature": 4,
-            "track_href": "https://api.spotify.com/v1/tracks/3uYBHUNwXNgYZnRNlAQfaV",
-            "type": "audio_features",
-            "uri": "spotify:track:3uYBHUNwXNgYZnRNlAQfaV",
-            "valence": 0.27
-        },
-        "featuring": [],
-        "name": "Prevention Beyond Cause",
-        "piste": 16,
-        "track": "spotify:track:3uYBHUNwXNgYZnRNlAQfaV"
     },
     {
         "album": {

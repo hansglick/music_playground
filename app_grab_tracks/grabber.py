@@ -31,6 +31,7 @@ def extract_tracks(args):
 				stockage.append(item["name"].strip().lower())
 				deduplicated_discography.append(item)
 
+		print("Nombre de tracks :",len(deduplicated_discography))
 		print("Save JSON File")
 		with open(filename, 'w') as outfile:
 			json.dump(deduplicated_discography, outfile,indent=4, sort_keys=True)
